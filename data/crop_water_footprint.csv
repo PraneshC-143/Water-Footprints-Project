@@ -1,0 +1,4801 @@
+state,crop,year,water_m3_per_ton
+Andhra Pradesh,Rice,2010,2844.0
+Andhra Pradesh,Rice,2011,2680.0
+Andhra Pradesh,Rice,2012,2382.5
+Andhra Pradesh,Rice,2013,2558.8
+Andhra Pradesh,Rice,2014,2757.5
+Andhra Pradesh,Rice,2015,2230.1
+Andhra Pradesh,Rice,2016,2526.9
+Andhra Pradesh,Rice,2017,2590.6
+Andhra Pradesh,Rice,2018,2485.4
+Andhra Pradesh,Rice,2019,2022.1
+Andhra Pradesh,Rice,2020,2178.3
+Andhra Pradesh,Rice,2021,2356.5
+Andhra Pradesh,Rice,2022,2509.7
+Andhra Pradesh,Rice,2023,2651.3
+Andhra Pradesh,Rice,2024,2689.5
+Andhra Pradesh,Rice,2025,2901.3
+Andhra Pradesh,Wheat,2010,1418.4
+Andhra Pradesh,Wheat,2011,1459.0
+Andhra Pradesh,Wheat,2012,1298.4
+Andhra Pradesh,Wheat,2013,1736.0
+Andhra Pradesh,Wheat,2014,1501.8
+Andhra Pradesh,Wheat,2015,1554.0
+Andhra Pradesh,Wheat,2016,1351.1
+Andhra Pradesh,Wheat,2017,1159.7
+Andhra Pradesh,Wheat,2018,1546.7
+Andhra Pradesh,Wheat,2019,1740.5
+Andhra Pradesh,Wheat,2020,1327.5
+Andhra Pradesh,Wheat,2021,1577.4
+Andhra Pradesh,Wheat,2022,1565.6
+Andhra Pradesh,Wheat,2023,1551.2
+Andhra Pradesh,Wheat,2024,1469.6
+Andhra Pradesh,Wheat,2025,1504.9
+Andhra Pradesh,Maize,2010,832.1
+Andhra Pradesh,Maize,2011,850.9
+Andhra Pradesh,Maize,2012,962.9
+Andhra Pradesh,Maize,2013,806.2
+Andhra Pradesh,Maize,2014,758.2
+Andhra Pradesh,Maize,2015,774.9
+Andhra Pradesh,Maize,2016,820.5
+Andhra Pradesh,Maize,2017,1004.9
+Andhra Pradesh,Maize,2018,786.9
+Andhra Pradesh,Maize,2019,945.0
+Andhra Pradesh,Maize,2020,912.8
+Andhra Pradesh,Maize,2021,1106.6
+Andhra Pradesh,Maize,2022,882.9
+Andhra Pradesh,Maize,2023,923.1
+Andhra Pradesh,Maize,2024,782.2
+Andhra Pradesh,Maize,2025,868.7
+Andhra Pradesh,Sugarcane,2010,15624.0
+Andhra Pradesh,Sugarcane,2011,15497.1
+Andhra Pradesh,Sugarcane,2012,15382.7
+Andhra Pradesh,Sugarcane,2013,15883.5
+Andhra Pradesh,Sugarcane,2014,18060.1
+Andhra Pradesh,Sugarcane,2015,14153.2
+Andhra Pradesh,Sugarcane,2016,13583.7
+Andhra Pradesh,Sugarcane,2017,15646.9
+Andhra Pradesh,Sugarcane,2018,13098.4
+Andhra Pradesh,Sugarcane,2019,13449.0
+Andhra Pradesh,Sugarcane,2020,15627.4
+Andhra Pradesh,Sugarcane,2021,14318.5
+Andhra Pradesh,Sugarcane,2022,15786.5
+Andhra Pradesh,Sugarcane,2023,16152.3
+Andhra Pradesh,Sugarcane,2024,16616.5
+Andhra Pradesh,Sugarcane,2025,15771.2
+Andhra Pradesh,Cotton,2010,7834.3
+Andhra Pradesh,Cotton,2011,6686.0
+Andhra Pradesh,Cotton,2012,6929.1
+Andhra Pradesh,Cotton,2013,6244.0
+Andhra Pradesh,Cotton,2014,6330.7
+Andhra Pradesh,Cotton,2015,6638.9
+Andhra Pradesh,Cotton,2016,7515.4
+Andhra Pradesh,Cotton,2017,6240.9
+Andhra Pradesh,Cotton,2018,8207.5
+Andhra Pradesh,Cotton,2019,6114.8
+Andhra Pradesh,Cotton,2020,6996.3
+Andhra Pradesh,Cotton,2021,8163.4
+Andhra Pradesh,Cotton,2022,8511.5
+Andhra Pradesh,Cotton,2023,7599.6
+Andhra Pradesh,Cotton,2024,8545.1
+Andhra Pradesh,Cotton,2025,7826.8
+Andhra Pradesh,Pulses,2010,1071.9
+Andhra Pradesh,Pulses,2011,1137.4
+Andhra Pradesh,Pulses,2012,1034.8
+Andhra Pradesh,Pulses,2013,1272.2
+Andhra Pradesh,Pulses,2014,1241.4
+Andhra Pradesh,Pulses,2015,1338.3
+Andhra Pradesh,Pulses,2016,1098.6
+Andhra Pradesh,Pulses,2017,1333.0
+Andhra Pradesh,Pulses,2018,1405.5
+Andhra Pradesh,Pulses,2019,1363.1
+Andhra Pradesh,Pulses,2020,1102.1
+Andhra Pradesh,Pulses,2021,1147.4
+Andhra Pradesh,Pulses,2022,1084.2
+Andhra Pradesh,Pulses,2023,1213.0
+Andhra Pradesh,Pulses,2024,1157.6
+Andhra Pradesh,Pulses,2025,1110.9
+Andhra Pradesh,Soybean,2010,873.7
+Andhra Pradesh,Soybean,2011,1030.6
+Andhra Pradesh,Soybean,2012,947.7
+Andhra Pradesh,Soybean,2013,868.0
+Andhra Pradesh,Soybean,2014,810.7
+Andhra Pradesh,Soybean,2015,867.2
+Andhra Pradesh,Soybean,2016,965.4
+Andhra Pradesh,Soybean,2017,988.1
+Andhra Pradesh,Soybean,2018,701.1
+Andhra Pradesh,Soybean,2019,844.5
+Andhra Pradesh,Soybean,2020,761.1
+Andhra Pradesh,Soybean,2021,1132.1
+Andhra Pradesh,Soybean,2022,914.5
+Andhra Pradesh,Soybean,2023,836.5
+Andhra Pradesh,Soybean,2024,761.1
+Andhra Pradesh,Soybean,2025,1145.5
+Andhra Pradesh,Potato,2010,375.6
+Andhra Pradesh,Potato,2011,554.3
+Andhra Pradesh,Potato,2012,576.1
+Andhra Pradesh,Potato,2013,468.8
+Andhra Pradesh,Potato,2014,554.4
+Andhra Pradesh,Potato,2015,445.2
+Andhra Pradesh,Potato,2016,604.6
+Andhra Pradesh,Potato,2017,589.0
+Andhra Pradesh,Potato,2018,475.2
+Andhra Pradesh,Potato,2019,521.1
+Andhra Pradesh,Potato,2020,465.0
+Andhra Pradesh,Potato,2021,419.4
+Andhra Pradesh,Potato,2022,499.0
+Andhra Pradesh,Potato,2023,533.7
+Andhra Pradesh,Potato,2024,489.1
+Andhra Pradesh,Potato,2025,415.9
+Andhra Pradesh,Tea,2010,5733.1
+Andhra Pradesh,Tea,2011,7013.9
+Andhra Pradesh,Tea,2012,6751.4
+Andhra Pradesh,Tea,2013,6106.2
+Andhra Pradesh,Tea,2014,6326.6
+Andhra Pradesh,Tea,2015,5968.3
+Andhra Pradesh,Tea,2016,5804.9
+Andhra Pradesh,Tea,2017,4954.1
+Andhra Pradesh,Tea,2018,6498.3
+Andhra Pradesh,Tea,2019,5637.7
+Andhra Pradesh,Tea,2020,5653.9
+Andhra Pradesh,Tea,2021,5553.3
+Andhra Pradesh,Tea,2022,5512.1
+Andhra Pradesh,Tea,2023,5420.3
+Andhra Pradesh,Tea,2024,6092.2
+Andhra Pradesh,Tea,2025,5602.5
+Andhra Pradesh,Groundnut,2010,1906.5
+Andhra Pradesh,Groundnut,2011,2123.0
+Andhra Pradesh,Groundnut,2012,2036.3
+Andhra Pradesh,Groundnut,2013,2175.6
+Andhra Pradesh,Groundnut,2014,2570.1
+Andhra Pradesh,Groundnut,2015,2368.0
+Andhra Pradesh,Groundnut,2016,2160.3
+Andhra Pradesh,Groundnut,2017,2092.8
+Andhra Pradesh,Groundnut,2018,1735.2
+Andhra Pradesh,Groundnut,2019,1760.1
+Andhra Pradesh,Groundnut,2020,2421.3
+Andhra Pradesh,Groundnut,2021,2201.9
+Andhra Pradesh,Groundnut,2022,2229.5
+Andhra Pradesh,Groundnut,2023,2023.4
+Andhra Pradesh,Groundnut,2024,1844.8
+Andhra Pradesh,Groundnut,2025,1765.4
+Arunachal Pradesh,Rice,2010,2432.3
+Arunachal Pradesh,Rice,2011,2741.3
+Arunachal Pradesh,Rice,2012,2337.1
+Arunachal Pradesh,Rice,2013,2381.3
+Arunachal Pradesh,Rice,2014,2358.9
+Arunachal Pradesh,Rice,2015,3102.6
+Arunachal Pradesh,Rice,2016,2881.7
+Arunachal Pradesh,Rice,2017,2484.4
+Arunachal Pradesh,Rice,2018,2795.9
+Arunachal Pradesh,Rice,2019,2457.1
+Arunachal Pradesh,Rice,2020,2475.5
+Arunachal Pradesh,Rice,2021,2668.6
+Arunachal Pradesh,Rice,2022,2095.5
+Arunachal Pradesh,Rice,2023,2438.9
+Arunachal Pradesh,Rice,2024,2455.5
+Arunachal Pradesh,Rice,2025,2373.8
+Arunachal Pradesh,Wheat,2010,1489.2
+Arunachal Pradesh,Wheat,2011,1396.6
+Arunachal Pradesh,Wheat,2012,1233.1
+Arunachal Pradesh,Wheat,2013,1483.6
+Arunachal Pradesh,Wheat,2014,1516.3
+Arunachal Pradesh,Wheat,2015,1406.8
+Arunachal Pradesh,Wheat,2016,1460.8
+Arunachal Pradesh,Wheat,2017,1576.6
+Arunachal Pradesh,Wheat,2018,1678.3
+Arunachal Pradesh,Wheat,2019,1384.4
+Arunachal Pradesh,Wheat,2020,1492.8
+Arunachal Pradesh,Wheat,2021,1724.5
+Arunachal Pradesh,Wheat,2022,1455.7
+Arunachal Pradesh,Wheat,2023,1722.5
+Arunachal Pradesh,Wheat,2024,1468.1
+Arunachal Pradesh,Wheat,2025,1489.9
+Arunachal Pradesh,Maize,2010,846.7
+Arunachal Pradesh,Maize,2011,1032.9
+Arunachal Pradesh,Maize,2012,887.4
+Arunachal Pradesh,Maize,2013,971.5
+Arunachal Pradesh,Maize,2014,819.4
+Arunachal Pradesh,Maize,2015,783.2
+Arunachal Pradesh,Maize,2016,746.6
+Arunachal Pradesh,Maize,2017,951.5
+Arunachal Pradesh,Maize,2018,724.7
+Arunachal Pradesh,Maize,2019,969.2
+Arunachal Pradesh,Maize,2020,776.0
+Arunachal Pradesh,Maize,2021,751.8
+Arunachal Pradesh,Maize,2022,742.3
+Arunachal Pradesh,Maize,2023,878.0
+Arunachal Pradesh,Maize,2024,974.4
+Arunachal Pradesh,Maize,2025,869.3
+Arunachal Pradesh,Sugarcane,2010,19336.5
+Arunachal Pradesh,Sugarcane,2011,13749.1
+Arunachal Pradesh,Sugarcane,2012,12941.2
+Arunachal Pradesh,Sugarcane,2013,14669.7
+Arunachal Pradesh,Sugarcane,2014,15988.8
+Arunachal Pradesh,Sugarcane,2015,11418.5
+Arunachal Pradesh,Sugarcane,2016,12978.3
+Arunachal Pradesh,Sugarcane,2017,15024.2
+Arunachal Pradesh,Sugarcane,2018,12692.5
+Arunachal Pradesh,Sugarcane,2019,14877.4
+Arunachal Pradesh,Sugarcane,2020,14718.9
+Arunachal Pradesh,Sugarcane,2021,12214.0
+Arunachal Pradesh,Sugarcane,2022,16936.2
+Arunachal Pradesh,Sugarcane,2023,11758.5
+Arunachal Pradesh,Sugarcane,2024,13675.0
+Arunachal Pradesh,Sugarcane,2025,15298.7
+Arunachal Pradesh,Cotton,2010,7884.3
+Arunachal Pradesh,Cotton,2011,6096.0
+Arunachal Pradesh,Cotton,2012,7926.2
+Arunachal Pradesh,Cotton,2013,6329.6
+Arunachal Pradesh,Cotton,2014,6628.1
+Arunachal Pradesh,Cotton,2015,7400.7
+Arunachal Pradesh,Cotton,2016,6935.4
+Arunachal Pradesh,Cotton,2017,6130.3
+Arunachal Pradesh,Cotton,2018,6731.1
+Arunachal Pradesh,Cotton,2019,6389.9
+Arunachal Pradesh,Cotton,2020,7743.1
+Arunachal Pradesh,Cotton,2021,7799.0
+Arunachal Pradesh,Cotton,2022,6234.6
+Arunachal Pradesh,Cotton,2023,6473.7
+Arunachal Pradesh,Cotton,2024,7198.5
+Arunachal Pradesh,Cotton,2025,7203.3
+Arunachal Pradesh,Pulses,2010,1386.9
+Arunachal Pradesh,Pulses,2011,1349.3
+Arunachal Pradesh,Pulses,2012,1353.8
+Arunachal Pradesh,Pulses,2013,1451.3
+Arunachal Pradesh,Pulses,2014,1293.1
+Arunachal Pradesh,Pulses,2015,1191.5
+Arunachal Pradesh,Pulses,2016,1238.8
+Arunachal Pradesh,Pulses,2017,1239.8
+Arunachal Pradesh,Pulses,2018,1429.6
+Arunachal Pradesh,Pulses,2019,1310.7
+Arunachal Pradesh,Pulses,2020,1168.5
+Arunachal Pradesh,Pulses,2021,1320.8
+Arunachal Pradesh,Pulses,2022,1169.0
+Arunachal Pradesh,Pulses,2023,1245.6
+Arunachal Pradesh,Pulses,2024,1288.3
+Arunachal Pradesh,Pulses,2025,1318.3
+Arunachal Pradesh,Soybean,2010,852.6
+Arunachal Pradesh,Soybean,2011,998.0
+Arunachal Pradesh,Soybean,2012,894.2
+Arunachal Pradesh,Soybean,2013,863.6
+Arunachal Pradesh,Soybean,2014,991.1
+Arunachal Pradesh,Soybean,2015,977.2
+Arunachal Pradesh,Soybean,2016,934.5
+Arunachal Pradesh,Soybean,2017,974.0
+Arunachal Pradesh,Soybean,2018,1072.7
+Arunachal Pradesh,Soybean,2019,1035.1
+Arunachal Pradesh,Soybean,2020,851.3
+Arunachal Pradesh,Soybean,2021,1024.8
+Arunachal Pradesh,Soybean,2022,937.1
+Arunachal Pradesh,Soybean,2023,871.7
+Arunachal Pradesh,Soybean,2024,894.9
+Arunachal Pradesh,Soybean,2025,821.5
+Arunachal Pradesh,Potato,2010,508.7
+Arunachal Pradesh,Potato,2011,602.3
+Arunachal Pradesh,Potato,2012,488.8
+Arunachal Pradesh,Potato,2013,422.5
+Arunachal Pradesh,Potato,2014,474.1
+Arunachal Pradesh,Potato,2015,471.6
+Arunachal Pradesh,Potato,2016,485.8
+Arunachal Pradesh,Potato,2017,539.9
+Arunachal Pradesh,Potato,2018,421.6
+Arunachal Pradesh,Potato,2019,434.4
+Arunachal Pradesh,Potato,2020,476.7
+Arunachal Pradesh,Potato,2021,450.1
+Arunachal Pradesh,Potato,2022,520.0
+Arunachal Pradesh,Potato,2023,451.7
+Arunachal Pradesh,Potato,2024,442.2
+Arunachal Pradesh,Potato,2025,550.3
+Arunachal Pradesh,Tea,2010,6858.7
+Arunachal Pradesh,Tea,2011,6648.1
+Arunachal Pradesh,Tea,2012,4783.3
+Arunachal Pradesh,Tea,2013,5362.8
+Arunachal Pradesh,Tea,2014,6853.4
+Arunachal Pradesh,Tea,2015,6088.1
+Arunachal Pradesh,Tea,2016,6854.5
+Arunachal Pradesh,Tea,2017,5566.8
+Arunachal Pradesh,Tea,2018,6095.0
+Arunachal Pradesh,Tea,2019,5909.7
+Arunachal Pradesh,Tea,2020,6285.4
+Arunachal Pradesh,Tea,2021,6338.9
+Arunachal Pradesh,Tea,2022,5681.1
+Arunachal Pradesh,Tea,2023,6497.6
+Arunachal Pradesh,Tea,2024,5456.9
+Arunachal Pradesh,Tea,2025,6003.1
+Arunachal Pradesh,Groundnut,2010,1821.9
+Arunachal Pradesh,Groundnut,2011,2085.3
+Arunachal Pradesh,Groundnut,2012,1737.3
+Arunachal Pradesh,Groundnut,2013,2185.0
+Arunachal Pradesh,Groundnut,2014,1849.9
+Arunachal Pradesh,Groundnut,2015,2053.1
+Arunachal Pradesh,Groundnut,2016,2060.8
+Arunachal Pradesh,Groundnut,2017,2192.4
+Arunachal Pradesh,Groundnut,2018,1908.2
+Arunachal Pradesh,Groundnut,2019,2060.1
+Arunachal Pradesh,Groundnut,2020,1940.7
+Arunachal Pradesh,Groundnut,2021,1864.4
+Arunachal Pradesh,Groundnut,2022,2330.0
+Arunachal Pradesh,Groundnut,2023,1730.8
+Arunachal Pradesh,Groundnut,2024,1802.1
+Arunachal Pradesh,Groundnut,2025,2159.3
+Assam,Rice,2010,2522.6
+Assam,Rice,2011,2473.8
+Assam,Rice,2012,2119.5
+Assam,Rice,2013,2710.9
+Assam,Rice,2014,2639.6
+Assam,Rice,2015,2680.4
+Assam,Rice,2016,2321.8
+Assam,Rice,2017,2717.5
+Assam,Rice,2018,2718.8
+Assam,Rice,2019,2086.3
+Assam,Rice,2020,2811.1
+Assam,Rice,2021,2342.2
+Assam,Rice,2022,2150.7
+Assam,Rice,2023,2062.9
+Assam,Rice,2024,2851.5
+Assam,Rice,2025,2027.7
+Assam,Wheat,2010,1662.4
+Assam,Wheat,2011,1638.3
+Assam,Wheat,2012,1485.4
+Assam,Wheat,2013,1516.2
+Assam,Wheat,2014,1612.3
+Assam,Wheat,2015,1417.2
+Assam,Wheat,2016,1460.6
+Assam,Wheat,2017,1679.1
+Assam,Wheat,2018,1293.7
+Assam,Wheat,2019,1155.9
+Assam,Wheat,2020,1509.7
+Assam,Wheat,2021,1312.9
+Assam,Wheat,2022,1528.7
+Assam,Wheat,2023,1270.4
+Assam,Wheat,2024,1102.0
+Assam,Wheat,2025,1559.6
+Assam,Maize,2010,844.5
+Assam,Maize,2011,903.4
+Assam,Maize,2012,932.4
+Assam,Maize,2013,957.1
+Assam,Maize,2014,732.4
+Assam,Maize,2015,892.5
+Assam,Maize,2016,1037.3
+Assam,Maize,2017,945.0
+Assam,Maize,2018,941.2
+Assam,Maize,2019,897.2
+Assam,Maize,2020,850.1
+Assam,Maize,2021,842.3
+Assam,Maize,2022,788.5
+Assam,Maize,2023,817.0
+Assam,Maize,2024,825.7
+Assam,Maize,2025,759.7
+Assam,Sugarcane,2010,14424.1
+Assam,Sugarcane,2011,17181.5
+Assam,Sugarcane,2012,16557.0
+Assam,Sugarcane,2013,14832.1
+Assam,Sugarcane,2014,15743.2
+Assam,Sugarcane,2015,13791.9
+Assam,Sugarcane,2016,14604.4
+Assam,Sugarcane,2017,12718.3
+Assam,Sugarcane,2018,15097.8
+Assam,Sugarcane,2019,12844.8
+Assam,Sugarcane,2020,19177.1
+Assam,Sugarcane,2021,12936.8
+Assam,Sugarcane,2022,14727.2
+Assam,Sugarcane,2023,15071.8
+Assam,Sugarcane,2024,13713.6
+Assam,Sugarcane,2025,12486.8
+Assam,Cotton,2010,7148.8
+Assam,Cotton,2011,5681.2
+Assam,Cotton,2012,6814.2
+Assam,Cotton,2013,6263.6
+Assam,Cotton,2014,7484.3
+Assam,Cotton,2015,7006.9
+Assam,Cotton,2016,7883.7
+Assam,Cotton,2017,6507.6
+Assam,Cotton,2018,5450.6
+Assam,Cotton,2019,7324.5
+Assam,Cotton,2020,5661.5
+Assam,Cotton,2021,9299.1
+Assam,Cotton,2022,7607.3
+Assam,Cotton,2023,7174.3
+Assam,Cotton,2024,6934.2
+Assam,Cotton,2025,5676.1
+Assam,Pulses,2010,1182.4
+Assam,Pulses,2011,1118.3
+Assam,Pulses,2012,1149.0
+Assam,Pulses,2013,1249.6
+Assam,Pulses,2014,876.6
+Assam,Pulses,2015,1267.1
+Assam,Pulses,2016,1259.4
+Assam,Pulses,2017,1170.6
+Assam,Pulses,2018,1309.7
+Assam,Pulses,2019,1071.8
+Assam,Pulses,2020,1476.5
+Assam,Pulses,2021,1118.5
+Assam,Pulses,2022,1068.9
+Assam,Pulses,2023,1209.3
+Assam,Pulses,2024,817.9
+Assam,Pulses,2025,1153.5
+Assam,Soybean,2010,976.3
+Assam,Soybean,2011,924.3
+Assam,Soybean,2012,775.2
+Assam,Soybean,2013,962.6
+Assam,Soybean,2014,879.2
+Assam,Soybean,2015,871.9
+Assam,Soybean,2016,955.2
+Assam,Soybean,2017,1003.1
+Assam,Soybean,2018,1037.0
+Assam,Soybean,2019,1071.9
+Assam,Soybean,2020,1087.0
+Assam,Soybean,2021,910.5
+Assam,Soybean,2022,936.7
+Assam,Soybean,2023,1021.3
+Assam,Soybean,2024,1014.1
+Assam,Soybean,2025,1197.6
+Assam,Potato,2010,464.1
+Assam,Potato,2011,569.9
+Assam,Potato,2012,422.6
+Assam,Potato,2013,472.7
+Assam,Potato,2014,466.1
+Assam,Potato,2015,480.2
+Assam,Potato,2016,542.9
+Assam,Potato,2017,504.9
+Assam,Potato,2018,444.7
+Assam,Potato,2019,551.0
+Assam,Potato,2020,418.2
+Assam,Potato,2021,493.4
+Assam,Potato,2022,465.4
+Assam,Potato,2023,474.6
+Assam,Potato,2024,427.2
+Assam,Potato,2025,500.7
+Assam,Tea,2010,5391.5
+Assam,Tea,2011,5497.2
+Assam,Tea,2012,6557.2
+Assam,Tea,2013,5215.5
+Assam,Tea,2014,5953.5
+Assam,Tea,2015,6184.0
+Assam,Tea,2016,6885.0
+Assam,Tea,2017,5024.7
+Assam,Tea,2018,5340.0
+Assam,Tea,2019,5784.1
+Assam,Tea,2020,6728.3
+Assam,Tea,2021,6983.6
+Assam,Tea,2022,6563.3
+Assam,Tea,2023,5923.1
+Assam,Tea,2024,7427.3
+Assam,Tea,2025,5320.8
+Assam,Groundnut,2010,2137.3
+Assam,Groundnut,2011,1774.6
+Assam,Groundnut,2012,1897.7
+Assam,Groundnut,2013,2340.8
+Assam,Groundnut,2014,2032.4
+Assam,Groundnut,2015,1728.9
+Assam,Groundnut,2016,1809.8
+Assam,Groundnut,2017,2209.7
+Assam,Groundnut,2018,2047.1
+Assam,Groundnut,2019,2181.8
+Assam,Groundnut,2020,2041.2
+Assam,Groundnut,2021,2158.6
+Assam,Groundnut,2022,1955.1
+Assam,Groundnut,2023,2361.2
+Assam,Groundnut,2024,2393.0
+Assam,Groundnut,2025,1981.9
+Bihar,Rice,2010,2662.0
+Bihar,Rice,2011,2188.2
+Bihar,Rice,2012,2851.8
+Bihar,Rice,2013,2376.5
+Bihar,Rice,2014,2793.1
+Bihar,Rice,2015,2550.0
+Bihar,Rice,2016,2842.1
+Bihar,Rice,2017,2248.7
+Bihar,Rice,2018,1913.6
+Bihar,Rice,2019,2284.3
+Bihar,Rice,2020,2500.7
+Bihar,Rice,2021,2672.9
+Bihar,Rice,2022,2840.4
+Bihar,Rice,2023,2816.0
+Bihar,Rice,2024,1839.7
+Bihar,Rice,2025,2845.3
+Bihar,Wheat,2010,1533.9
+Bihar,Wheat,2011,1410.8
+Bihar,Wheat,2012,1421.3
+Bihar,Wheat,2013,1515.2
+Bihar,Wheat,2014,1582.8
+Bihar,Wheat,2015,1484.1
+Bihar,Wheat,2016,1461.2
+Bihar,Wheat,2017,1388.8
+Bihar,Wheat,2018,1330.7
+Bihar,Wheat,2019,1193.6
+Bihar,Wheat,2020,1452.1
+Bihar,Wheat,2021,1224.6
+Bihar,Wheat,2022,1330.6
+Bihar,Wheat,2023,1250.5
+Bihar,Wheat,2024,1350.7
+Bihar,Wheat,2025,1214.8
+Bihar,Maize,2010,1022.8
+Bihar,Maize,2011,971.6
+Bihar,Maize,2012,899.5
+Bihar,Maize,2013,899.0
+Bihar,Maize,2014,1017.2
+Bihar,Maize,2015,854.8
+Bihar,Maize,2016,862.9
+Bihar,Maize,2017,754.0
+Bihar,Maize,2018,865.7
+Bihar,Maize,2019,818.2
+Bihar,Maize,2020,706.6
+Bihar,Maize,2021,920.4
+Bihar,Maize,2022,844.3
+Bihar,Maize,2023,1006.6
+Bihar,Maize,2024,890.9
+Bihar,Maize,2025,803.9
+Bihar,Sugarcane,2010,15089.2
+Bihar,Sugarcane,2011,10916.5
+Bihar,Sugarcane,2012,17033.9
+Bihar,Sugarcane,2013,15058.9
+Bihar,Sugarcane,2014,16392.2
+Bihar,Sugarcane,2015,15296.1
+Bihar,Sugarcane,2016,13545.1
+Bihar,Sugarcane,2017,14205.8
+Bihar,Sugarcane,2018,13846.6
+Bihar,Sugarcane,2019,13108.6
+Bihar,Sugarcane,2020,14433.5
+Bihar,Sugarcane,2021,12319.5
+Bihar,Sugarcane,2022,12107.9
+Bihar,Sugarcane,2023,15303.8
+Bihar,Sugarcane,2024,14931.2
+Bihar,Sugarcane,2025,12212.1
+Bihar,Cotton,2010,8543.5
+Bihar,Cotton,2011,8726.6
+Bihar,Cotton,2012,7427.4
+Bihar,Cotton,2013,8337.7
+Bihar,Cotton,2014,7033.8
+Bihar,Cotton,2015,7232.0
+Bihar,Cotton,2016,7215.7
+Bihar,Cotton,2017,6375.1
+Bihar,Cotton,2018,7337.7
+Bihar,Cotton,2019,6188.9
+Bihar,Cotton,2020,5772.3
+Bihar,Cotton,2021,7340.6
+Bihar,Cotton,2022,8383.8
+Bihar,Cotton,2023,6865.5
+Bihar,Cotton,2024,7249.9
+Bihar,Cotton,2025,6585.7
+Bihar,Pulses,2010,1030.4
+Bihar,Pulses,2011,1299.6
+Bihar,Pulses,2012,981.5
+Bihar,Pulses,2013,1386.0
+Bihar,Pulses,2014,991.5
+Bihar,Pulses,2015,1075.8
+Bihar,Pulses,2016,873.7
+Bihar,Pulses,2017,1135.0
+Bihar,Pulses,2018,1119.2
+Bihar,Pulses,2019,1077.6
+Bihar,Pulses,2020,1038.2
+Bihar,Pulses,2021,993.1
+Bihar,Pulses,2022,1243.5
+Bihar,Pulses,2023,1192.9
+Bihar,Pulses,2024,1215.1
+Bihar,Pulses,2025,1025.3
+Bihar,Soybean,2010,720.6
+Bihar,Soybean,2011,1007.6
+Bihar,Soybean,2012,1105.9
+Bihar,Soybean,2013,966.8
+Bihar,Soybean,2014,861.6
+Bihar,Soybean,2015,864.4
+Bihar,Soybean,2016,1090.2
+Bihar,Soybean,2017,1030.2
+Bihar,Soybean,2018,779.9
+Bihar,Soybean,2019,919.2
+Bihar,Soybean,2020,1026.4
+Bihar,Soybean,2021,877.7
+Bihar,Soybean,2022,1030.5
+Bihar,Soybean,2023,922.6
+Bihar,Soybean,2024,961.8
+Bihar,Soybean,2025,795.9
+Bihar,Potato,2010,539.0
+Bihar,Potato,2011,429.1
+Bihar,Potato,2012,491.5
+Bihar,Potato,2013,514.8
+Bihar,Potato,2014,562.9
+Bihar,Potato,2015,464.6
+Bihar,Potato,2016,526.8
+Bihar,Potato,2017,437.5
+Bihar,Potato,2018,422.1
+Bihar,Potato,2019,539.8
+Bihar,Potato,2020,428.6
+Bihar,Potato,2021,488.6
+Bihar,Potato,2022,389.5
+Bihar,Potato,2023,527.6
+Bihar,Potato,2024,466.3
+Bihar,Potato,2025,533.2
+Bihar,Tea,2010,6718.6
+Bihar,Tea,2011,5415.4
+Bihar,Tea,2012,6593.4
+Bihar,Tea,2013,4863.5
+Bihar,Tea,2014,6239.4
+Bihar,Tea,2015,6927.0
+Bihar,Tea,2016,7169.2
+Bihar,Tea,2017,5817.6
+Bihar,Tea,2018,6661.6
+Bihar,Tea,2019,6474.8
+Bihar,Tea,2020,5325.4
+Bihar,Tea,2021,5598.3
+Bihar,Tea,2022,5194.1
+Bihar,Tea,2023,5144.7
+Bihar,Tea,2024,5468.8
+Bihar,Tea,2025,6619.8
+Bihar,Groundnut,2010,2303.9
+Bihar,Groundnut,2011,2433.1
+Bihar,Groundnut,2012,2142.4
+Bihar,Groundnut,2013,2274.0
+Bihar,Groundnut,2014,1917.9
+Bihar,Groundnut,2015,2230.5
+Bihar,Groundnut,2016,2062.1
+Bihar,Groundnut,2017,2112.1
+Bihar,Groundnut,2018,1708.4
+Bihar,Groundnut,2019,1780.5
+Bihar,Groundnut,2020,1895.7
+Bihar,Groundnut,2021,1499.5
+Bihar,Groundnut,2022,2295.1
+Bihar,Groundnut,2023,2218.1
+Bihar,Groundnut,2024,2121.3
+Bihar,Groundnut,2025,1938.6
+Chhattisgarh,Rice,2010,2776.9
+Chhattisgarh,Rice,2011,2731.5
+Chhattisgarh,Rice,2012,2395.1
+Chhattisgarh,Rice,2013,2653.6
+Chhattisgarh,Rice,2014,2449.6
+Chhattisgarh,Rice,2015,2126.0
+Chhattisgarh,Rice,2016,2582.9
+Chhattisgarh,Rice,2017,2581.2
+Chhattisgarh,Rice,2018,2681.5
+Chhattisgarh,Rice,2019,2316.3
+Chhattisgarh,Rice,2020,2542.9
+Chhattisgarh,Rice,2021,2211.1
+Chhattisgarh,Rice,2022,2181.0
+Chhattisgarh,Rice,2023,2477.0
+Chhattisgarh,Rice,2024,2141.6
+Chhattisgarh,Rice,2025,2200.1
+Chhattisgarh,Wheat,2010,1601.9
+Chhattisgarh,Wheat,2011,1375.4
+Chhattisgarh,Wheat,2012,1560.5
+Chhattisgarh,Wheat,2013,1352.6
+Chhattisgarh,Wheat,2014,1570.7
+Chhattisgarh,Wheat,2015,1290.7
+Chhattisgarh,Wheat,2016,1654.3
+Chhattisgarh,Wheat,2017,1255.6
+Chhattisgarh,Wheat,2018,1325.2
+Chhattisgarh,Wheat,2019,1538.9
+Chhattisgarh,Wheat,2020,1400.9
+Chhattisgarh,Wheat,2021,1284.8
+Chhattisgarh,Wheat,2022,1315.7
+Chhattisgarh,Wheat,2023,1548.0
+Chhattisgarh,Wheat,2024,1513.4
+Chhattisgarh,Wheat,2025,1496.8
+Chhattisgarh,Maize,2010,929.1
+Chhattisgarh,Maize,2011,819.6
+Chhattisgarh,Maize,2012,1060.1
+Chhattisgarh,Maize,2013,1009.1
+Chhattisgarh,Maize,2014,876.0
+Chhattisgarh,Maize,2015,968.0
+Chhattisgarh,Maize,2016,995.8
+Chhattisgarh,Maize,2017,942.0
+Chhattisgarh,Maize,2018,885.2
+Chhattisgarh,Maize,2019,817.2
+Chhattisgarh,Maize,2020,906.5
+Chhattisgarh,Maize,2021,930.0
+Chhattisgarh,Maize,2022,722.5
+Chhattisgarh,Maize,2023,753.0
+Chhattisgarh,Maize,2024,865.2
+Chhattisgarh,Maize,2025,974.4
+Chhattisgarh,Sugarcane,2010,14282.8
+Chhattisgarh,Sugarcane,2011,15009.7
+Chhattisgarh,Sugarcane,2012,13370.7
+Chhattisgarh,Sugarcane,2013,14337.3
+Chhattisgarh,Sugarcane,2014,17456.9
+Chhattisgarh,Sugarcane,2015,15666.2
+Chhattisgarh,Sugarcane,2016,16811.0
+Chhattisgarh,Sugarcane,2017,15541.7
+Chhattisgarh,Sugarcane,2018,13200.3
+Chhattisgarh,Sugarcane,2019,11306.5
+Chhattisgarh,Sugarcane,2020,10426.6
+Chhattisgarh,Sugarcane,2021,19691.1
+Chhattisgarh,Sugarcane,2022,15702.9
+Chhattisgarh,Sugarcane,2023,15292.1
+Chhattisgarh,Sugarcane,2024,13544.9
+Chhattisgarh,Sugarcane,2025,15353.4
+Chhattisgarh,Cotton,2010,7804.5
+Chhattisgarh,Cotton,2011,7450.1
+Chhattisgarh,Cotton,2012,5995.0
+Chhattisgarh,Cotton,2013,6892.8
+Chhattisgarh,Cotton,2014,7635.7
+Chhattisgarh,Cotton,2015,6389.2
+Chhattisgarh,Cotton,2016,6330.4
+Chhattisgarh,Cotton,2017,6849.3
+Chhattisgarh,Cotton,2018,6933.9
+Chhattisgarh,Cotton,2019,7554.6
+Chhattisgarh,Cotton,2020,5787.4
+Chhattisgarh,Cotton,2021,6605.4
+Chhattisgarh,Cotton,2022,8024.2
+Chhattisgarh,Cotton,2023,7350.2
+Chhattisgarh,Cotton,2024,5911.5
+Chhattisgarh,Cotton,2025,7417.5
+Chhattisgarh,Pulses,2010,1162.3
+Chhattisgarh,Pulses,2011,1168.3
+Chhattisgarh,Pulses,2012,1311.2
+Chhattisgarh,Pulses,2013,1238.6
+Chhattisgarh,Pulses,2014,1131.8
+Chhattisgarh,Pulses,2015,1387.7
+Chhattisgarh,Pulses,2016,1221.8
+Chhattisgarh,Pulses,2017,1082.8
+Chhattisgarh,Pulses,2018,1306.6
+Chhattisgarh,Pulses,2019,1303.7
+Chhattisgarh,Pulses,2020,1320.9
+Chhattisgarh,Pulses,2021,1224.5
+Chhattisgarh,Pulses,2022,1231.1
+Chhattisgarh,Pulses,2023,1296.4
+Chhattisgarh,Pulses,2024,1254.2
+Chhattisgarh,Pulses,2025,990.7
+Chhattisgarh,Soybean,2010,1081.4
+Chhattisgarh,Soybean,2011,1064.8
+Chhattisgarh,Soybean,2012,841.9
+Chhattisgarh,Soybean,2013,923.5
+Chhattisgarh,Soybean,2014,844.4
+Chhattisgarh,Soybean,2015,863.6
+Chhattisgarh,Soybean,2016,963.3
+Chhattisgarh,Soybean,2017,946.8
+Chhattisgarh,Soybean,2018,1074.6
+Chhattisgarh,Soybean,2019,1106.7
+Chhattisgarh,Soybean,2020,876.8
+Chhattisgarh,Soybean,2021,1061.2
+Chhattisgarh,Soybean,2022,868.1
+Chhattisgarh,Soybean,2023,755.2
+Chhattisgarh,Soybean,2024,923.4
+Chhattisgarh,Soybean,2025,912.2
+Chhattisgarh,Potato,2010,488.2
+Chhattisgarh,Potato,2011,558.9
+Chhattisgarh,Potato,2012,413.0
+Chhattisgarh,Potato,2013,446.5
+Chhattisgarh,Potato,2014,463.9
+Chhattisgarh,Potato,2015,490.2
+Chhattisgarh,Potato,2016,596.3
+Chhattisgarh,Potato,2017,512.7
+Chhattisgarh,Potato,2018,443.5
+Chhattisgarh,Potato,2019,435.7
+Chhattisgarh,Potato,2020,502.3
+Chhattisgarh,Potato,2021,502.5
+Chhattisgarh,Potato,2022,462.3
+Chhattisgarh,Potato,2023,431.4
+Chhattisgarh,Potato,2024,600.9
+Chhattisgarh,Potato,2025,459.3
+Chhattisgarh,Tea,2010,7139.7
+Chhattisgarh,Tea,2011,7011.4
+Chhattisgarh,Tea,2012,6141.7
+Chhattisgarh,Tea,2013,4928.2
+Chhattisgarh,Tea,2014,6846.8
+Chhattisgarh,Tea,2015,6396.3
+Chhattisgarh,Tea,2016,6556.1
+Chhattisgarh,Tea,2017,5762.4
+Chhattisgarh,Tea,2018,6219.3
+Chhattisgarh,Tea,2019,6675.0
+Chhattisgarh,Tea,2020,5694.7
+Chhattisgarh,Tea,2021,5508.1
+Chhattisgarh,Tea,2022,5124.8
+Chhattisgarh,Tea,2023,6734.0
+Chhattisgarh,Tea,2024,5253.1
+Chhattisgarh,Tea,2025,5600.5
+Chhattisgarh,Groundnut,2010,2036.8
+Chhattisgarh,Groundnut,2011,1767.1
+Chhattisgarh,Groundnut,2012,1923.7
+Chhattisgarh,Groundnut,2013,1932.7
+Chhattisgarh,Groundnut,2014,1883.1
+Chhattisgarh,Groundnut,2015,2019.3
+Chhattisgarh,Groundnut,2016,1845.2
+Chhattisgarh,Groundnut,2017,2376.9
+Chhattisgarh,Groundnut,2018,2344.6
+Chhattisgarh,Groundnut,2019,2078.9
+Chhattisgarh,Groundnut,2020,1945.1
+Chhattisgarh,Groundnut,2021,1977.3
+Chhattisgarh,Groundnut,2022,2014.2
+Chhattisgarh,Groundnut,2023,1835.7
+Chhattisgarh,Groundnut,2024,2215.3
+Chhattisgarh,Groundnut,2025,1957.0
+Delhi,Rice,2010,2564.8
+Delhi,Rice,2011,2751.1
+Delhi,Rice,2012,2675.7
+Delhi,Rice,2013,2563.1
+Delhi,Rice,2014,2675.0
+Delhi,Rice,2015,2426.4
+Delhi,Rice,2016,2996.5
+Delhi,Rice,2017,2180.6
+Delhi,Rice,2018,2356.7
+Delhi,Rice,2019,2158.6
+Delhi,Rice,2020,2117.4
+Delhi,Rice,2021,2167.9
+Delhi,Rice,2022,2700.5
+Delhi,Rice,2023,2232.0
+Delhi,Rice,2024,2748.1
+Delhi,Rice,2025,2484.8
+Delhi,Wheat,2010,1784.2
+Delhi,Wheat,2011,1627.8
+Delhi,Wheat,2012,1404.1
+Delhi,Wheat,2013,1791.8
+Delhi,Wheat,2014,1374.7
+Delhi,Wheat,2015,1449.9
+Delhi,Wheat,2016,1567.9
+Delhi,Wheat,2017,1774.0
+Delhi,Wheat,2018,1770.6
+Delhi,Wheat,2019,1713.3
+Delhi,Wheat,2020,1402.2
+Delhi,Wheat,2021,1449.4
+Delhi,Wheat,2022,1289.7
+Delhi,Wheat,2023,1280.8
+Delhi,Wheat,2024,1261.7
+Delhi,Wheat,2025,1657.4
+Delhi,Maize,2010,763.0
+Delhi,Maize,2011,797.1
+Delhi,Maize,2012,956.9
+Delhi,Maize,2013,1025.9
+Delhi,Maize,2014,729.7
+Delhi,Maize,2015,849.6
+Delhi,Maize,2016,864.3
+Delhi,Maize,2017,1030.7
+Delhi,Maize,2018,1106.1
+Delhi,Maize,2019,724.7
+Delhi,Maize,2020,856.2
+Delhi,Maize,2021,756.2
+Delhi,Maize,2022,992.8
+Delhi,Maize,2023,808.2
+Delhi,Maize,2024,833.0
+Delhi,Maize,2025,800.2
+Delhi,Sugarcane,2010,12774.1
+Delhi,Sugarcane,2011,15660.5
+Delhi,Sugarcane,2012,15633.1
+Delhi,Sugarcane,2013,14457.1
+Delhi,Sugarcane,2014,20446.1
+Delhi,Sugarcane,2015,13837.7
+Delhi,Sugarcane,2016,14076.2
+Delhi,Sugarcane,2017,18691.7
+Delhi,Sugarcane,2018,14810.4
+Delhi,Sugarcane,2019,12818.8
+Delhi,Sugarcane,2020,13295.1
+Delhi,Sugarcane,2021,14152.8
+Delhi,Sugarcane,2022,12528.3
+Delhi,Sugarcane,2023,17197.1
+Delhi,Sugarcane,2024,15457.5
+Delhi,Sugarcane,2025,15266.3
+Delhi,Cotton,2010,7882.3
+Delhi,Cotton,2011,7360.0
+Delhi,Cotton,2012,7313.5
+Delhi,Cotton,2013,5867.6
+Delhi,Cotton,2014,7153.2
+Delhi,Cotton,2015,7858.4
+Delhi,Cotton,2016,7139.9
+Delhi,Cotton,2017,6792.4
+Delhi,Cotton,2018,6549.3
+Delhi,Cotton,2019,8099.9
+Delhi,Cotton,2020,7317.7
+Delhi,Cotton,2021,7390.5
+Delhi,Cotton,2022,6590.5
+Delhi,Cotton,2023,6367.5
+Delhi,Cotton,2024,5271.5
+Delhi,Cotton,2025,6044.8
+Delhi,Pulses,2010,1063.0
+Delhi,Pulses,2011,1357.0
+Delhi,Pulses,2012,1248.9
+Delhi,Pulses,2013,1439.4
+Delhi,Pulses,2014,1231.0
+Delhi,Pulses,2015,1083.8
+Delhi,Pulses,2016,1069.4
+Delhi,Pulses,2017,1160.4
+Delhi,Pulses,2018,1438.0
+Delhi,Pulses,2019,1161.6
+Delhi,Pulses,2020,1056.6
+Delhi,Pulses,2021,990.5
+Delhi,Pulses,2022,1300.8
+Delhi,Pulses,2023,1091.3
+Delhi,Pulses,2024,1059.4
+Delhi,Pulses,2025,1183.8
+Delhi,Soybean,2010,742.6
+Delhi,Soybean,2011,796.3
+Delhi,Soybean,2012,983.7
+Delhi,Soybean,2013,1119.8
+Delhi,Soybean,2014,967.5
+Delhi,Soybean,2015,883.4
+Delhi,Soybean,2016,761.7
+Delhi,Soybean,2017,1030.5
+Delhi,Soybean,2018,940.4
+Delhi,Soybean,2019,993.1
+Delhi,Soybean,2020,860.7
+Delhi,Soybean,2021,711.4
+Delhi,Soybean,2022,1053.8
+Delhi,Soybean,2023,931.2
+Delhi,Soybean,2024,905.2
+Delhi,Soybean,2025,814.6
+Delhi,Potato,2010,416.0
+Delhi,Potato,2011,549.5
+Delhi,Potato,2012,412.4
+Delhi,Potato,2013,483.9
+Delhi,Potato,2014,383.6
+Delhi,Potato,2015,392.9
+Delhi,Potato,2016,527.8
+Delhi,Potato,2017,429.0
+Delhi,Potato,2018,596.6
+Delhi,Potato,2019,498.6
+Delhi,Potato,2020,407.1
+Delhi,Potato,2021,472.4
+Delhi,Potato,2022,461.6
+Delhi,Potato,2023,423.8
+Delhi,Potato,2024,500.9
+Delhi,Potato,2025,534.5
+Delhi,Tea,2010,5378.6
+Delhi,Tea,2011,7046.7
+Delhi,Tea,2012,5419.0
+Delhi,Tea,2013,6901.7
+Delhi,Tea,2014,5910.3
+Delhi,Tea,2015,5309.0
+Delhi,Tea,2016,5684.1
+Delhi,Tea,2017,6993.5
+Delhi,Tea,2018,5040.6
+Delhi,Tea,2019,5975.1
+Delhi,Tea,2020,6608.7
+Delhi,Tea,2021,6053.9
+Delhi,Tea,2022,4780.3
+Delhi,Tea,2023,5640.4
+Delhi,Tea,2024,5198.5
+Delhi,Tea,2025,4353.5
+Delhi,Groundnut,2010,1962.4
+Delhi,Groundnut,2011,1743.2
+Delhi,Groundnut,2012,2310.5
+Delhi,Groundnut,2013,2140.1
+Delhi,Groundnut,2014,2016.1
+Delhi,Groundnut,2015,1843.6
+Delhi,Groundnut,2016,1978.3
+Delhi,Groundnut,2017,1499.3
+Delhi,Groundnut,2018,1831.2
+Delhi,Groundnut,2019,2046.2
+Delhi,Groundnut,2020,1854.0
+Delhi,Groundnut,2021,2146.1
+Delhi,Groundnut,2022,1974.5
+Delhi,Groundnut,2023,1840.9
+Delhi,Groundnut,2024,1598.7
+Delhi,Groundnut,2025,1695.1
+Goa,Rice,2010,2406.6
+Goa,Rice,2011,2583.8
+Goa,Rice,2012,2233.7
+Goa,Rice,2013,2519.0
+Goa,Rice,2014,2366.4
+Goa,Rice,2015,2494.6
+Goa,Rice,2016,2393.4
+Goa,Rice,2017,1938.9
+Goa,Rice,2018,2780.3
+Goa,Rice,2019,2612.7
+Goa,Rice,2020,2276.7
+Goa,Rice,2021,2841.8
+Goa,Rice,2022,2219.6
+Goa,Rice,2023,2854.5
+Goa,Rice,2024,2356.5
+Goa,Rice,2025,2013.7
+Goa,Wheat,2010,1909.5
+Goa,Wheat,2011,1659.0
+Goa,Wheat,2012,1346.5
+Goa,Wheat,2013,1587.9
+Goa,Wheat,2014,1337.4
+Goa,Wheat,2015,1397.6
+Goa,Wheat,2016,1496.0
+Goa,Wheat,2017,1422.5
+Goa,Wheat,2018,1378.1
+Goa,Wheat,2019,1410.5
+Goa,Wheat,2020,1471.1
+Goa,Wheat,2021,1247.4
+Goa,Wheat,2022,1653.1
+Goa,Wheat,2023,1233.1
+Goa,Wheat,2024,1490.7
+Goa,Wheat,2025,1652.7
+Goa,Maize,2010,1215.7
+Goa,Maize,2011,1084.1
+Goa,Maize,2012,987.2
+Goa,Maize,2013,904.9
+Goa,Maize,2014,772.7
+Goa,Maize,2015,719.1
+Goa,Maize,2016,977.4
+Goa,Maize,2017,968.6
+Goa,Maize,2018,968.8
+Goa,Maize,2019,1070.5
+Goa,Maize,2020,909.3
+Goa,Maize,2021,739.7
+Goa,Maize,2022,849.0
+Goa,Maize,2023,956.3
+Goa,Maize,2024,1056.3
+Goa,Maize,2025,1036.8
+Goa,Sugarcane,2010,14961.3
+Goa,Sugarcane,2011,16861.7
+Goa,Sugarcane,2012,17631.7
+Goa,Sugarcane,2013,13833.1
+Goa,Sugarcane,2014,17168.3
+Goa,Sugarcane,2015,16262.3
+Goa,Sugarcane,2016,18107.5
+Goa,Sugarcane,2017,14753.6
+Goa,Sugarcane,2018,14338.1
+Goa,Sugarcane,2019,14996.9
+Goa,Sugarcane,2020,16407.1
+Goa,Sugarcane,2021,15917.3
+Goa,Sugarcane,2022,13372.3
+Goa,Sugarcane,2023,15160.6
+Goa,Sugarcane,2024,14736.7
+Goa,Sugarcane,2025,12454.9
+Goa,Cotton,2010,6122.9
+Goa,Cotton,2011,6378.8
+Goa,Cotton,2012,7870.8
+Goa,Cotton,2013,8064.5
+Goa,Cotton,2014,8385.3
+Goa,Cotton,2015,6986.0
+Goa,Cotton,2016,7790.7
+Goa,Cotton,2017,8088.6
+Goa,Cotton,2018,6535.9
+Goa,Cotton,2019,6424.6
+Goa,Cotton,2020,7416.9
+Goa,Cotton,2021,7114.2
+Goa,Cotton,2022,6717.9
+Goa,Cotton,2023,6113.0
+Goa,Cotton,2024,6953.6
+Goa,Cotton,2025,7104.5
+Goa,Pulses,2010,973.9
+Goa,Pulses,2011,1392.2
+Goa,Pulses,2012,1393.1
+Goa,Pulses,2013,1116.1
+Goa,Pulses,2014,1151.2
+Goa,Pulses,2015,1416.0
+Goa,Pulses,2016,1308.3
+Goa,Pulses,2017,1202.7
+Goa,Pulses,2018,1188.6
+Goa,Pulses,2019,887.9
+Goa,Pulses,2020,1058.9
+Goa,Pulses,2021,1235.8
+Goa,Pulses,2022,1178.9
+Goa,Pulses,2023,1188.3
+Goa,Pulses,2024,1191.1
+Goa,Pulses,2025,1415.9
+Goa,Soybean,2010,799.7
+Goa,Soybean,2011,951.9
+Goa,Soybean,2012,800.0
+Goa,Soybean,2013,824.5
+Goa,Soybean,2014,777.0
+Goa,Soybean,2015,931.1
+Goa,Soybean,2016,885.3
+Goa,Soybean,2017,965.6
+Goa,Soybean,2018,1046.4
+Goa,Soybean,2019,880.5
+Goa,Soybean,2020,597.2
+Goa,Soybean,2021,880.6
+Goa,Soybean,2022,1171.4
+Goa,Soybean,2023,737.5
+Goa,Soybean,2024,865.7
+Goa,Soybean,2025,844.6
+Goa,Potato,2010,512.9
+Goa,Potato,2011,554.3
+Goa,Potato,2012,542.5
+Goa,Potato,2013,471.9
+Goa,Potato,2014,542.1
+Goa,Potato,2015,438.4
+Goa,Potato,2016,453.4
+Goa,Potato,2017,478.2
+Goa,Potato,2018,418.6
+Goa,Potato,2019,411.2
+Goa,Potato,2020,452.5
+Goa,Potato,2021,519.7
+Goa,Potato,2022,573.1
+Goa,Potato,2023,510.2
+Goa,Potato,2024,462.4
+Goa,Potato,2025,506.1
+Goa,Tea,2010,5497.1
+Goa,Tea,2011,4852.5
+Goa,Tea,2012,6015.8
+Goa,Tea,2013,5118.2
+Goa,Tea,2014,6376.5
+Goa,Tea,2015,4966.5
+Goa,Tea,2016,5832.7
+Goa,Tea,2017,6808.2
+Goa,Tea,2018,5472.2
+Goa,Tea,2019,5856.8
+Goa,Tea,2020,6057.3
+Goa,Tea,2021,5321.0
+Goa,Tea,2022,5001.1
+Goa,Tea,2023,5584.3
+Goa,Tea,2024,6744.4
+Goa,Tea,2025,6269.2
+Goa,Groundnut,2010,1987.5
+Goa,Groundnut,2011,2108.6
+Goa,Groundnut,2012,2401.9
+Goa,Groundnut,2013,1851.5
+Goa,Groundnut,2014,2337.8
+Goa,Groundnut,2015,1901.2
+Goa,Groundnut,2016,1813.1
+Goa,Groundnut,2017,1925.0
+Goa,Groundnut,2018,1944.1
+Goa,Groundnut,2019,2121.4
+Goa,Groundnut,2020,1773.5
+Goa,Groundnut,2021,2288.1
+Goa,Groundnut,2022,1944.0
+Goa,Groundnut,2023,1986.1
+Goa,Groundnut,2024,2030.8
+Goa,Groundnut,2025,1868.2
+Gujarat,Rice,2010,2491.1
+Gujarat,Rice,2011,3083.0
+Gujarat,Rice,2012,2752.1
+Gujarat,Rice,2013,2447.5
+Gujarat,Rice,2014,2622.8
+Gujarat,Rice,2015,2287.5
+Gujarat,Rice,2016,2208.1
+Gujarat,Rice,2017,2395.5
+Gujarat,Rice,2018,2274.4
+Gujarat,Rice,2019,2666.0
+Gujarat,Rice,2020,2382.3
+Gujarat,Rice,2021,2347.4
+Gujarat,Rice,2022,2784.1
+Gujarat,Rice,2023,2398.9
+Gujarat,Rice,2024,2345.9
+Gujarat,Rice,2025,2214.8
+Gujarat,Wheat,2010,1445.6
+Gujarat,Wheat,2011,1413.4
+Gujarat,Wheat,2012,1319.2
+Gujarat,Wheat,2013,1807.6
+Gujarat,Wheat,2014,1797.6
+Gujarat,Wheat,2015,1378.2
+Gujarat,Wheat,2016,1663.5
+Gujarat,Wheat,2017,1217.9
+Gujarat,Wheat,2018,1445.9
+Gujarat,Wheat,2019,1389.8
+Gujarat,Wheat,2020,1938.2
+Gujarat,Wheat,2021,1452.2
+Gujarat,Wheat,2022,1516.4
+Gujarat,Wheat,2023,1604.5
+Gujarat,Wheat,2024,1559.9
+Gujarat,Wheat,2025,1294.8
+Gujarat,Maize,2010,858.8
+Gujarat,Maize,2011,1039.4
+Gujarat,Maize,2012,847.7
+Gujarat,Maize,2013,1097.5
+Gujarat,Maize,2014,770.1
+Gujarat,Maize,2015,871.6
+Gujarat,Maize,2016,941.8
+Gujarat,Maize,2017,863.6
+Gujarat,Maize,2018,862.0
+Gujarat,Maize,2019,971.5
+Gujarat,Maize,2020,835.2
+Gujarat,Maize,2021,791.0
+Gujarat,Maize,2022,916.8
+Gujarat,Maize,2023,852.8
+Gujarat,Maize,2024,789.5
+Gujarat,Maize,2025,968.9
+Gujarat,Sugarcane,2010,12849.8
+Gujarat,Sugarcane,2011,15201.4
+Gujarat,Sugarcane,2012,13803.8
+Gujarat,Sugarcane,2013,16736.8
+Gujarat,Sugarcane,2014,17987.9
+Gujarat,Sugarcane,2015,14536.0
+Gujarat,Sugarcane,2016,16672.7
+Gujarat,Sugarcane,2017,14491.8
+Gujarat,Sugarcane,2018,16753.0
+Gujarat,Sugarcane,2019,15176.5
+Gujarat,Sugarcane,2020,14464.1
+Gujarat,Sugarcane,2021,16290.2
+Gujarat,Sugarcane,2022,12884.6
+Gujarat,Sugarcane,2023,19099.3
+Gujarat,Sugarcane,2024,14513.6
+Gujarat,Sugarcane,2025,17298.4
+Gujarat,Cotton,2010,6911.9
+Gujarat,Cotton,2011,6295.6
+Gujarat,Cotton,2012,5870.2
+Gujarat,Cotton,2013,6583.0
+Gujarat,Cotton,2014,7337.9
+Gujarat,Cotton,2015,6051.9
+Gujarat,Cotton,2016,7104.5
+Gujarat,Cotton,2017,7715.1
+Gujarat,Cotton,2018,6366.3
+Gujarat,Cotton,2019,8228.9
+Gujarat,Cotton,2020,6607.7
+Gujarat,Cotton,2021,6969.3
+Gujarat,Cotton,2022,6532.1
+Gujarat,Cotton,2023,5662.8
+Gujarat,Cotton,2024,6532.9
+Gujarat,Cotton,2025,5982.5
+Gujarat,Pulses,2010,1029.3
+Gujarat,Pulses,2011,1204.1
+Gujarat,Pulses,2012,1139.3
+Gujarat,Pulses,2013,945.3
+Gujarat,Pulses,2014,1258.1
+Gujarat,Pulses,2015,1285.3
+Gujarat,Pulses,2016,883.5
+Gujarat,Pulses,2017,1171.9
+Gujarat,Pulses,2018,1449.0
+Gujarat,Pulses,2019,1161.1
+Gujarat,Pulses,2020,1018.1
+Gujarat,Pulses,2021,1043.4
+Gujarat,Pulses,2022,1346.1
+Gujarat,Pulses,2023,1307.7
+Gujarat,Pulses,2024,1336.9
+Gujarat,Pulses,2025,1067.3
+Gujarat,Soybean,2010,1097.2
+Gujarat,Soybean,2011,879.6
+Gujarat,Soybean,2012,997.2
+Gujarat,Soybean,2013,786.5
+Gujarat,Soybean,2014,871.5
+Gujarat,Soybean,2015,946.6
+Gujarat,Soybean,2016,944.0
+Gujarat,Soybean,2017,882.9
+Gujarat,Soybean,2018,916.8
+Gujarat,Soybean,2019,1076.8
+Gujarat,Soybean,2020,886.4
+Gujarat,Soybean,2021,846.6
+Gujarat,Soybean,2022,1062.2
+Gujarat,Soybean,2023,899.5
+Gujarat,Soybean,2024,832.9
+Gujarat,Soybean,2025,988.4
+Gujarat,Potato,2010,486.4
+Gujarat,Potato,2011,545.0
+Gujarat,Potato,2012,518.0
+Gujarat,Potato,2013,498.1
+Gujarat,Potato,2014,551.1
+Gujarat,Potato,2015,519.9
+Gujarat,Potato,2016,505.5
+Gujarat,Potato,2017,492.9
+Gujarat,Potato,2018,485.8
+Gujarat,Potato,2019,485.8
+Gujarat,Potato,2020,534.5
+Gujarat,Potato,2021,453.8
+Gujarat,Potato,2022,483.9
+Gujarat,Potato,2023,541.9
+Gujarat,Potato,2024,511.4
+Gujarat,Potato,2025,463.3
+Gujarat,Tea,2010,5813.5
+Gujarat,Tea,2011,7260.6
+Gujarat,Tea,2012,5562.7
+Gujarat,Tea,2013,5541.1
+Gujarat,Tea,2014,6456.0
+Gujarat,Tea,2015,6679.0
+Gujarat,Tea,2016,5272.2
+Gujarat,Tea,2017,5174.7
+Gujarat,Tea,2018,4556.2
+Gujarat,Tea,2019,5667.2
+Gujarat,Tea,2020,5357.1
+Gujarat,Tea,2021,6130.0
+Gujarat,Tea,2022,5437.4
+Gujarat,Tea,2023,6773.7
+Gujarat,Tea,2024,5922.6
+Gujarat,Tea,2025,6325.1
+Gujarat,Groundnut,2010,2325.8
+Gujarat,Groundnut,2011,1959.3
+Gujarat,Groundnut,2012,1717.2
+Gujarat,Groundnut,2013,1513.3
+Gujarat,Groundnut,2014,1923.9
+Gujarat,Groundnut,2015,1588.4
+Gujarat,Groundnut,2016,1912.0
+Gujarat,Groundnut,2017,2076.1
+Gujarat,Groundnut,2018,1923.3
+Gujarat,Groundnut,2019,1711.0
+Gujarat,Groundnut,2020,1647.8
+Gujarat,Groundnut,2021,2148.9
+Gujarat,Groundnut,2022,2334.1
+Gujarat,Groundnut,2023,1634.9
+Gujarat,Groundnut,2024,1688.7
+Gujarat,Groundnut,2025,1657.3
+Haryana,Rice,2010,2339.6
+Haryana,Rice,2011,2472.5
+Haryana,Rice,2012,2576.8
+Haryana,Rice,2013,2261.0
+Haryana,Rice,2014,2013.7
+Haryana,Rice,2015,3033.0
+Haryana,Rice,2016,2495.1
+Haryana,Rice,2017,2617.9
+Haryana,Rice,2018,2272.1
+Haryana,Rice,2019,2341.6
+Haryana,Rice,2020,2814.1
+Haryana,Rice,2021,2151.2
+Haryana,Rice,2022,2412.1
+Haryana,Rice,2023,2436.6
+Haryana,Rice,2024,2454.0
+Haryana,Rice,2025,2812.9
+Haryana,Wheat,2010,1205.8
+Haryana,Wheat,2011,1476.1
+Haryana,Wheat,2012,1548.2
+Haryana,Wheat,2013,1082.7
+Haryana,Wheat,2014,1157.0
+Haryana,Wheat,2015,1498.3
+Haryana,Wheat,2016,1482.3
+Haryana,Wheat,2017,1909.4
+Haryana,Wheat,2018,1487.9
+Haryana,Wheat,2019,1510.9
+Haryana,Wheat,2020,1380.2
+Haryana,Wheat,2021,1657.6
+Haryana,Wheat,2022,1410.0
+Haryana,Wheat,2023,1662.8
+Haryana,Wheat,2024,1597.0
+Haryana,Wheat,2025,1543.8
+Haryana,Maize,2010,802.0
+Haryana,Maize,2011,853.3
+Haryana,Maize,2012,991.5
+Haryana,Maize,2013,824.9
+Haryana,Maize,2014,819.8
+Haryana,Maize,2015,1068.0
+Haryana,Maize,2016,909.9
+Haryana,Maize,2017,978.2
+Haryana,Maize,2018,870.3
+Haryana,Maize,2019,912.5
+Haryana,Maize,2020,860.9
+Haryana,Maize,2021,780.7
+Haryana,Maize,2022,784.1
+Haryana,Maize,2023,962.6
+Haryana,Maize,2024,1132.3
+Haryana,Maize,2025,764.6
+Haryana,Sugarcane,2010,13475.1
+Haryana,Sugarcane,2011,13652.4
+Haryana,Sugarcane,2012,13771.5
+Haryana,Sugarcane,2013,15606.4
+Haryana,Sugarcane,2014,12488.9
+Haryana,Sugarcane,2015,14666.6
+Haryana,Sugarcane,2016,16384.0
+Haryana,Sugarcane,2017,12914.8
+Haryana,Sugarcane,2018,15634.4
+Haryana,Sugarcane,2019,12791.0
+Haryana,Sugarcane,2020,12046.7
+Haryana,Sugarcane,2021,17941.2
+Haryana,Sugarcane,2022,14439.8
+Haryana,Sugarcane,2023,13065.9
+Haryana,Sugarcane,2024,16291.8
+Haryana,Sugarcane,2025,12801.8
+Haryana,Cotton,2010,6476.2
+Haryana,Cotton,2011,7465.0
+Haryana,Cotton,2012,6406.7
+Haryana,Cotton,2013,9038.7
+Haryana,Cotton,2014,7473.2
+Haryana,Cotton,2015,7046.6
+Haryana,Cotton,2016,8590.6
+Haryana,Cotton,2017,6475.6
+Haryana,Cotton,2018,6390.2
+Haryana,Cotton,2019,7613.1
+Haryana,Cotton,2020,7632.6
+Haryana,Cotton,2021,5368.5
+Haryana,Cotton,2022,8592.0
+Haryana,Cotton,2023,6636.6
+Haryana,Cotton,2024,7210.9
+Haryana,Cotton,2025,5989.1
+Haryana,Pulses,2010,1113.1
+Haryana,Pulses,2011,1505.4
+Haryana,Pulses,2012,1095.3
+Haryana,Pulses,2013,967.0
+Haryana,Pulses,2014,1196.7
+Haryana,Pulses,2015,1732.2
+Haryana,Pulses,2016,1171.0
+Haryana,Pulses,2017,1362.5
+Haryana,Pulses,2018,1535.6
+Haryana,Pulses,2019,943.2
+Haryana,Pulses,2020,1112.2
+Haryana,Pulses,2021,959.9
+Haryana,Pulses,2022,1263.3
+Haryana,Pulses,2023,1497.8
+Haryana,Pulses,2024,1371.1
+Haryana,Pulses,2025,1194.1
+Haryana,Soybean,2010,799.8
+Haryana,Soybean,2011,761.7
+Haryana,Soybean,2012,1095.4
+Haryana,Soybean,2013,966.9
+Haryana,Soybean,2014,900.8
+Haryana,Soybean,2015,846.3
+Haryana,Soybean,2016,953.0
+Haryana,Soybean,2017,730.8
+Haryana,Soybean,2018,778.9
+Haryana,Soybean,2019,872.5
+Haryana,Soybean,2020,949.5
+Haryana,Soybean,2021,840.3
+Haryana,Soybean,2022,888.8
+Haryana,Soybean,2023,1013.5
+Haryana,Soybean,2024,1133.7
+Haryana,Soybean,2025,959.6
+Haryana,Potato,2010,472.6
+Haryana,Potato,2011,431.9
+Haryana,Potato,2012,485.9
+Haryana,Potato,2013,404.4
+Haryana,Potato,2014,540.8
+Haryana,Potato,2015,435.1
+Haryana,Potato,2016,543.2
+Haryana,Potato,2017,540.9
+Haryana,Potato,2018,431.7
+Haryana,Potato,2019,501.6
+Haryana,Potato,2020,615.2
+Haryana,Potato,2021,421.1
+Haryana,Potato,2022,500.3
+Haryana,Potato,2023,407.2
+Haryana,Potato,2024,506.4
+Haryana,Potato,2025,486.6
+Haryana,Tea,2010,4755.6
+Haryana,Tea,2011,5482.6
+Haryana,Tea,2012,6296.8
+Haryana,Tea,2013,5984.0
+Haryana,Tea,2014,6580.5
+Haryana,Tea,2015,5029.6
+Haryana,Tea,2016,5834.8
+Haryana,Tea,2017,5031.0
+Haryana,Tea,2018,6198.2
+Haryana,Tea,2019,6535.4
+Haryana,Tea,2020,4844.6
+Haryana,Tea,2021,5233.9
+Haryana,Tea,2022,6066.4
+Haryana,Tea,2023,5062.1
+Haryana,Tea,2024,6141.9
+Haryana,Tea,2025,7484.6
+Haryana,Groundnut,2010,2164.1
+Haryana,Groundnut,2011,2117.1
+Haryana,Groundnut,2012,1693.0
+Haryana,Groundnut,2013,1989.1
+Haryana,Groundnut,2014,2169.8
+Haryana,Groundnut,2015,1880.3
+Haryana,Groundnut,2016,1923.0
+Haryana,Groundnut,2017,1769.5
+Haryana,Groundnut,2018,1766.4
+Haryana,Groundnut,2019,2279.1
+Haryana,Groundnut,2020,1751.2
+Haryana,Groundnut,2021,1883.3
+Haryana,Groundnut,2022,2070.6
+Haryana,Groundnut,2023,2062.0
+Haryana,Groundnut,2024,1830.6
+Haryana,Groundnut,2025,2167.8
+Himachal Pradesh,Rice,2010,2818.9
+Himachal Pradesh,Rice,2011,3377.6
+Himachal Pradesh,Rice,2012,2301.4
+Himachal Pradesh,Rice,2013,2203.9
+Himachal Pradesh,Rice,2014,2118.3
+Himachal Pradesh,Rice,2015,2560.0
+Himachal Pradesh,Rice,2016,2784.5
+Himachal Pradesh,Rice,2017,2752.0
+Himachal Pradesh,Rice,2018,2159.2
+Himachal Pradesh,Rice,2019,2498.3
+Himachal Pradesh,Rice,2020,2608.9
+Himachal Pradesh,Rice,2021,2211.8
+Himachal Pradesh,Rice,2022,2829.6
+Himachal Pradesh,Rice,2023,2191.9
+Himachal Pradesh,Rice,2024,2877.8
+Himachal Pradesh,Rice,2025,2593.3
+Himachal Pradesh,Wheat,2010,1521.7
+Himachal Pradesh,Wheat,2011,1347.0
+Himachal Pradesh,Wheat,2012,1698.3
+Himachal Pradesh,Wheat,2013,1493.3
+Himachal Pradesh,Wheat,2014,1496.8
+Himachal Pradesh,Wheat,2015,1362.5
+Himachal Pradesh,Wheat,2016,1596.2
+Himachal Pradesh,Wheat,2017,1435.4
+Himachal Pradesh,Wheat,2018,1538.3
+Himachal Pradesh,Wheat,2019,1379.1
+Himachal Pradesh,Wheat,2020,1379.7
+Himachal Pradesh,Wheat,2021,1814.1
+Himachal Pradesh,Wheat,2022,1414.3
+Himachal Pradesh,Wheat,2023,1959.7
+Himachal Pradesh,Wheat,2024,1208.5
+Himachal Pradesh,Wheat,2025,1445.8
+Himachal Pradesh,Maize,2010,934.3
+Himachal Pradesh,Maize,2011,1049.1
+Himachal Pradesh,Maize,2012,924.9
+Himachal Pradesh,Maize,2013,939.8
+Himachal Pradesh,Maize,2014,1060.5
+Himachal Pradesh,Maize,2015,836.1
+Himachal Pradesh,Maize,2016,933.2
+Himachal Pradesh,Maize,2017,898.8
+Himachal Pradesh,Maize,2018,933.1
+Himachal Pradesh,Maize,2019,873.1
+Himachal Pradesh,Maize,2020,761.6
+Himachal Pradesh,Maize,2021,811.5
+Himachal Pradesh,Maize,2022,946.4
+Himachal Pradesh,Maize,2023,801.3
+Himachal Pradesh,Maize,2024,1019.2
+Himachal Pradesh,Maize,2025,838.8
+Himachal Pradesh,Sugarcane,2010,16041.4
+Himachal Pradesh,Sugarcane,2011,13593.2
+Himachal Pradesh,Sugarcane,2012,17369.5
+Himachal Pradesh,Sugarcane,2013,13836.8
+Himachal Pradesh,Sugarcane,2014,16296.0
+Himachal Pradesh,Sugarcane,2015,13346.5
+Himachal Pradesh,Sugarcane,2016,14208.8
+Himachal Pradesh,Sugarcane,2017,12085.6
+Himachal Pradesh,Sugarcane,2018,16805.2
+Himachal Pradesh,Sugarcane,2019,13522.1
+Himachal Pradesh,Sugarcane,2020,13333.9
+Himachal Pradesh,Sugarcane,2021,13904.4
+Himachal Pradesh,Sugarcane,2022,15856.9
+Himachal Pradesh,Sugarcane,2023,13977.2
+Himachal Pradesh,Sugarcane,2024,15444.3
+Himachal Pradesh,Sugarcane,2025,17048.5
+Himachal Pradesh,Cotton,2010,6808.0
+Himachal Pradesh,Cotton,2011,6112.9
+Himachal Pradesh,Cotton,2012,6050.6
+Himachal Pradesh,Cotton,2013,8416.6
+Himachal Pradesh,Cotton,2014,7220.1
+Himachal Pradesh,Cotton,2015,7576.6
+Himachal Pradesh,Cotton,2016,6547.4
+Himachal Pradesh,Cotton,2017,7967.0
+Himachal Pradesh,Cotton,2018,8465.1
+Himachal Pradesh,Cotton,2019,8183.0
+Himachal Pradesh,Cotton,2020,5691.7
+Himachal Pradesh,Cotton,2021,5843.3
+Himachal Pradesh,Cotton,2022,6671.9
+Himachal Pradesh,Cotton,2023,8004.2
+Himachal Pradesh,Cotton,2024,7172.5
+Himachal Pradesh,Cotton,2025,8384.5
+Himachal Pradesh,Pulses,2010,1066.7
+Himachal Pradesh,Pulses,2011,1177.0
+Himachal Pradesh,Pulses,2012,1105.4
+Himachal Pradesh,Pulses,2013,974.3
+Himachal Pradesh,Pulses,2014,1405.7
+Himachal Pradesh,Pulses,2015,1356.9
+Himachal Pradesh,Pulses,2016,1361.3
+Himachal Pradesh,Pulses,2017,1338.8
+Himachal Pradesh,Pulses,2018,1153.5
+Himachal Pradesh,Pulses,2019,1050.7
+Himachal Pradesh,Pulses,2020,1028.8
+Himachal Pradesh,Pulses,2021,1025.5
+Himachal Pradesh,Pulses,2022,1211.1
+Himachal Pradesh,Pulses,2023,1015.7
+Himachal Pradesh,Pulses,2024,985.2
+Himachal Pradesh,Pulses,2025,985.7
+Himachal Pradesh,Soybean,2010,1079.2
+Himachal Pradesh,Soybean,2011,957.2
+Himachal Pradesh,Soybean,2012,995.8
+Himachal Pradesh,Soybean,2013,754.0
+Himachal Pradesh,Soybean,2014,1033.4
+Himachal Pradesh,Soybean,2015,971.2
+Himachal Pradesh,Soybean,2016,1117.3
+Himachal Pradesh,Soybean,2017,807.4
+Himachal Pradesh,Soybean,2018,1009.4
+Himachal Pradesh,Soybean,2019,1003.6
+Himachal Pradesh,Soybean,2020,932.7
+Himachal Pradesh,Soybean,2021,865.6
+Himachal Pradesh,Soybean,2022,775.2
+Himachal Pradesh,Soybean,2023,716.2
+Himachal Pradesh,Soybean,2024,1094.0
+Himachal Pradesh,Soybean,2025,795.4
+Himachal Pradesh,Potato,2010,428.0
+Himachal Pradesh,Potato,2011,490.0
+Himachal Pradesh,Potato,2012,415.2
+Himachal Pradesh,Potato,2013,635.4
+Himachal Pradesh,Potato,2014,464.7
+Himachal Pradesh,Potato,2015,556.8
+Himachal Pradesh,Potato,2016,557.1
+Himachal Pradesh,Potato,2017,419.8
+Himachal Pradesh,Potato,2018,454.3
+Himachal Pradesh,Potato,2019,532.7
+Himachal Pradesh,Potato,2020,426.8
+Himachal Pradesh,Potato,2021,497.9
+Himachal Pradesh,Potato,2022,410.5
+Himachal Pradesh,Potato,2023,501.0
+Himachal Pradesh,Potato,2024,529.2
+Himachal Pradesh,Potato,2025,421.5
+Himachal Pradesh,Tea,2010,7248.7
+Himachal Pradesh,Tea,2011,5339.3
+Himachal Pradesh,Tea,2012,4828.3
+Himachal Pradesh,Tea,2013,7412.9
+Himachal Pradesh,Tea,2014,6433.4
+Himachal Pradesh,Tea,2015,6032.0
+Himachal Pradesh,Tea,2016,6825.0
+Himachal Pradesh,Tea,2017,6146.3
+Himachal Pradesh,Tea,2018,5146.7
+Himachal Pradesh,Tea,2019,6131.5
+Himachal Pradesh,Tea,2020,4698.3
+Himachal Pradesh,Tea,2021,6280.6
+Himachal Pradesh,Tea,2022,6427.4
+Himachal Pradesh,Tea,2023,6437.7
+Himachal Pradesh,Tea,2024,7330.8
+Himachal Pradesh,Tea,2025,5330.3
+Himachal Pradesh,Groundnut,2010,1790.8
+Himachal Pradesh,Groundnut,2011,2105.7
+Himachal Pradesh,Groundnut,2012,1994.0
+Himachal Pradesh,Groundnut,2013,1759.1
+Himachal Pradesh,Groundnut,2014,2157.0
+Himachal Pradesh,Groundnut,2015,2106.4
+Himachal Pradesh,Groundnut,2016,2227.1
+Himachal Pradesh,Groundnut,2017,1788.2
+Himachal Pradesh,Groundnut,2018,2161.7
+Himachal Pradesh,Groundnut,2019,2217.0
+Himachal Pradesh,Groundnut,2020,1885.4
+Himachal Pradesh,Groundnut,2021,1632.2
+Himachal Pradesh,Groundnut,2022,1941.7
+Himachal Pradesh,Groundnut,2023,2111.6
+Himachal Pradesh,Groundnut,2024,1921.9
+Himachal Pradesh,Groundnut,2025,1823.7
+Jammu & Kashmir,Rice,2010,2267.9
+Jammu & Kashmir,Rice,2011,2210.4
+Jammu & Kashmir,Rice,2012,2715.1
+Jammu & Kashmir,Rice,2013,2280.3
+Jammu & Kashmir,Rice,2014,2860.3
+Jammu & Kashmir,Rice,2015,2746.9
+Jammu & Kashmir,Rice,2016,2752.3
+Jammu & Kashmir,Rice,2017,2167.1
+Jammu & Kashmir,Rice,2018,1924.4
+Jammu & Kashmir,Rice,2019,1941.9
+Jammu & Kashmir,Rice,2020,2205.3
+Jammu & Kashmir,Rice,2021,2222.7
+Jammu & Kashmir,Rice,2022,2633.7
+Jammu & Kashmir,Rice,2023,2446.2
+Jammu & Kashmir,Rice,2024,2313.9
+Jammu & Kashmir,Rice,2025,2531.7
+Jammu & Kashmir,Wheat,2010,1517.8
+Jammu & Kashmir,Wheat,2011,1451.5
+Jammu & Kashmir,Wheat,2012,1609.6
+Jammu & Kashmir,Wheat,2013,1511.8
+Jammu & Kashmir,Wheat,2014,1529.9
+Jammu & Kashmir,Wheat,2015,1548.1
+Jammu & Kashmir,Wheat,2016,1502.8
+Jammu & Kashmir,Wheat,2017,1303.2
+Jammu & Kashmir,Wheat,2018,1397.8
+Jammu & Kashmir,Wheat,2019,1325.1
+Jammu & Kashmir,Wheat,2020,1316.4
+Jammu & Kashmir,Wheat,2021,1411.9
+Jammu & Kashmir,Wheat,2022,1663.2
+Jammu & Kashmir,Wheat,2023,1310.6
+Jammu & Kashmir,Wheat,2024,1346.4
+Jammu & Kashmir,Wheat,2025,1486.5
+Jammu & Kashmir,Maize,2010,1024.9
+Jammu & Kashmir,Maize,2011,1015.9
+Jammu & Kashmir,Maize,2012,773.8
+Jammu & Kashmir,Maize,2013,1051.0
+Jammu & Kashmir,Maize,2014,998.0
+Jammu & Kashmir,Maize,2015,855.1
+Jammu & Kashmir,Maize,2016,1021.4
+Jammu & Kashmir,Maize,2017,1000.1
+Jammu & Kashmir,Maize,2018,873.8
+Jammu & Kashmir,Maize,2019,1108.7
+Jammu & Kashmir,Maize,2020,752.2
+Jammu & Kashmir,Maize,2021,908.9
+Jammu & Kashmir,Maize,2022,791.1
+Jammu & Kashmir,Maize,2023,823.2
+Jammu & Kashmir,Maize,2024,953.1
+Jammu & Kashmir,Maize,2025,924.2
+Jammu & Kashmir,Sugarcane,2010,16073.0
+Jammu & Kashmir,Sugarcane,2011,15889.5
+Jammu & Kashmir,Sugarcane,2012,14822.4
+Jammu & Kashmir,Sugarcane,2013,15436.1
+Jammu & Kashmir,Sugarcane,2014,15157.6
+Jammu & Kashmir,Sugarcane,2015,10695.9
+Jammu & Kashmir,Sugarcane,2016,15363.5
+Jammu & Kashmir,Sugarcane,2017,14386.2
+Jammu & Kashmir,Sugarcane,2018,13232.9
+Jammu & Kashmir,Sugarcane,2019,13929.3
+Jammu & Kashmir,Sugarcane,2020,13939.8
+Jammu & Kashmir,Sugarcane,2021,16914.7
+Jammu & Kashmir,Sugarcane,2022,13477.6
+Jammu & Kashmir,Sugarcane,2023,16441.5
+Jammu & Kashmir,Sugarcane,2024,14367.4
+Jammu & Kashmir,Sugarcane,2025,13911.6
+Jammu & Kashmir,Cotton,2010,7583.6
+Jammu & Kashmir,Cotton,2011,6330.3
+Jammu & Kashmir,Cotton,2012,5761.8
+Jammu & Kashmir,Cotton,2013,6304.9
+Jammu & Kashmir,Cotton,2014,7108.9
+Jammu & Kashmir,Cotton,2015,8127.4
+Jammu & Kashmir,Cotton,2016,6922.1
+Jammu & Kashmir,Cotton,2017,6481.0
+Jammu & Kashmir,Cotton,2018,7579.8
+Jammu & Kashmir,Cotton,2019,5788.3
+Jammu & Kashmir,Cotton,2020,7044.6
+Jammu & Kashmir,Cotton,2021,7615.3
+Jammu & Kashmir,Cotton,2022,6385.2
+Jammu & Kashmir,Cotton,2023,7967.9
+Jammu & Kashmir,Cotton,2024,7079.1
+Jammu & Kashmir,Cotton,2025,7333.3
+Jammu & Kashmir,Pulses,2010,1101.9
+Jammu & Kashmir,Pulses,2011,1125.0
+Jammu & Kashmir,Pulses,2012,1201.0
+Jammu & Kashmir,Pulses,2013,1261.1
+Jammu & Kashmir,Pulses,2014,1299.9
+Jammu & Kashmir,Pulses,2015,1199.7
+Jammu & Kashmir,Pulses,2016,1217.7
+Jammu & Kashmir,Pulses,2017,1041.7
+Jammu & Kashmir,Pulses,2018,1176.2
+Jammu & Kashmir,Pulses,2019,1007.5
+Jammu & Kashmir,Pulses,2020,1221.4
+Jammu & Kashmir,Pulses,2021,1202.9
+Jammu & Kashmir,Pulses,2022,1354.0
+Jammu & Kashmir,Pulses,2023,1341.4
+Jammu & Kashmir,Pulses,2024,1070.2
+Jammu & Kashmir,Pulses,2025,991.3
+Jammu & Kashmir,Soybean,2010,849.6
+Jammu & Kashmir,Soybean,2011,1180.2
+Jammu & Kashmir,Soybean,2012,912.3
+Jammu & Kashmir,Soybean,2013,909.8
+Jammu & Kashmir,Soybean,2014,856.0
+Jammu & Kashmir,Soybean,2015,948.7
+Jammu & Kashmir,Soybean,2016,927.6
+Jammu & Kashmir,Soybean,2017,980.3
+Jammu & Kashmir,Soybean,2018,897.3
+Jammu & Kashmir,Soybean,2019,970.7
+Jammu & Kashmir,Soybean,2020,876.2
+Jammu & Kashmir,Soybean,2021,809.3
+Jammu & Kashmir,Soybean,2022,974.1
+Jammu & Kashmir,Soybean,2023,1024.9
+Jammu & Kashmir,Soybean,2024,798.4
+Jammu & Kashmir,Soybean,2025,824.8
+Jammu & Kashmir,Potato,2010,557.4
+Jammu & Kashmir,Potato,2011,476.9
+Jammu & Kashmir,Potato,2012,580.7
+Jammu & Kashmir,Potato,2013,438.9
+Jammu & Kashmir,Potato,2014,535.0
+Jammu & Kashmir,Potato,2015,559.3
+Jammu & Kashmir,Potato,2016,505.5
+Jammu & Kashmir,Potato,2017,406.7
+Jammu & Kashmir,Potato,2018,541.7
+Jammu & Kashmir,Potato,2019,385.3
+Jammu & Kashmir,Potato,2020,620.5
+Jammu & Kashmir,Potato,2021,570.7
+Jammu & Kashmir,Potato,2022,502.2
+Jammu & Kashmir,Potato,2023,470.4
+Jammu & Kashmir,Potato,2024,613.3
+Jammu & Kashmir,Potato,2025,513.7
+Jammu & Kashmir,Tea,2010,5992.3
+Jammu & Kashmir,Tea,2011,6498.8
+Jammu & Kashmir,Tea,2012,6326.3
+Jammu & Kashmir,Tea,2013,6062.4
+Jammu & Kashmir,Tea,2014,4949.8
+Jammu & Kashmir,Tea,2015,5511.5
+Jammu & Kashmir,Tea,2016,6750.5
+Jammu & Kashmir,Tea,2017,7217.8
+Jammu & Kashmir,Tea,2018,4737.9
+Jammu & Kashmir,Tea,2019,5940.3
+Jammu & Kashmir,Tea,2020,6736.6
+Jammu & Kashmir,Tea,2021,6515.0
+Jammu & Kashmir,Tea,2022,6235.7
+Jammu & Kashmir,Tea,2023,5683.2
+Jammu & Kashmir,Tea,2024,6292.8
+Jammu & Kashmir,Tea,2025,6170.3
+Jammu & Kashmir,Groundnut,2010,2097.7
+Jammu & Kashmir,Groundnut,2011,2499.4
+Jammu & Kashmir,Groundnut,2012,1929.1
+Jammu & Kashmir,Groundnut,2013,1909.5
+Jammu & Kashmir,Groundnut,2014,2235.2
+Jammu & Kashmir,Groundnut,2015,1997.1
+Jammu & Kashmir,Groundnut,2016,2067.8
+Jammu & Kashmir,Groundnut,2017,2050.2
+Jammu & Kashmir,Groundnut,2018,2258.3
+Jammu & Kashmir,Groundnut,2019,2466.2
+Jammu & Kashmir,Groundnut,2020,1890.7
+Jammu & Kashmir,Groundnut,2021,1848.5
+Jammu & Kashmir,Groundnut,2022,2023.8
+Jammu & Kashmir,Groundnut,2023,1976.9
+Jammu & Kashmir,Groundnut,2024,2253.9
+Jammu & Kashmir,Groundnut,2025,1623.4
+Jharkhand,Rice,2010,2666.2
+Jharkhand,Rice,2011,2745.0
+Jharkhand,Rice,2012,2474.8
+Jharkhand,Rice,2013,2317.8
+Jharkhand,Rice,2014,2202.0
+Jharkhand,Rice,2015,2176.9
+Jharkhand,Rice,2016,2851.9
+Jharkhand,Rice,2017,1918.0
+Jharkhand,Rice,2018,2441.6
+Jharkhand,Rice,2019,2426.1
+Jharkhand,Rice,2020,2416.8
+Jharkhand,Rice,2021,2386.1
+Jharkhand,Rice,2022,2708.2
+Jharkhand,Rice,2023,2062.8
+Jharkhand,Rice,2024,2417.4
+Jharkhand,Rice,2025,2562.1
+Jharkhand,Wheat,2010,1511.3
+Jharkhand,Wheat,2011,1506.6
+Jharkhand,Wheat,2012,1400.2
+Jharkhand,Wheat,2013,1292.2
+Jharkhand,Wheat,2014,1482.7
+Jharkhand,Wheat,2015,1615.6
+Jharkhand,Wheat,2016,1473.5
+Jharkhand,Wheat,2017,1657.7
+Jharkhand,Wheat,2018,1322.8
+Jharkhand,Wheat,2019,1481.5
+Jharkhand,Wheat,2020,1867.7
+Jharkhand,Wheat,2021,1747.9
+Jharkhand,Wheat,2022,1384.0
+Jharkhand,Wheat,2023,1550.3
+Jharkhand,Wheat,2024,1406.1
+Jharkhand,Wheat,2025,1316.5
+Jharkhand,Maize,2010,754.8
+Jharkhand,Maize,2011,1024.2
+Jharkhand,Maize,2012,749.1
+Jharkhand,Maize,2013,743.7
+Jharkhand,Maize,2014,821.6
+Jharkhand,Maize,2015,788.2
+Jharkhand,Maize,2016,875.7
+Jharkhand,Maize,2017,760.2
+Jharkhand,Maize,2018,1082.8
+Jharkhand,Maize,2019,776.0
+Jharkhand,Maize,2020,979.5
+Jharkhand,Maize,2021,665.8
+Jharkhand,Maize,2022,1093.2
+Jharkhand,Maize,2023,739.0
+Jharkhand,Maize,2024,866.2
+Jharkhand,Maize,2025,673.0
+Jharkhand,Sugarcane,2010,13775.8
+Jharkhand,Sugarcane,2011,17654.4
+Jharkhand,Sugarcane,2012,12098.2
+Jharkhand,Sugarcane,2013,13568.3
+Jharkhand,Sugarcane,2014,15386.4
+Jharkhand,Sugarcane,2015,14991.5
+Jharkhand,Sugarcane,2016,13164.4
+Jharkhand,Sugarcane,2017,15487.6
+Jharkhand,Sugarcane,2018,14370.8
+Jharkhand,Sugarcane,2019,16383.3
+Jharkhand,Sugarcane,2020,17595.7
+Jharkhand,Sugarcane,2021,11697.1
+Jharkhand,Sugarcane,2022,17989.6
+Jharkhand,Sugarcane,2023,12345.7
+Jharkhand,Sugarcane,2024,13195.5
+Jharkhand,Sugarcane,2025,12782.8
+Jharkhand,Cotton,2010,7348.6
+Jharkhand,Cotton,2011,6734.1
+Jharkhand,Cotton,2012,8830.0
+Jharkhand,Cotton,2013,6206.3
+Jharkhand,Cotton,2014,7576.4
+Jharkhand,Cotton,2015,7421.9
+Jharkhand,Cotton,2016,7154.5
+Jharkhand,Cotton,2017,6427.9
+Jharkhand,Cotton,2018,6793.4
+Jharkhand,Cotton,2019,6724.2
+Jharkhand,Cotton,2020,6717.4
+Jharkhand,Cotton,2021,6898.9
+Jharkhand,Cotton,2022,6112.8
+Jharkhand,Cotton,2023,6456.9
+Jharkhand,Cotton,2024,6670.0
+Jharkhand,Cotton,2025,6300.5
+Jharkhand,Pulses,2010,1063.4
+Jharkhand,Pulses,2011,1099.7
+Jharkhand,Pulses,2012,1115.4
+Jharkhand,Pulses,2013,977.9
+Jharkhand,Pulses,2014,1158.1
+Jharkhand,Pulses,2015,1121.8
+Jharkhand,Pulses,2016,1564.6
+Jharkhand,Pulses,2017,976.3
+Jharkhand,Pulses,2018,1296.0
+Jharkhand,Pulses,2019,1075.3
+Jharkhand,Pulses,2020,1310.5
+Jharkhand,Pulses,2021,1173.3
+Jharkhand,Pulses,2022,1239.1
+Jharkhand,Pulses,2023,1245.0
+Jharkhand,Pulses,2024,1395.4
+Jharkhand,Pulses,2025,1093.5
+Jharkhand,Soybean,2010,931.0
+Jharkhand,Soybean,2011,1107.7
+Jharkhand,Soybean,2012,1133.8
+Jharkhand,Soybean,2013,928.8
+Jharkhand,Soybean,2014,760.8
+Jharkhand,Soybean,2015,970.9
+Jharkhand,Soybean,2016,935.5
+Jharkhand,Soybean,2017,1009.8
+Jharkhand,Soybean,2018,919.9
+Jharkhand,Soybean,2019,837.5
+Jharkhand,Soybean,2020,956.1
+Jharkhand,Soybean,2021,782.8
+Jharkhand,Soybean,2022,1105.0
+Jharkhand,Soybean,2023,836.6
+Jharkhand,Soybean,2024,970.0
+Jharkhand,Soybean,2025,760.5
+Jharkhand,Potato,2010,466.2
+Jharkhand,Potato,2011,400.5
+Jharkhand,Potato,2012,445.7
+Jharkhand,Potato,2013,530.3
+Jharkhand,Potato,2014,546.4
+Jharkhand,Potato,2015,510.8
+Jharkhand,Potato,2016,487.5
+Jharkhand,Potato,2017,489.3
+Jharkhand,Potato,2018,493.2
+Jharkhand,Potato,2019,461.2
+Jharkhand,Potato,2020,561.1
+Jharkhand,Potato,2021,478.6
+Jharkhand,Potato,2022,523.9
+Jharkhand,Potato,2023,484.7
+Jharkhand,Potato,2024,539.9
+Jharkhand,Potato,2025,492.0
+Jharkhand,Tea,2010,6705.3
+Jharkhand,Tea,2011,5680.3
+Jharkhand,Tea,2012,6660.8
+Jharkhand,Tea,2013,5439.8
+Jharkhand,Tea,2014,5963.9
+Jharkhand,Tea,2015,5289.8
+Jharkhand,Tea,2016,5398.3
+Jharkhand,Tea,2017,4949.8
+Jharkhand,Tea,2018,7174.2
+Jharkhand,Tea,2019,6427.6
+Jharkhand,Tea,2020,5233.5
+Jharkhand,Tea,2021,5176.2
+Jharkhand,Tea,2022,7276.9
+Jharkhand,Tea,2023,6108.5
+Jharkhand,Tea,2024,5963.7
+Jharkhand,Tea,2025,5499.0
+Jharkhand,Groundnut,2010,1677.4
+Jharkhand,Groundnut,2011,2068.8
+Jharkhand,Groundnut,2012,2164.3
+Jharkhand,Groundnut,2013,1990.8
+Jharkhand,Groundnut,2014,2067.8
+Jharkhand,Groundnut,2015,1823.8
+Jharkhand,Groundnut,2016,2089.1
+Jharkhand,Groundnut,2017,1872.5
+Jharkhand,Groundnut,2018,1792.6
+Jharkhand,Groundnut,2019,1933.2
+Jharkhand,Groundnut,2020,2163.2
+Jharkhand,Groundnut,2021,2252.8
+Jharkhand,Groundnut,2022,1801.6
+Jharkhand,Groundnut,2023,2252.7
+Jharkhand,Groundnut,2024,1973.8
+Jharkhand,Groundnut,2025,1817.4
+Karnataka,Rice,2010,2016.8
+Karnataka,Rice,2011,2460.7
+Karnataka,Rice,2012,2119.7
+Karnataka,Rice,2013,2570.8
+Karnataka,Rice,2014,2261.6
+Karnataka,Rice,2015,2949.5
+Karnataka,Rice,2016,2623.4
+Karnataka,Rice,2017,2820.3
+Karnataka,Rice,2018,2326.9
+Karnataka,Rice,2019,2685.9
+Karnataka,Rice,2020,2513.6
+Karnataka,Rice,2021,2208.7
+Karnataka,Rice,2022,2303.6
+Karnataka,Rice,2023,2119.2
+Karnataka,Rice,2024,2743.9
+Karnataka,Rice,2025,2229.0
+Karnataka,Wheat,2010,1571.1
+Karnataka,Wheat,2011,1694.7
+Karnataka,Wheat,2012,1407.6
+Karnataka,Wheat,2013,1578.9
+Karnataka,Wheat,2014,1740.3
+Karnataka,Wheat,2015,1492.4
+Karnataka,Wheat,2016,1548.4
+Karnataka,Wheat,2017,1668.9
+Karnataka,Wheat,2018,1619.8
+Karnataka,Wheat,2019,1229.4
+Karnataka,Wheat,2020,1578.8
+Karnataka,Wheat,2021,1546.3
+Karnataka,Wheat,2022,1373.5
+Karnataka,Wheat,2023,1344.8
+Karnataka,Wheat,2024,1135.2
+Karnataka,Wheat,2025,1325.0
+Karnataka,Maize,2010,942.4
+Karnataka,Maize,2011,827.8
+Karnataka,Maize,2012,892.3
+Karnataka,Maize,2013,896.4
+Karnataka,Maize,2014,847.7
+Karnataka,Maize,2015,779.4
+Karnataka,Maize,2016,965.7
+Karnataka,Maize,2017,1020.1
+Karnataka,Maize,2018,954.4
+Karnataka,Maize,2019,878.4
+Karnataka,Maize,2020,1022.2
+Karnataka,Maize,2021,991.0
+Karnataka,Maize,2022,774.1
+Karnataka,Maize,2023,826.8
+Karnataka,Maize,2024,718.9
+Karnataka,Maize,2025,858.5
+Karnataka,Sugarcane,2010,15594.5
+Karnataka,Sugarcane,2011,15114.0
+Karnataka,Sugarcane,2012,11634.8
+Karnataka,Sugarcane,2013,12955.1
+Karnataka,Sugarcane,2014,11597.9
+Karnataka,Sugarcane,2015,15525.6
+Karnataka,Sugarcane,2016,15204.7
+Karnataka,Sugarcane,2017,13208.8
+Karnataka,Sugarcane,2018,17165.0
+Karnataka,Sugarcane,2019,17632.8
+Karnataka,Sugarcane,2020,14611.3
+Karnataka,Sugarcane,2021,17976.2
+Karnataka,Sugarcane,2022,15081.7
+Karnataka,Sugarcane,2023,12040.5
+Karnataka,Sugarcane,2024,15581.4
+Karnataka,Sugarcane,2025,16286.4
+Karnataka,Cotton,2010,5510.8
+Karnataka,Cotton,2011,8557.2
+Karnataka,Cotton,2012,6936.6
+Karnataka,Cotton,2013,6311.9
+Karnataka,Cotton,2014,5968.1
+Karnataka,Cotton,2015,7484.8
+Karnataka,Cotton,2016,6967.0
+Karnataka,Cotton,2017,5960.6
+Karnataka,Cotton,2018,6466.1
+Karnataka,Cotton,2019,7680.8
+Karnataka,Cotton,2020,5642.9
+Karnataka,Cotton,2021,7493.8
+Karnataka,Cotton,2022,6461.0
+Karnataka,Cotton,2023,7498.9
+Karnataka,Cotton,2024,7485.8
+Karnataka,Cotton,2025,6872.3
+Karnataka,Pulses,2010,1301.0
+Karnataka,Pulses,2011,1318.4
+Karnataka,Pulses,2012,1026.0
+Karnataka,Pulses,2013,1179.7
+Karnataka,Pulses,2014,911.0
+Karnataka,Pulses,2015,1082.5
+Karnataka,Pulses,2016,1238.3
+Karnataka,Pulses,2017,1156.1
+Karnataka,Pulses,2018,971.5
+Karnataka,Pulses,2019,1201.4
+Karnataka,Pulses,2020,1044.5
+Karnataka,Pulses,2021,1352.7
+Karnataka,Pulses,2022,1290.8
+Karnataka,Pulses,2023,1222.3
+Karnataka,Pulses,2024,950.9
+Karnataka,Pulses,2025,933.7
+Karnataka,Soybean,2010,872.7
+Karnataka,Soybean,2011,1015.1
+Karnataka,Soybean,2012,1082.2
+Karnataka,Soybean,2013,941.6
+Karnataka,Soybean,2014,926.9
+Karnataka,Soybean,2015,966.4
+Karnataka,Soybean,2016,1099.6
+Karnataka,Soybean,2017,1097.1
+Karnataka,Soybean,2018,786.4
+Karnataka,Soybean,2019,1042.4
+Karnataka,Soybean,2020,974.3
+Karnataka,Soybean,2021,897.4
+Karnataka,Soybean,2022,845.9
+Karnataka,Soybean,2023,1045.9
+Karnataka,Soybean,2024,837.7
+Karnataka,Soybean,2025,861.5
+Karnataka,Potato,2010,438.7
+Karnataka,Potato,2011,440.5
+Karnataka,Potato,2012,527.7
+Karnataka,Potato,2013,491.9
+Karnataka,Potato,2014,506.4
+Karnataka,Potato,2015,563.1
+Karnataka,Potato,2016,549.0
+Karnataka,Potato,2017,459.5
+Karnataka,Potato,2018,411.1
+Karnataka,Potato,2019,436.0
+Karnataka,Potato,2020,544.7
+Karnataka,Potato,2021,522.2
+Karnataka,Potato,2022,446.2
+Karnataka,Potato,2023,486.1
+Karnataka,Potato,2024,426.2
+Karnataka,Potato,2025,512.4
+Karnataka,Tea,2010,5846.9
+Karnataka,Tea,2011,5508.3
+Karnataka,Tea,2012,6662.9
+Karnataka,Tea,2013,6411.0
+Karnataka,Tea,2014,5153.8
+Karnataka,Tea,2015,5918.3
+Karnataka,Tea,2016,5488.6
+Karnataka,Tea,2017,5853.8
+Karnataka,Tea,2018,7406.6
+Karnataka,Tea,2019,5735.0
+Karnataka,Tea,2020,5466.5
+Karnataka,Tea,2021,5669.0
+Karnataka,Tea,2022,6571.5
+Karnataka,Tea,2023,5216.1
+Karnataka,Tea,2024,5145.2
+Karnataka,Tea,2025,6075.2
+Karnataka,Groundnut,2010,2019.2
+Karnataka,Groundnut,2011,2309.0
+Karnataka,Groundnut,2012,1693.1
+Karnataka,Groundnut,2013,2003.3
+Karnataka,Groundnut,2014,2038.4
+Karnataka,Groundnut,2015,2201.7
+Karnataka,Groundnut,2016,2098.3
+Karnataka,Groundnut,2017,2242.3
+Karnataka,Groundnut,2018,1901.6
+Karnataka,Groundnut,2019,2286.2
+Karnataka,Groundnut,2020,2074.4
+Karnataka,Groundnut,2021,1871.7
+Karnataka,Groundnut,2022,1731.1
+Karnataka,Groundnut,2023,2041.9
+Karnataka,Groundnut,2024,2148.0
+Karnataka,Groundnut,2025,1435.6
+Kerala,Rice,2010,2527.2
+Kerala,Rice,2011,2371.9
+Kerala,Rice,2012,2794.6
+Kerala,Rice,2013,2189.0
+Kerala,Rice,2014,2614.5
+Kerala,Rice,2015,2439.4
+Kerala,Rice,2016,2487.8
+Kerala,Rice,2017,1949.5
+Kerala,Rice,2018,2506.2
+Kerala,Rice,2019,2325.8
+Kerala,Rice,2020,2072.2
+Kerala,Rice,2021,1949.8
+Kerala,Rice,2022,2640.5
+Kerala,Rice,2023,2105.6
+Kerala,Rice,2024,2188.4
+Kerala,Rice,2025,2429.3
+Kerala,Wheat,2010,1497.4
+Kerala,Wheat,2011,1489.4
+Kerala,Wheat,2012,1759.4
+Kerala,Wheat,2013,1621.9
+Kerala,Wheat,2014,1407.0
+Kerala,Wheat,2015,1352.1
+Kerala,Wheat,2016,1220.6
+Kerala,Wheat,2017,1701.1
+Kerala,Wheat,2018,1337.2
+Kerala,Wheat,2019,1297.6
+Kerala,Wheat,2020,1778.0
+Kerala,Wheat,2021,1632.6
+Kerala,Wheat,2022,1554.9
+Kerala,Wheat,2023,1676.3
+Kerala,Wheat,2024,1451.5
+Kerala,Wheat,2025,1462.8
+Kerala,Maize,2010,1068.1
+Kerala,Maize,2011,871.6
+Kerala,Maize,2012,870.4
+Kerala,Maize,2013,992.7
+Kerala,Maize,2014,866.3
+Kerala,Maize,2015,779.4
+Kerala,Maize,2016,734.4
+Kerala,Maize,2017,781.7
+Kerala,Maize,2018,904.3
+Kerala,Maize,2019,898.5
+Kerala,Maize,2020,1030.1
+Kerala,Maize,2021,930.1
+Kerala,Maize,2022,788.6
+Kerala,Maize,2023,817.6
+Kerala,Maize,2024,1097.9
+Kerala,Maize,2025,826.0
+Kerala,Sugarcane,2010,13026.5
+Kerala,Sugarcane,2011,15704.6
+Kerala,Sugarcane,2012,13517.8
+Kerala,Sugarcane,2013,16825.7
+Kerala,Sugarcane,2014,16149.1
+Kerala,Sugarcane,2015,13597.8
+Kerala,Sugarcane,2016,15069.2
+Kerala,Sugarcane,2017,16036.7
+Kerala,Sugarcane,2018,12792.8
+Kerala,Sugarcane,2019,11941.6
+Kerala,Sugarcane,2020,13824.0
+Kerala,Sugarcane,2021,17575.9
+Kerala,Sugarcane,2022,15205.8
+Kerala,Sugarcane,2023,12202.0
+Kerala,Sugarcane,2024,16009.2
+Kerala,Sugarcane,2025,18522.8
+Kerala,Cotton,2010,7170.9
+Kerala,Cotton,2011,6186.6
+Kerala,Cotton,2012,6409.0
+Kerala,Cotton,2013,7288.1
+Kerala,Cotton,2014,6370.7
+Kerala,Cotton,2015,6024.7
+Kerala,Cotton,2016,8531.3
+Kerala,Cotton,2017,6497.4
+Kerala,Cotton,2018,9303.4
+Kerala,Cotton,2019,7817.3
+Kerala,Cotton,2020,7062.2
+Kerala,Cotton,2021,6602.7
+Kerala,Cotton,2022,7607.9
+Kerala,Cotton,2023,6045.9
+Kerala,Cotton,2024,6520.7
+Kerala,Cotton,2025,6252.5
+Kerala,Pulses,2010,1174.0
+Kerala,Pulses,2011,1201.1
+Kerala,Pulses,2012,1223.9
+Kerala,Pulses,2013,1217.0
+Kerala,Pulses,2014,1330.1
+Kerala,Pulses,2015,1048.1
+Kerala,Pulses,2016,1212.4
+Kerala,Pulses,2017,1526.1
+Kerala,Pulses,2018,1025.9
+Kerala,Pulses,2019,1450.5
+Kerala,Pulses,2020,1173.7
+Kerala,Pulses,2021,1093.8
+Kerala,Pulses,2022,1066.8
+Kerala,Pulses,2023,1289.6
+Kerala,Pulses,2024,1096.0
+Kerala,Pulses,2025,1074.5
+Kerala,Soybean,2010,882.1
+Kerala,Soybean,2011,1076.6
+Kerala,Soybean,2012,946.2
+Kerala,Soybean,2013,879.6
+Kerala,Soybean,2014,983.2
+Kerala,Soybean,2015,1045.6
+Kerala,Soybean,2016,1056.4
+Kerala,Soybean,2017,1067.5
+Kerala,Soybean,2018,949.1
+Kerala,Soybean,2019,1007.6
+Kerala,Soybean,2020,849.3
+Kerala,Soybean,2021,906.6
+Kerala,Soybean,2022,1165.0
+Kerala,Soybean,2023,958.1
+Kerala,Soybean,2024,1103.4
+Kerala,Soybean,2025,937.2
+Kerala,Potato,2010,485.1
+Kerala,Potato,2011,472.2
+Kerala,Potato,2012,497.7
+Kerala,Potato,2013,459.2
+Kerala,Potato,2014,577.9
+Kerala,Potato,2015,470.4
+Kerala,Potato,2016,591.0
+Kerala,Potato,2017,453.9
+Kerala,Potato,2018,388.2
+Kerala,Potato,2019,445.7
+Kerala,Potato,2020,578.2
+Kerala,Potato,2021,502.9
+Kerala,Potato,2022,565.8
+Kerala,Potato,2023,478.8
+Kerala,Potato,2024,524.3
+Kerala,Potato,2025,539.5
+Kerala,Tea,2010,5540.5
+Kerala,Tea,2011,6144.7
+Kerala,Tea,2012,6644.1
+Kerala,Tea,2013,6170.4
+Kerala,Tea,2014,5684.3
+Kerala,Tea,2015,7280.4
+Kerala,Tea,2016,5692.8
+Kerala,Tea,2017,5829.9
+Kerala,Tea,2018,6287.5
+Kerala,Tea,2019,6422.3
+Kerala,Tea,2020,5973.9
+Kerala,Tea,2021,5375.0
+Kerala,Tea,2022,6913.0
+Kerala,Tea,2023,5206.0
+Kerala,Tea,2024,5950.9
+Kerala,Tea,2025,5902.5
+Kerala,Groundnut,2010,2179.7
+Kerala,Groundnut,2011,1699.3
+Kerala,Groundnut,2012,1875.7
+Kerala,Groundnut,2013,2361.0
+Kerala,Groundnut,2014,1653.6
+Kerala,Groundnut,2015,2301.7
+Kerala,Groundnut,2016,2243.9
+Kerala,Groundnut,2017,1662.4
+Kerala,Groundnut,2018,2216.0
+Kerala,Groundnut,2019,1676.7
+Kerala,Groundnut,2020,2289.0
+Kerala,Groundnut,2021,1810.2
+Kerala,Groundnut,2022,1886.5
+Kerala,Groundnut,2023,1601.4
+Kerala,Groundnut,2024,1836.7
+Kerala,Groundnut,2025,2032.4
+Madhya Pradesh,Rice,2010,2697.4
+Madhya Pradesh,Rice,2011,2774.8
+Madhya Pradesh,Rice,2012,1927.8
+Madhya Pradesh,Rice,2013,2642.5
+Madhya Pradesh,Rice,2014,2644.4
+Madhya Pradesh,Rice,2015,2461.6
+Madhya Pradesh,Rice,2016,2678.7
+Madhya Pradesh,Rice,2017,2222.1
+Madhya Pradesh,Rice,2018,2583.6
+Madhya Pradesh,Rice,2019,2747.2
+Madhya Pradesh,Rice,2020,1944.6
+Madhya Pradesh,Rice,2021,2914.5
+Madhya Pradesh,Rice,2022,2201.1
+Madhya Pradesh,Rice,2023,2221.2
+Madhya Pradesh,Rice,2024,2549.2
+Madhya Pradesh,Rice,2025,2058.4
+Madhya Pradesh,Wheat,2010,1548.2
+Madhya Pradesh,Wheat,2011,1608.4
+Madhya Pradesh,Wheat,2012,1660.1
+Madhya Pradesh,Wheat,2013,1716.9
+Madhya Pradesh,Wheat,2014,1354.1
+Madhya Pradesh,Wheat,2015,1702.4
+Madhya Pradesh,Wheat,2016,1303.8
+Madhya Pradesh,Wheat,2017,1297.6
+Madhya Pradesh,Wheat,2018,1203.5
+Madhya Pradesh,Wheat,2019,1252.4
+Madhya Pradesh,Wheat,2020,1464.7
+Madhya Pradesh,Wheat,2021,1587.3
+Madhya Pradesh,Wheat,2022,1114.4
+Madhya Pradesh,Wheat,2023,1616.4
+Madhya Pradesh,Wheat,2024,1359.9
+Madhya Pradesh,Wheat,2025,1522.1
+Madhya Pradesh,Maize,2010,916.8
+Madhya Pradesh,Maize,2011,1072.0
+Madhya Pradesh,Maize,2012,931.2
+Madhya Pradesh,Maize,2013,1073.2
+Madhya Pradesh,Maize,2014,820.8
+Madhya Pradesh,Maize,2015,877.5
+Madhya Pradesh,Maize,2016,767.1
+Madhya Pradesh,Maize,2017,795.6
+Madhya Pradesh,Maize,2018,805.4
+Madhya Pradesh,Maize,2019,646.1
+Madhya Pradesh,Maize,2020,881.4
+Madhya Pradesh,Maize,2021,835.1
+Madhya Pradesh,Maize,2022,978.9
+Madhya Pradesh,Maize,2023,883.6
+Madhya Pradesh,Maize,2024,1069.7
+Madhya Pradesh,Maize,2025,784.5
+Madhya Pradesh,Sugarcane,2010,14978.3
+Madhya Pradesh,Sugarcane,2011,13338.3
+Madhya Pradesh,Sugarcane,2012,12938.0
+Madhya Pradesh,Sugarcane,2013,13211.2
+Madhya Pradesh,Sugarcane,2014,13895.9
+Madhya Pradesh,Sugarcane,2015,12993.1
+Madhya Pradesh,Sugarcane,2016,11386.8
+Madhya Pradesh,Sugarcane,2017,13835.0
+Madhya Pradesh,Sugarcane,2018,13683.9
+Madhya Pradesh,Sugarcane,2019,13958.9
+Madhya Pradesh,Sugarcane,2020,15500.9
+Madhya Pradesh,Sugarcane,2021,16721.1
+Madhya Pradesh,Sugarcane,2022,16846.2
+Madhya Pradesh,Sugarcane,2023,15740.7
+Madhya Pradesh,Sugarcane,2024,13490.4
+Madhya Pradesh,Sugarcane,2025,14074.3
+Madhya Pradesh,Cotton,2010,8520.2
+Madhya Pradesh,Cotton,2011,6340.0
+Madhya Pradesh,Cotton,2012,6239.1
+Madhya Pradesh,Cotton,2013,6704.1
+Madhya Pradesh,Cotton,2014,7993.9
+Madhya Pradesh,Cotton,2015,7169.4
+Madhya Pradesh,Cotton,2016,7244.6
+Madhya Pradesh,Cotton,2017,6693.4
+Madhya Pradesh,Cotton,2018,7606.5
+Madhya Pradesh,Cotton,2019,6228.0
+Madhya Pradesh,Cotton,2020,8359.1
+Madhya Pradesh,Cotton,2021,6028.3
+Madhya Pradesh,Cotton,2022,6769.2
+Madhya Pradesh,Cotton,2023,6323.1
+Madhya Pradesh,Cotton,2024,5750.7
+Madhya Pradesh,Cotton,2025,8082.8
+Madhya Pradesh,Pulses,2010,1102.1
+Madhya Pradesh,Pulses,2011,1114.5
+Madhya Pradesh,Pulses,2012,1294.7
+Madhya Pradesh,Pulses,2013,1495.1
+Madhya Pradesh,Pulses,2014,1236.9
+Madhya Pradesh,Pulses,2015,1186.8
+Madhya Pradesh,Pulses,2016,1407.4
+Madhya Pradesh,Pulses,2017,1225.2
+Madhya Pradesh,Pulses,2018,1119.4
+Madhya Pradesh,Pulses,2019,1304.4
+Madhya Pradesh,Pulses,2020,1285.5
+Madhya Pradesh,Pulses,2021,1397.1
+Madhya Pradesh,Pulses,2022,1353.4
+Madhya Pradesh,Pulses,2023,1202.3
+Madhya Pradesh,Pulses,2024,942.3
+Madhya Pradesh,Pulses,2025,1044.6
+Madhya Pradesh,Soybean,2010,923.5
+Madhya Pradesh,Soybean,2011,1130.1
+Madhya Pradesh,Soybean,2012,1010.7
+Madhya Pradesh,Soybean,2013,955.8
+Madhya Pradesh,Soybean,2014,910.9
+Madhya Pradesh,Soybean,2015,732.0
+Madhya Pradesh,Soybean,2016,922.8
+Madhya Pradesh,Soybean,2017,983.6
+Madhya Pradesh,Soybean,2018,1074.2
+Madhya Pradesh,Soybean,2019,786.0
+Madhya Pradesh,Soybean,2020,935.2
+Madhya Pradesh,Soybean,2021,960.9
+Madhya Pradesh,Soybean,2022,868.9
+Madhya Pradesh,Soybean,2023,961.3
+Madhya Pradesh,Soybean,2024,1081.9
+Madhya Pradesh,Soybean,2025,1064.1
+Madhya Pradesh,Potato,2010,471.4
+Madhya Pradesh,Potato,2011,556.8
+Madhya Pradesh,Potato,2012,437.6
+Madhya Pradesh,Potato,2013,453.2
+Madhya Pradesh,Potato,2014,456.7
+Madhya Pradesh,Potato,2015,486.7
+Madhya Pradesh,Potato,2016,465.8
+Madhya Pradesh,Potato,2017,449.0
+Madhya Pradesh,Potato,2018,616.2
+Madhya Pradesh,Potato,2019,546.8
+Madhya Pradesh,Potato,2020,489.8
+Madhya Pradesh,Potato,2021,498.0
+Madhya Pradesh,Potato,2022,424.5
+Madhya Pradesh,Potato,2023,592.6
+Madhya Pradesh,Potato,2024,585.5
+Madhya Pradesh,Potato,2025,529.6
+Madhya Pradesh,Tea,2010,4430.9
+Madhya Pradesh,Tea,2011,5961.3
+Madhya Pradesh,Tea,2012,5960.9
+Madhya Pradesh,Tea,2013,5256.6
+Madhya Pradesh,Tea,2014,5931.7
+Madhya Pradesh,Tea,2015,5248.4
+Madhya Pradesh,Tea,2016,5230.6
+Madhya Pradesh,Tea,2017,4979.3
+Madhya Pradesh,Tea,2018,5314.1
+Madhya Pradesh,Tea,2019,5189.4
+Madhya Pradesh,Tea,2020,4837.4
+Madhya Pradesh,Tea,2021,5516.8
+Madhya Pradesh,Tea,2022,5408.3
+Madhya Pradesh,Tea,2023,6839.6
+Madhya Pradesh,Tea,2024,6720.3
+Madhya Pradesh,Tea,2025,5596.7
+Madhya Pradesh,Groundnut,2010,1799.4
+Madhya Pradesh,Groundnut,2011,2755.0
+Madhya Pradesh,Groundnut,2012,1608.1
+Madhya Pradesh,Groundnut,2013,1754.8
+Madhya Pradesh,Groundnut,2014,2229.6
+Madhya Pradesh,Groundnut,2015,2087.0
+Madhya Pradesh,Groundnut,2016,1891.9
+Madhya Pradesh,Groundnut,2017,2269.6
+Madhya Pradesh,Groundnut,2018,2143.1
+Madhya Pradesh,Groundnut,2019,1879.4
+Madhya Pradesh,Groundnut,2020,2325.8
+Madhya Pradesh,Groundnut,2021,1678.5
+Madhya Pradesh,Groundnut,2022,2328.4
+Madhya Pradesh,Groundnut,2023,1943.4
+Madhya Pradesh,Groundnut,2024,1784.3
+Madhya Pradesh,Groundnut,2025,1861.3
+Maharashtra,Rice,2010,2418.2
+Maharashtra,Rice,2011,3144.0
+Maharashtra,Rice,2012,2589.4
+Maharashtra,Rice,2013,2738.2
+Maharashtra,Rice,2014,2702.2
+Maharashtra,Rice,2015,2297.8
+Maharashtra,Rice,2016,2763.8
+Maharashtra,Rice,2017,2373.8
+Maharashtra,Rice,2018,2754.2
+Maharashtra,Rice,2019,2503.3
+Maharashtra,Rice,2020,2502.9
+Maharashtra,Rice,2021,1954.2
+Maharashtra,Rice,2022,2455.4
+Maharashtra,Rice,2023,2366.7
+Maharashtra,Rice,2024,3013.2
+Maharashtra,Rice,2025,2855.5
+Maharashtra,Wheat,2010,1507.3
+Maharashtra,Wheat,2011,1736.3
+Maharashtra,Wheat,2012,1882.8
+Maharashtra,Wheat,2013,1621.2
+Maharashtra,Wheat,2014,1438.4
+Maharashtra,Wheat,2015,1345.3
+Maharashtra,Wheat,2016,1476.1
+Maharashtra,Wheat,2017,1492.6
+Maharashtra,Wheat,2018,1455.5
+Maharashtra,Wheat,2019,1460.1
+Maharashtra,Wheat,2020,1402.9
+Maharashtra,Wheat,2021,1511.7
+Maharashtra,Wheat,2022,1514.1
+Maharashtra,Wheat,2023,1579.2
+Maharashtra,Wheat,2024,1520.4
+Maharashtra,Wheat,2025,1210.0
+Maharashtra,Maize,2010,915.9
+Maharashtra,Maize,2011,686.5
+Maharashtra,Maize,2012,1032.9
+Maharashtra,Maize,2013,1036.8
+Maharashtra,Maize,2014,1037.9
+Maharashtra,Maize,2015,830.1
+Maharashtra,Maize,2016,943.2
+Maharashtra,Maize,2017,992.4
+Maharashtra,Maize,2018,851.1
+Maharashtra,Maize,2019,1010.8
+Maharashtra,Maize,2020,917.3
+Maharashtra,Maize,2021,898.1
+Maharashtra,Maize,2022,876.2
+Maharashtra,Maize,2023,742.4
+Maharashtra,Maize,2024,784.1
+Maharashtra,Maize,2025,961.6
+Maharashtra,Sugarcane,2010,14401.7
+Maharashtra,Sugarcane,2011,12439.3
+Maharashtra,Sugarcane,2012,15594.7
+Maharashtra,Sugarcane,2013,16849.2
+Maharashtra,Sugarcane,2014,13564.6
+Maharashtra,Sugarcane,2015,15893.7
+Maharashtra,Sugarcane,2016,16075.1
+Maharashtra,Sugarcane,2017,14589.0
+Maharashtra,Sugarcane,2018,16111.5
+Maharashtra,Sugarcane,2019,13579.1
+Maharashtra,Sugarcane,2020,14360.9
+Maharashtra,Sugarcane,2021,16507.4
+Maharashtra,Sugarcane,2022,15982.5
+Maharashtra,Sugarcane,2023,15016.8
+Maharashtra,Sugarcane,2024,14741.5
+Maharashtra,Sugarcane,2025,13325.6
+Maharashtra,Cotton,2010,7489.6
+Maharashtra,Cotton,2011,7659.3
+Maharashtra,Cotton,2012,7553.6
+Maharashtra,Cotton,2013,8949.5
+Maharashtra,Cotton,2014,7630.8
+Maharashtra,Cotton,2015,7462.3
+Maharashtra,Cotton,2016,6185.8
+Maharashtra,Cotton,2017,7572.9
+Maharashtra,Cotton,2018,6685.5
+Maharashtra,Cotton,2019,6173.1
+Maharashtra,Cotton,2020,5927.3
+Maharashtra,Cotton,2021,8286.3
+Maharashtra,Cotton,2022,5791.6
+Maharashtra,Cotton,2023,6711.5
+Maharashtra,Cotton,2024,6393.9
+Maharashtra,Cotton,2025,6432.9
+Maharashtra,Pulses,2010,1406.2
+Maharashtra,Pulses,2011,1389.3
+Maharashtra,Pulses,2012,1162.9
+Maharashtra,Pulses,2013,919.5
+Maharashtra,Pulses,2014,1105.9
+Maharashtra,Pulses,2015,1172.3
+Maharashtra,Pulses,2016,966.8
+Maharashtra,Pulses,2017,1351.4
+Maharashtra,Pulses,2018,1381.2
+Maharashtra,Pulses,2019,1034.2
+Maharashtra,Pulses,2020,985.9
+Maharashtra,Pulses,2021,1064.1
+Maharashtra,Pulses,2022,1257.3
+Maharashtra,Pulses,2023,1267.9
+Maharashtra,Pulses,2024,1214.5
+Maharashtra,Pulses,2025,1349.0
+Maharashtra,Soybean,2010,1042.4
+Maharashtra,Soybean,2011,943.4
+Maharashtra,Soybean,2012,956.0
+Maharashtra,Soybean,2013,812.9
+Maharashtra,Soybean,2014,885.8
+Maharashtra,Soybean,2015,947.6
+Maharashtra,Soybean,2016,877.5
+Maharashtra,Soybean,2017,1110.7
+Maharashtra,Soybean,2018,746.4
+Maharashtra,Soybean,2019,909.9
+Maharashtra,Soybean,2020,1029.6
+Maharashtra,Soybean,2021,1062.6
+Maharashtra,Soybean,2022,856.4
+Maharashtra,Soybean,2023,970.9
+Maharashtra,Soybean,2024,895.3
+Maharashtra,Soybean,2025,979.3
+Maharashtra,Potato,2010,435.5
+Maharashtra,Potato,2011,475.9
+Maharashtra,Potato,2012,408.9
+Maharashtra,Potato,2013,447.7
+Maharashtra,Potato,2014,566.8
+Maharashtra,Potato,2015,538.8
+Maharashtra,Potato,2016,503.6
+Maharashtra,Potato,2017,450.5
+Maharashtra,Potato,2018,458.0
+Maharashtra,Potato,2019,425.5
+Maharashtra,Potato,2020,462.0
+Maharashtra,Potato,2021,413.0
+Maharashtra,Potato,2022,373.5
+Maharashtra,Potato,2023,549.9
+Maharashtra,Potato,2024,482.2
+Maharashtra,Potato,2025,512.9
+Maharashtra,Tea,2010,5342.4
+Maharashtra,Tea,2011,5161.1
+Maharashtra,Tea,2012,5609.0
+Maharashtra,Tea,2013,6182.0
+Maharashtra,Tea,2014,7027.3
+Maharashtra,Tea,2015,6514.6
+Maharashtra,Tea,2016,6789.7
+Maharashtra,Tea,2017,6624.0
+Maharashtra,Tea,2018,5053.1
+Maharashtra,Tea,2019,5295.1
+Maharashtra,Tea,2020,4756.0
+Maharashtra,Tea,2021,6396.0
+Maharashtra,Tea,2022,6364.2
+Maharashtra,Tea,2023,6902.8
+Maharashtra,Tea,2024,4781.8
+Maharashtra,Tea,2025,6169.2
+Maharashtra,Groundnut,2010,1755.2
+Maharashtra,Groundnut,2011,1732.3
+Maharashtra,Groundnut,2012,1903.1
+Maharashtra,Groundnut,2013,2098.4
+Maharashtra,Groundnut,2014,2237.8
+Maharashtra,Groundnut,2015,2151.6
+Maharashtra,Groundnut,2016,1877.3
+Maharashtra,Groundnut,2017,2060.7
+Maharashtra,Groundnut,2018,2101.1
+Maharashtra,Groundnut,2019,1834.0
+Maharashtra,Groundnut,2020,2552.9
+Maharashtra,Groundnut,2021,2009.7
+Maharashtra,Groundnut,2022,1563.6
+Maharashtra,Groundnut,2023,2126.1
+Maharashtra,Groundnut,2024,1540.0
+Maharashtra,Groundnut,2025,1895.6
+Manipur,Rice,2010,2893.9
+Manipur,Rice,2011,2142.8
+Manipur,Rice,2012,2398.0
+Manipur,Rice,2013,2630.1
+Manipur,Rice,2014,2484.3
+Manipur,Rice,2015,2928.8
+Manipur,Rice,2016,2473.5
+Manipur,Rice,2017,2719.2
+Manipur,Rice,2018,2281.0
+Manipur,Rice,2019,2848.2
+Manipur,Rice,2020,2156.3
+Manipur,Rice,2021,2141.6
+Manipur,Rice,2022,2630.1
+Manipur,Rice,2023,2765.7
+Manipur,Rice,2024,2960.1
+Manipur,Rice,2025,2331.3
+Manipur,Wheat,2010,1418.9
+Manipur,Wheat,2011,1573.4
+Manipur,Wheat,2012,1521.3
+Manipur,Wheat,2013,1415.3
+Manipur,Wheat,2014,1200.4
+Manipur,Wheat,2015,1628.3
+Manipur,Wheat,2016,1264.0
+Manipur,Wheat,2017,1370.7
+Manipur,Wheat,2018,1607.5
+Manipur,Wheat,2019,1390.0
+Manipur,Wheat,2020,1424.5
+Manipur,Wheat,2021,1530.9
+Manipur,Wheat,2022,1713.7
+Manipur,Wheat,2023,1658.2
+Manipur,Wheat,2024,1591.3
+Manipur,Wheat,2025,1592.5
+Manipur,Maize,2010,983.2
+Manipur,Maize,2011,1087.7
+Manipur,Maize,2012,902.5
+Manipur,Maize,2013,965.1
+Manipur,Maize,2014,901.9
+Manipur,Maize,2015,857.5
+Manipur,Maize,2016,879.5
+Manipur,Maize,2017,885.1
+Manipur,Maize,2018,1024.4
+Manipur,Maize,2019,945.2
+Manipur,Maize,2020,889.9
+Manipur,Maize,2021,939.4
+Manipur,Maize,2022,822.3
+Manipur,Maize,2023,786.0
+Manipur,Maize,2024,1071.7
+Manipur,Maize,2025,1116.0
+Manipur,Sugarcane,2010,18663.1
+Manipur,Sugarcane,2011,16044.3
+Manipur,Sugarcane,2012,13921.1
+Manipur,Sugarcane,2013,14135.8
+Manipur,Sugarcane,2014,15590.2
+Manipur,Sugarcane,2015,13312.2
+Manipur,Sugarcane,2016,15819.6
+Manipur,Sugarcane,2017,16999.0
+Manipur,Sugarcane,2018,14080.2
+Manipur,Sugarcane,2019,16404.2
+Manipur,Sugarcane,2020,13664.8
+Manipur,Sugarcane,2021,13891.1
+Manipur,Sugarcane,2022,15149.7
+Manipur,Sugarcane,2023,14373.1
+Manipur,Sugarcane,2024,12497.0
+Manipur,Sugarcane,2025,16811.1
+Manipur,Cotton,2010,7734.4
+Manipur,Cotton,2011,5448.3
+Manipur,Cotton,2012,6261.6
+Manipur,Cotton,2013,5538.1
+Manipur,Cotton,2014,6483.3
+Manipur,Cotton,2015,7656.1
+Manipur,Cotton,2016,6622.5
+Manipur,Cotton,2017,6294.0
+Manipur,Cotton,2018,6478.3
+Manipur,Cotton,2019,7300.1
+Manipur,Cotton,2020,6530.4
+Manipur,Cotton,2021,7121.2
+Manipur,Cotton,2022,6903.2
+Manipur,Cotton,2023,7854.8
+Manipur,Cotton,2024,8112.0
+Manipur,Cotton,2025,6243.9
+Manipur,Pulses,2010,1122.5
+Manipur,Pulses,2011,1024.4
+Manipur,Pulses,2012,1164.1
+Manipur,Pulses,2013,1216.8
+Manipur,Pulses,2014,1244.6
+Manipur,Pulses,2015,1292.9
+Manipur,Pulses,2016,1117.1
+Manipur,Pulses,2017,1139.5
+Manipur,Pulses,2018,1277.5
+Manipur,Pulses,2019,885.2
+Manipur,Pulses,2020,1190.5
+Manipur,Pulses,2021,1306.4
+Manipur,Pulses,2022,1097.9
+Manipur,Pulses,2023,1296.3
+Manipur,Pulses,2024,1216.8
+Manipur,Pulses,2025,1079.8
+Manipur,Soybean,2010,1062.9
+Manipur,Soybean,2011,765.3
+Manipur,Soybean,2012,845.9
+Manipur,Soybean,2013,959.8
+Manipur,Soybean,2014,864.1
+Manipur,Soybean,2015,923.8
+Manipur,Soybean,2016,789.8
+Manipur,Soybean,2017,846.6
+Manipur,Soybean,2018,1025.3
+Manipur,Soybean,2019,938.0
+Manipur,Soybean,2020,1003.7
+Manipur,Soybean,2021,914.3
+Manipur,Soybean,2022,1023.5
+Manipur,Soybean,2023,793.0
+Manipur,Soybean,2024,882.7
+Manipur,Soybean,2025,1036.1
+Manipur,Potato,2010,544.2
+Manipur,Potato,2011,470.6
+Manipur,Potato,2012,485.2
+Manipur,Potato,2013,492.4
+Manipur,Potato,2014,471.6
+Manipur,Potato,2015,390.6
+Manipur,Potato,2016,519.3
+Manipur,Potato,2017,442.7
+Manipur,Potato,2018,439.0
+Manipur,Potato,2019,597.9
+Manipur,Potato,2020,560.8
+Manipur,Potato,2021,502.5
+Manipur,Potato,2022,528.2
+Manipur,Potato,2023,588.5
+Manipur,Potato,2024,491.6
+Manipur,Potato,2025,442.3
+Manipur,Tea,2010,6017.4
+Manipur,Tea,2011,5155.5
+Manipur,Tea,2012,5887.8
+Manipur,Tea,2013,5092.2
+Manipur,Tea,2014,6691.2
+Manipur,Tea,2015,5601.5
+Manipur,Tea,2016,5773.5
+Manipur,Tea,2017,5646.6
+Manipur,Tea,2018,7339.8
+Manipur,Tea,2019,5843.4
+Manipur,Tea,2020,4854.7
+Manipur,Tea,2021,5951.2
+Manipur,Tea,2022,7277.8
+Manipur,Tea,2023,6351.2
+Manipur,Tea,2024,4996.8
+Manipur,Tea,2025,5834.5
+Manipur,Groundnut,2010,2031.7
+Manipur,Groundnut,2011,2121.1
+Manipur,Groundnut,2012,1703.6
+Manipur,Groundnut,2013,1902.3
+Manipur,Groundnut,2014,1802.0
+Manipur,Groundnut,2015,2263.3
+Manipur,Groundnut,2016,1958.4
+Manipur,Groundnut,2017,1874.9
+Manipur,Groundnut,2018,2357.6
+Manipur,Groundnut,2019,2009.8
+Manipur,Groundnut,2020,2154.1
+Manipur,Groundnut,2021,1797.2
+Manipur,Groundnut,2022,1929.3
+Manipur,Groundnut,2023,2131.3
+Manipur,Groundnut,2024,2071.6
+Manipur,Groundnut,2025,1999.3
+Meghalaya,Rice,2010,2597.1
+Meghalaya,Rice,2011,2261.6
+Meghalaya,Rice,2012,2845.8
+Meghalaya,Rice,2013,3011.4
+Meghalaya,Rice,2014,2378.5
+Meghalaya,Rice,2015,2621.1
+Meghalaya,Rice,2016,2489.3
+Meghalaya,Rice,2017,2862.3
+Meghalaya,Rice,2018,2487.3
+Meghalaya,Rice,2019,2479.2
+Meghalaya,Rice,2020,2469.1
+Meghalaya,Rice,2021,2704.4
+Meghalaya,Rice,2022,2069.2
+Meghalaya,Rice,2023,2444.7
+Meghalaya,Rice,2024,2588.2
+Meghalaya,Rice,2025,2047.6
+Meghalaya,Wheat,2010,1349.7
+Meghalaya,Wheat,2011,1289.1
+Meghalaya,Wheat,2012,1705.7
+Meghalaya,Wheat,2013,1215.4
+Meghalaya,Wheat,2014,1632.1
+Meghalaya,Wheat,2015,1639.1
+Meghalaya,Wheat,2016,1460.7
+Meghalaya,Wheat,2017,1780.5
+Meghalaya,Wheat,2018,1532.8
+Meghalaya,Wheat,2019,1355.1
+Meghalaya,Wheat,2020,1266.8
+Meghalaya,Wheat,2021,1504.3
+Meghalaya,Wheat,2022,1226.0
+Meghalaya,Wheat,2023,1800.2
+Meghalaya,Wheat,2024,1092.8
+Meghalaya,Wheat,2025,1236.9
+Meghalaya,Maize,2010,767.2
+Meghalaya,Maize,2011,779.7
+Meghalaya,Maize,2012,805.7
+Meghalaya,Maize,2013,884.3
+Meghalaya,Maize,2014,839.3
+Meghalaya,Maize,2015,1027.4
+Meghalaya,Maize,2016,1036.1
+Meghalaya,Maize,2017,841.7
+Meghalaya,Maize,2018,967.2
+Meghalaya,Maize,2019,991.5
+Meghalaya,Maize,2020,984.6
+Meghalaya,Maize,2021,744.9
+Meghalaya,Maize,2022,758.5
+Meghalaya,Maize,2023,1046.9
+Meghalaya,Maize,2024,1030.9
+Meghalaya,Maize,2025,717.1
+Meghalaya,Sugarcane,2010,14403.3
+Meghalaya,Sugarcane,2011,13088.0
+Meghalaya,Sugarcane,2012,14303.6
+Meghalaya,Sugarcane,2013,15763.0
+Meghalaya,Sugarcane,2014,14310.5
+Meghalaya,Sugarcane,2015,16198.3
+Meghalaya,Sugarcane,2016,15949.9
+Meghalaya,Sugarcane,2017,14069.2
+Meghalaya,Sugarcane,2018,15757.8
+Meghalaya,Sugarcane,2019,12299.5
+Meghalaya,Sugarcane,2020,13221.8
+Meghalaya,Sugarcane,2021,15543.6
+Meghalaya,Sugarcane,2022,16095.0
+Meghalaya,Sugarcane,2023,14190.4
+Meghalaya,Sugarcane,2024,17950.1
+Meghalaya,Sugarcane,2025,14766.6
+Meghalaya,Cotton,2010,5725.4
+Meghalaya,Cotton,2011,6026.0
+Meghalaya,Cotton,2012,7479.1
+Meghalaya,Cotton,2013,7147.1
+Meghalaya,Cotton,2014,7063.9
+Meghalaya,Cotton,2015,7172.3
+Meghalaya,Cotton,2016,7654.1
+Meghalaya,Cotton,2017,7149.1
+Meghalaya,Cotton,2018,5511.8
+Meghalaya,Cotton,2019,8286.9
+Meghalaya,Cotton,2020,7368.8
+Meghalaya,Cotton,2021,7009.0
+Meghalaya,Cotton,2022,6011.4
+Meghalaya,Cotton,2023,8267.3
+Meghalaya,Cotton,2024,7807.1
+Meghalaya,Cotton,2025,8774.6
+Meghalaya,Pulses,2010,1335.5
+Meghalaya,Pulses,2011,1169.4
+Meghalaya,Pulses,2012,1350.1
+Meghalaya,Pulses,2013,1227.6
+Meghalaya,Pulses,2014,1092.0
+Meghalaya,Pulses,2015,1131.5
+Meghalaya,Pulses,2016,1206.5
+Meghalaya,Pulses,2017,1035.6
+Meghalaya,Pulses,2018,893.8
+Meghalaya,Pulses,2019,1264.4
+Meghalaya,Pulses,2020,1108.0
+Meghalaya,Pulses,2021,1108.9
+Meghalaya,Pulses,2022,1007.8
+Meghalaya,Pulses,2023,1315.4
+Meghalaya,Pulses,2024,1094.2
+Meghalaya,Pulses,2025,1095.9
+Meghalaya,Soybean,2010,980.6
+Meghalaya,Soybean,2011,821.8
+Meghalaya,Soybean,2012,1079.4
+Meghalaya,Soybean,2013,1162.2
+Meghalaya,Soybean,2014,887.8
+Meghalaya,Soybean,2015,868.7
+Meghalaya,Soybean,2016,1080.1
+Meghalaya,Soybean,2017,908.7
+Meghalaya,Soybean,2018,818.2
+Meghalaya,Soybean,2019,723.2
+Meghalaya,Soybean,2020,990.6
+Meghalaya,Soybean,2021,775.8
+Meghalaya,Soybean,2022,850.6
+Meghalaya,Soybean,2023,1016.0
+Meghalaya,Soybean,2024,898.2
+Meghalaya,Soybean,2025,781.9
+Meghalaya,Potato,2010,629.1
+Meghalaya,Potato,2011,596.7
+Meghalaya,Potato,2012,596.0
+Meghalaya,Potato,2013,417.0
+Meghalaya,Potato,2014,601.1
+Meghalaya,Potato,2015,537.1
+Meghalaya,Potato,2016,437.2
+Meghalaya,Potato,2017,425.3
+Meghalaya,Potato,2018,529.8
+Meghalaya,Potato,2019,459.1
+Meghalaya,Potato,2020,497.5
+Meghalaya,Potato,2021,432.3
+Meghalaya,Potato,2022,565.3
+Meghalaya,Potato,2023,511.7
+Meghalaya,Potato,2024,498.0
+Meghalaya,Potato,2025,513.0
+Meghalaya,Tea,2010,5009.7
+Meghalaya,Tea,2011,7042.8
+Meghalaya,Tea,2012,5876.6
+Meghalaya,Tea,2013,7157.9
+Meghalaya,Tea,2014,6907.7
+Meghalaya,Tea,2015,5165.7
+Meghalaya,Tea,2016,6205.5
+Meghalaya,Tea,2017,6109.5
+Meghalaya,Tea,2018,7676.4
+Meghalaya,Tea,2019,5600.2
+Meghalaya,Tea,2020,5967.3
+Meghalaya,Tea,2021,4993.1
+Meghalaya,Tea,2022,5614.5
+Meghalaya,Tea,2023,5860.7
+Meghalaya,Tea,2024,5766.5
+Meghalaya,Tea,2025,5501.5
+Meghalaya,Groundnut,2010,1799.4
+Meghalaya,Groundnut,2011,1942.5
+Meghalaya,Groundnut,2012,2367.9
+Meghalaya,Groundnut,2013,2033.2
+Meghalaya,Groundnut,2014,2222.4
+Meghalaya,Groundnut,2015,2250.0
+Meghalaya,Groundnut,2016,1839.7
+Meghalaya,Groundnut,2017,1903.2
+Meghalaya,Groundnut,2018,1425.6
+Meghalaya,Groundnut,2019,2027.2
+Meghalaya,Groundnut,2020,1558.1
+Meghalaya,Groundnut,2021,1960.1
+Meghalaya,Groundnut,2022,1767.1
+Meghalaya,Groundnut,2023,2266.9
+Meghalaya,Groundnut,2024,2395.1
+Meghalaya,Groundnut,2025,1691.0
+Mizoram,Rice,2010,2554.9
+Mizoram,Rice,2011,2260.6
+Mizoram,Rice,2012,2309.7
+Mizoram,Rice,2013,2518.2
+Mizoram,Rice,2014,2216.4
+Mizoram,Rice,2015,2262.3
+Mizoram,Rice,2016,2440.5
+Mizoram,Rice,2017,2987.4
+Mizoram,Rice,2018,2482.5
+Mizoram,Rice,2019,3009.1
+Mizoram,Rice,2020,2697.5
+Mizoram,Rice,2021,2363.3
+Mizoram,Rice,2022,2035.4
+Mizoram,Rice,2023,2465.7
+Mizoram,Rice,2024,2062.3
+Mizoram,Rice,2025,2344.5
+Mizoram,Wheat,2010,1515.7
+Mizoram,Wheat,2011,1546.6
+Mizoram,Wheat,2012,1562.8
+Mizoram,Wheat,2013,1444.5
+Mizoram,Wheat,2014,1771.5
+Mizoram,Wheat,2015,1275.6
+Mizoram,Wheat,2016,1472.7
+Mizoram,Wheat,2017,1311.0
+Mizoram,Wheat,2018,1481.0
+Mizoram,Wheat,2019,1452.8
+Mizoram,Wheat,2020,1746.4
+Mizoram,Wheat,2021,1394.5
+Mizoram,Wheat,2022,1604.6
+Mizoram,Wheat,2023,1300.8
+Mizoram,Wheat,2024,1492.2
+Mizoram,Wheat,2025,1292.3
+Mizoram,Maize,2010,867.8
+Mizoram,Maize,2011,765.5
+Mizoram,Maize,2012,842.9
+Mizoram,Maize,2013,865.0
+Mizoram,Maize,2014,961.1
+Mizoram,Maize,2015,906.2
+Mizoram,Maize,2016,820.2
+Mizoram,Maize,2017,1020.6
+Mizoram,Maize,2018,862.1
+Mizoram,Maize,2019,855.8
+Mizoram,Maize,2020,882.8
+Mizoram,Maize,2021,808.5
+Mizoram,Maize,2022,1031.3
+Mizoram,Maize,2023,909.6
+Mizoram,Maize,2024,1035.8
+Mizoram,Maize,2025,734.9
+Mizoram,Sugarcane,2010,20036.7
+Mizoram,Sugarcane,2011,12173.7
+Mizoram,Sugarcane,2012,13822.9
+Mizoram,Sugarcane,2013,13944.2
+Mizoram,Sugarcane,2014,12594.5
+Mizoram,Sugarcane,2015,13285.0
+Mizoram,Sugarcane,2016,14147.6
+Mizoram,Sugarcane,2017,14196.4
+Mizoram,Sugarcane,2018,17570.0
+Mizoram,Sugarcane,2019,14782.7
+Mizoram,Sugarcane,2020,15216.9
+Mizoram,Sugarcane,2021,13230.6
+Mizoram,Sugarcane,2022,15262.4
+Mizoram,Sugarcane,2023,16571.5
+Mizoram,Sugarcane,2024,15838.3
+Mizoram,Sugarcane,2025,13743.6
+Mizoram,Cotton,2010,8305.1
+Mizoram,Cotton,2011,7985.0
+Mizoram,Cotton,2012,5094.7
+Mizoram,Cotton,2013,7124.3
+Mizoram,Cotton,2014,5511.7
+Mizoram,Cotton,2015,6969.7
+Mizoram,Cotton,2016,5980.4
+Mizoram,Cotton,2017,6975.4
+Mizoram,Cotton,2018,6310.5
+Mizoram,Cotton,2019,7529.9
+Mizoram,Cotton,2020,7381.2
+Mizoram,Cotton,2021,8470.4
+Mizoram,Cotton,2022,7467.1
+Mizoram,Cotton,2023,6523.9
+Mizoram,Cotton,2024,7607.5
+Mizoram,Cotton,2025,7872.3
+Mizoram,Pulses,2010,1211.2
+Mizoram,Pulses,2011,1213.9
+Mizoram,Pulses,2012,1063.8
+Mizoram,Pulses,2013,1107.1
+Mizoram,Pulses,2014,1007.8
+Mizoram,Pulses,2015,1378.5
+Mizoram,Pulses,2016,1214.9
+Mizoram,Pulses,2017,878.6
+Mizoram,Pulses,2018,1197.1
+Mizoram,Pulses,2019,960.2
+Mizoram,Pulses,2020,1397.4
+Mizoram,Pulses,2021,1222.6
+Mizoram,Pulses,2022,1288.7
+Mizoram,Pulses,2023,1060.3
+Mizoram,Pulses,2024,957.7
+Mizoram,Pulses,2025,992.8
+Mizoram,Soybean,2010,1058.9
+Mizoram,Soybean,2011,906.4
+Mizoram,Soybean,2012,824.3
+Mizoram,Soybean,2013,905.8
+Mizoram,Soybean,2014,875.1
+Mizoram,Soybean,2015,811.2
+Mizoram,Soybean,2016,1010.2
+Mizoram,Soybean,2017,801.5
+Mizoram,Soybean,2018,1099.8
+Mizoram,Soybean,2019,823.2
+Mizoram,Soybean,2020,822.5
+Mizoram,Soybean,2021,940.1
+Mizoram,Soybean,2022,850.9
+Mizoram,Soybean,2023,941.8
+Mizoram,Soybean,2024,838.3
+Mizoram,Soybean,2025,1036.3
+Mizoram,Potato,2010,502.6
+Mizoram,Potato,2011,565.1
+Mizoram,Potato,2012,426.3
+Mizoram,Potato,2013,581.8
+Mizoram,Potato,2014,472.6
+Mizoram,Potato,2015,476.9
+Mizoram,Potato,2016,486.7
+Mizoram,Potato,2017,466.5
+Mizoram,Potato,2018,485.9
+Mizoram,Potato,2019,523.5
+Mizoram,Potato,2020,495.3
+Mizoram,Potato,2021,453.3
+Mizoram,Potato,2022,419.6
+Mizoram,Potato,2023,455.2
+Mizoram,Potato,2024,500.8
+Mizoram,Potato,2025,420.6
+Mizoram,Tea,2010,5678.2
+Mizoram,Tea,2011,6004.9
+Mizoram,Tea,2012,7403.3
+Mizoram,Tea,2013,6089.5
+Mizoram,Tea,2014,6773.2
+Mizoram,Tea,2015,7407.1
+Mizoram,Tea,2016,5522.3
+Mizoram,Tea,2017,5064.3
+Mizoram,Tea,2018,5877.8
+Mizoram,Tea,2019,5396.7
+Mizoram,Tea,2020,6423.9
+Mizoram,Tea,2021,5638.7
+Mizoram,Tea,2022,5688.7
+Mizoram,Tea,2023,5640.3
+Mizoram,Tea,2024,6895.1
+Mizoram,Tea,2025,5262.4
+Mizoram,Groundnut,2010,1814.9
+Mizoram,Groundnut,2011,2344.1
+Mizoram,Groundnut,2012,1632.6
+Mizoram,Groundnut,2013,2023.6
+Mizoram,Groundnut,2014,1971.2
+Mizoram,Groundnut,2015,1932.6
+Mizoram,Groundnut,2016,1702.4
+Mizoram,Groundnut,2017,1676.8
+Mizoram,Groundnut,2018,2313.5
+Mizoram,Groundnut,2019,1873.3
+Mizoram,Groundnut,2020,1942.3
+Mizoram,Groundnut,2021,2366.4
+Mizoram,Groundnut,2022,2181.1
+Mizoram,Groundnut,2023,2305.7
+Mizoram,Groundnut,2024,1882.3
+Mizoram,Groundnut,2025,2111.0
+Nagaland,Rice,2010,2402.5
+Nagaland,Rice,2011,2334.5
+Nagaland,Rice,2012,2556.6
+Nagaland,Rice,2013,2584.0
+Nagaland,Rice,2014,2458.1
+Nagaland,Rice,2015,2325.3
+Nagaland,Rice,2016,2655.8
+Nagaland,Rice,2017,2791.7
+Nagaland,Rice,2018,2322.0
+Nagaland,Rice,2019,2387.6
+Nagaland,Rice,2020,3146.0
+Nagaland,Rice,2021,2826.6
+Nagaland,Rice,2022,2200.2
+Nagaland,Rice,2023,2058.5
+Nagaland,Rice,2024,2615.1
+Nagaland,Rice,2025,2951.8
+Nagaland,Wheat,2010,1617.0
+Nagaland,Wheat,2011,1401.3
+Nagaland,Wheat,2012,1226.1
+Nagaland,Wheat,2013,1527.3
+Nagaland,Wheat,2014,1259.4
+Nagaland,Wheat,2015,1546.2
+Nagaland,Wheat,2016,1510.4
+Nagaland,Wheat,2017,1429.4
+Nagaland,Wheat,2018,1481.4
+Nagaland,Wheat,2019,1554.3
+Nagaland,Wheat,2020,1232.4
+Nagaland,Wheat,2021,1567.4
+Nagaland,Wheat,2022,1731.7
+Nagaland,Wheat,2023,1674.9
+Nagaland,Wheat,2024,1473.9
+Nagaland,Wheat,2025,1405.2
+Nagaland,Maize,2010,1016.2
+Nagaland,Maize,2011,1070.2
+Nagaland,Maize,2012,886.3
+Nagaland,Maize,2013,959.8
+Nagaland,Maize,2014,881.5
+Nagaland,Maize,2015,865.2
+Nagaland,Maize,2016,931.9
+Nagaland,Maize,2017,943.9
+Nagaland,Maize,2018,889.2
+Nagaland,Maize,2019,869.3
+Nagaland,Maize,2020,836.4
+Nagaland,Maize,2021,862.6
+Nagaland,Maize,2022,850.4
+Nagaland,Maize,2023,923.4
+Nagaland,Maize,2024,880.3
+Nagaland,Maize,2025,727.6
+Nagaland,Sugarcane,2010,13176.8
+Nagaland,Sugarcane,2011,15224.9
+Nagaland,Sugarcane,2012,11605.3
+Nagaland,Sugarcane,2013,14107.7
+Nagaland,Sugarcane,2014,12545.6
+Nagaland,Sugarcane,2015,19317.5
+Nagaland,Sugarcane,2016,15265.0
+Nagaland,Sugarcane,2017,14968.7
+Nagaland,Sugarcane,2018,13934.7
+Nagaland,Sugarcane,2019,15842.5
+Nagaland,Sugarcane,2020,16442.0
+Nagaland,Sugarcane,2021,13124.4
+Nagaland,Sugarcane,2022,14164.4
+Nagaland,Sugarcane,2023,12577.6
+Nagaland,Sugarcane,2024,14398.5
+Nagaland,Sugarcane,2025,13150.0
+Nagaland,Cotton,2010,8507.5
+Nagaland,Cotton,2011,4998.6
+Nagaland,Cotton,2012,5912.0
+Nagaland,Cotton,2013,6639.4
+Nagaland,Cotton,2014,7113.1
+Nagaland,Cotton,2015,6621.5
+Nagaland,Cotton,2016,6660.2
+Nagaland,Cotton,2017,6713.7
+Nagaland,Cotton,2018,6792.1
+Nagaland,Cotton,2019,5682.5
+Nagaland,Cotton,2020,6609.1
+Nagaland,Cotton,2021,5521.6
+Nagaland,Cotton,2022,6811.3
+Nagaland,Cotton,2023,5955.2
+Nagaland,Cotton,2024,7612.1
+Nagaland,Cotton,2025,7750.6
+Nagaland,Pulses,2010,1089.6
+Nagaland,Pulses,2011,1100.4
+Nagaland,Pulses,2012,1363.3
+Nagaland,Pulses,2013,1104.0
+Nagaland,Pulses,2014,1165.1
+Nagaland,Pulses,2015,1034.8
+Nagaland,Pulses,2016,1218.1
+Nagaland,Pulses,2017,1001.0
+Nagaland,Pulses,2018,1340.2
+Nagaland,Pulses,2019,1005.0
+Nagaland,Pulses,2020,1132.9
+Nagaland,Pulses,2021,1208.6
+Nagaland,Pulses,2022,1072.4
+Nagaland,Pulses,2023,1022.4
+Nagaland,Pulses,2024,1241.9
+Nagaland,Pulses,2025,1394.1
+Nagaland,Soybean,2010,913.3
+Nagaland,Soybean,2011,919.7
+Nagaland,Soybean,2012,919.5
+Nagaland,Soybean,2013,972.6
+Nagaland,Soybean,2014,816.2
+Nagaland,Soybean,2015,1084.9
+Nagaland,Soybean,2016,866.5
+Nagaland,Soybean,2017,1138.4
+Nagaland,Soybean,2018,785.9
+Nagaland,Soybean,2019,894.3
+Nagaland,Soybean,2020,885.2
+Nagaland,Soybean,2021,1009.6
+Nagaland,Soybean,2022,920.1
+Nagaland,Soybean,2023,1093.2
+Nagaland,Soybean,2024,909.9
+Nagaland,Soybean,2025,1052.7
+Nagaland,Potato,2010,449.3
+Nagaland,Potato,2011,529.9
+Nagaland,Potato,2012,494.8
+Nagaland,Potato,2013,487.3
+Nagaland,Potato,2014,532.6
+Nagaland,Potato,2015,615.2
+Nagaland,Potato,2016,390.4
+Nagaland,Potato,2017,468.2
+Nagaland,Potato,2018,390.1
+Nagaland,Potato,2019,524.6
+Nagaland,Potato,2020,471.6
+Nagaland,Potato,2021,470.0
+Nagaland,Potato,2022,552.3
+Nagaland,Potato,2023,579.5
+Nagaland,Potato,2024,506.4
+Nagaland,Potato,2025,530.9
+Nagaland,Tea,2010,6078.1
+Nagaland,Tea,2011,6188.1
+Nagaland,Tea,2012,5900.8
+Nagaland,Tea,2013,5488.9
+Nagaland,Tea,2014,7160.0
+Nagaland,Tea,2015,6109.7
+Nagaland,Tea,2016,6423.7
+Nagaland,Tea,2017,4599.3
+Nagaland,Tea,2018,6559.6
+Nagaland,Tea,2019,6043.6
+Nagaland,Tea,2020,6548.5
+Nagaland,Tea,2021,5387.1
+Nagaland,Tea,2022,6109.5
+Nagaland,Tea,2023,6141.8
+Nagaland,Tea,2024,6428.3
+Nagaland,Tea,2025,6425.5
+Nagaland,Groundnut,2010,2096.3
+Nagaland,Groundnut,2011,1937.0
+Nagaland,Groundnut,2012,2036.8
+Nagaland,Groundnut,2013,2073.3
+Nagaland,Groundnut,2014,2049.4
+Nagaland,Groundnut,2015,2159.6
+Nagaland,Groundnut,2016,1987.2
+Nagaland,Groundnut,2017,2292.7
+Nagaland,Groundnut,2018,2082.8
+Nagaland,Groundnut,2019,1706.2
+Nagaland,Groundnut,2020,2015.0
+Nagaland,Groundnut,2021,1829.9
+Nagaland,Groundnut,2022,1697.1
+Nagaland,Groundnut,2023,1587.6
+Nagaland,Groundnut,2024,2173.0
+Nagaland,Groundnut,2025,1819.7
+Odisha,Rice,2010,2494.3
+Odisha,Rice,2011,2557.4
+Odisha,Rice,2012,2128.7
+Odisha,Rice,2013,2409.5
+Odisha,Rice,2014,2677.6
+Odisha,Rice,2015,2671.9
+Odisha,Rice,2016,2481.1
+Odisha,Rice,2017,2780.5
+Odisha,Rice,2018,2671.5
+Odisha,Rice,2019,2338.6
+Odisha,Rice,2020,2036.2
+Odisha,Rice,2021,2667.8
+Odisha,Rice,2022,2776.6
+Odisha,Rice,2023,2679.1
+Odisha,Rice,2024,2506.6
+Odisha,Rice,2025,2026.1
+Odisha,Wheat,2010,1331.0
+Odisha,Wheat,2011,1600.7
+Odisha,Wheat,2012,1245.9
+Odisha,Wheat,2013,1414.4
+Odisha,Wheat,2014,1553.1
+Odisha,Wheat,2015,1216.6
+Odisha,Wheat,2016,1235.4
+Odisha,Wheat,2017,1295.0
+Odisha,Wheat,2018,1482.1
+Odisha,Wheat,2019,1133.1
+Odisha,Wheat,2020,1396.5
+Odisha,Wheat,2021,1867.0
+Odisha,Wheat,2022,1390.4
+Odisha,Wheat,2023,1938.5
+Odisha,Wheat,2024,1631.5
+Odisha,Wheat,2025,1264.3
+Odisha,Maize,2010,696.7
+Odisha,Maize,2011,918.2
+Odisha,Maize,2012,901.6
+Odisha,Maize,2013,999.9
+Odisha,Maize,2014,741.4
+Odisha,Maize,2015,815.3
+Odisha,Maize,2016,728.8
+Odisha,Maize,2017,953.5
+Odisha,Maize,2018,651.9
+Odisha,Maize,2019,961.9
+Odisha,Maize,2020,956.2
+Odisha,Maize,2021,776.5
+Odisha,Maize,2022,753.0
+Odisha,Maize,2023,845.0
+Odisha,Maize,2024,951.1
+Odisha,Maize,2025,1005.3
+Odisha,Sugarcane,2010,15195.2
+Odisha,Sugarcane,2011,13662.3
+Odisha,Sugarcane,2012,15283.4
+Odisha,Sugarcane,2013,15721.5
+Odisha,Sugarcane,2014,16187.2
+Odisha,Sugarcane,2015,15545.8
+Odisha,Sugarcane,2016,14205.5
+Odisha,Sugarcane,2017,14714.3
+Odisha,Sugarcane,2018,12875.7
+Odisha,Sugarcane,2019,17390.0
+Odisha,Sugarcane,2020,13930.1
+Odisha,Sugarcane,2021,15820.8
+Odisha,Sugarcane,2022,16717.7
+Odisha,Sugarcane,2023,14118.6
+Odisha,Sugarcane,2024,12308.7
+Odisha,Sugarcane,2025,15625.5
+Odisha,Cotton,2010,7753.7
+Odisha,Cotton,2011,6532.2
+Odisha,Cotton,2012,7236.2
+Odisha,Cotton,2013,6572.0
+Odisha,Cotton,2014,7165.6
+Odisha,Cotton,2015,6770.8
+Odisha,Cotton,2016,7664.5
+Odisha,Cotton,2017,8255.2
+Odisha,Cotton,2018,7543.8
+Odisha,Cotton,2019,6477.5
+Odisha,Cotton,2020,6042.6
+Odisha,Cotton,2021,6999.7
+Odisha,Cotton,2022,7880.7
+Odisha,Cotton,2023,7380.2
+Odisha,Cotton,2024,6452.9
+Odisha,Cotton,2025,6105.9
+Odisha,Pulses,2010,1321.8
+Odisha,Pulses,2011,1240.6
+Odisha,Pulses,2012,1661.7
+Odisha,Pulses,2013,1140.9
+Odisha,Pulses,2014,1312.7
+Odisha,Pulses,2015,1157.6
+Odisha,Pulses,2016,1296.7
+Odisha,Pulses,2017,1058.9
+Odisha,Pulses,2018,977.4
+Odisha,Pulses,2019,1392.7
+Odisha,Pulses,2020,1116.5
+Odisha,Pulses,2021,1178.5
+Odisha,Pulses,2022,1076.0
+Odisha,Pulses,2023,961.0
+Odisha,Pulses,2024,1191.0
+Odisha,Pulses,2025,997.3
+Odisha,Soybean,2010,1010.1
+Odisha,Soybean,2011,866.5
+Odisha,Soybean,2012,937.3
+Odisha,Soybean,2013,737.5
+Odisha,Soybean,2014,717.9
+Odisha,Soybean,2015,1118.3
+Odisha,Soybean,2016,956.1
+Odisha,Soybean,2017,1053.1
+Odisha,Soybean,2018,1075.9
+Odisha,Soybean,2019,759.5
+Odisha,Soybean,2020,993.6
+Odisha,Soybean,2021,1121.0
+Odisha,Soybean,2022,1012.4
+Odisha,Soybean,2023,934.0
+Odisha,Soybean,2024,986.2
+Odisha,Soybean,2025,935.9
+Odisha,Potato,2010,459.5
+Odisha,Potato,2011,484.7
+Odisha,Potato,2012,479.0
+Odisha,Potato,2013,551.0
+Odisha,Potato,2014,475.7
+Odisha,Potato,2015,534.4
+Odisha,Potato,2016,503.4
+Odisha,Potato,2017,595.2
+Odisha,Potato,2018,597.5
+Odisha,Potato,2019,449.5
+Odisha,Potato,2020,479.3
+Odisha,Potato,2021,554.1
+Odisha,Potato,2022,445.4
+Odisha,Potato,2023,417.7
+Odisha,Potato,2024,561.3
+Odisha,Potato,2025,548.3
+Odisha,Tea,2010,6281.3
+Odisha,Tea,2011,7355.8
+Odisha,Tea,2012,5519.9
+Odisha,Tea,2013,5281.5
+Odisha,Tea,2014,6433.4
+Odisha,Tea,2015,6165.2
+Odisha,Tea,2016,6198.0
+Odisha,Tea,2017,5887.6
+Odisha,Tea,2018,5656.9
+Odisha,Tea,2019,5972.2
+Odisha,Tea,2020,6135.4
+Odisha,Tea,2021,5836.0
+Odisha,Tea,2022,5216.8
+Odisha,Tea,2023,5424.7
+Odisha,Tea,2024,6251.0
+Odisha,Tea,2025,5177.1
+Odisha,Groundnut,2010,2036.6
+Odisha,Groundnut,2011,2155.4
+Odisha,Groundnut,2012,1856.6
+Odisha,Groundnut,2013,2346.2
+Odisha,Groundnut,2014,1903.1
+Odisha,Groundnut,2015,1906.6
+Odisha,Groundnut,2016,1998.1
+Odisha,Groundnut,2017,2221.5
+Odisha,Groundnut,2018,1795.9
+Odisha,Groundnut,2019,2198.9
+Odisha,Groundnut,2020,1962.1
+Odisha,Groundnut,2021,1553.0
+Odisha,Groundnut,2022,2085.3
+Odisha,Groundnut,2023,2050.0
+Odisha,Groundnut,2024,1783.8
+Odisha,Groundnut,2025,2105.6
+Punjab,Rice,2010,2832.2
+Punjab,Rice,2011,2218.8
+Punjab,Rice,2012,2440.7
+Punjab,Rice,2013,3383.7
+Punjab,Rice,2014,2425.2
+Punjab,Rice,2015,2675.4
+Punjab,Rice,2016,2713.5
+Punjab,Rice,2017,2305.6
+Punjab,Rice,2018,3023.7
+Punjab,Rice,2019,2629.9
+Punjab,Rice,2020,1986.6
+Punjab,Rice,2021,2278.4
+Punjab,Rice,2022,2302.0
+Punjab,Rice,2023,2069.5
+Punjab,Rice,2024,2446.7
+Punjab,Rice,2025,2055.8
+Punjab,Wheat,2010,1532.3
+Punjab,Wheat,2011,1298.6
+Punjab,Wheat,2012,1350.8
+Punjab,Wheat,2013,1248.2
+Punjab,Wheat,2014,1501.1
+Punjab,Wheat,2015,1433.7
+Punjab,Wheat,2016,1470.6
+Punjab,Wheat,2017,1338.1
+Punjab,Wheat,2018,1253.3
+Punjab,Wheat,2019,1456.5
+Punjab,Wheat,2020,1515.6
+Punjab,Wheat,2021,1461.0
+Punjab,Wheat,2022,1534.8
+Punjab,Wheat,2023,1665.4
+Punjab,Wheat,2024,1223.9
+Punjab,Wheat,2025,1325.7
+Punjab,Maize,2010,831.7
+Punjab,Maize,2011,857.6
+Punjab,Maize,2012,1001.1
+Punjab,Maize,2013,892.9
+Punjab,Maize,2014,1118.6
+Punjab,Maize,2015,942.1
+Punjab,Maize,2016,778.0
+Punjab,Maize,2017,883.0
+Punjab,Maize,2018,1048.9
+Punjab,Maize,2019,964.6
+Punjab,Maize,2020,866.7
+Punjab,Maize,2021,680.2
+Punjab,Maize,2022,861.2
+Punjab,Maize,2023,946.9
+Punjab,Maize,2024,923.4
+Punjab,Maize,2025,1027.2
+Punjab,Sugarcane,2010,16290.5
+Punjab,Sugarcane,2011,15345.3
+Punjab,Sugarcane,2012,16680.4
+Punjab,Sugarcane,2013,17472.6
+Punjab,Sugarcane,2014,13899.1
+Punjab,Sugarcane,2015,13649.8
+Punjab,Sugarcane,2016,14105.3
+Punjab,Sugarcane,2017,16107.8
+Punjab,Sugarcane,2018,14331.5
+Punjab,Sugarcane,2019,13832.7
+Punjab,Sugarcane,2020,13302.9
+Punjab,Sugarcane,2021,12058.1
+Punjab,Sugarcane,2022,17796.6
+Punjab,Sugarcane,2023,13669.3
+Punjab,Sugarcane,2024,13882.8
+Punjab,Sugarcane,2025,12957.3
+Punjab,Cotton,2010,9863.6
+Punjab,Cotton,2011,8390.4
+Punjab,Cotton,2012,5709.0
+Punjab,Cotton,2013,7012.8
+Punjab,Cotton,2014,6420.6
+Punjab,Cotton,2015,8415.3
+Punjab,Cotton,2016,7285.8
+Punjab,Cotton,2017,6548.9
+Punjab,Cotton,2018,6676.3
+Punjab,Cotton,2019,7058.2
+Punjab,Cotton,2020,5765.9
+Punjab,Cotton,2021,7440.5
+Punjab,Cotton,2022,6025.1
+Punjab,Cotton,2023,6004.9
+Punjab,Cotton,2024,6492.5
+Punjab,Cotton,2025,7396.0
+Punjab,Pulses,2010,937.0
+Punjab,Pulses,2011,1274.3
+Punjab,Pulses,2012,1229.5
+Punjab,Pulses,2013,1371.6
+Punjab,Pulses,2014,1376.5
+Punjab,Pulses,2015,1228.2
+Punjab,Pulses,2016,1126.1
+Punjab,Pulses,2017,1110.2
+Punjab,Pulses,2018,1000.5
+Punjab,Pulses,2019,1041.8
+Punjab,Pulses,2020,1227.5
+Punjab,Pulses,2021,1302.5
+Punjab,Pulses,2022,1253.7
+Punjab,Pulses,2023,1363.1
+Punjab,Pulses,2024,1302.9
+Punjab,Pulses,2025,1128.9
+Punjab,Soybean,2010,875.1
+Punjab,Soybean,2011,951.6
+Punjab,Soybean,2012,939.1
+Punjab,Soybean,2013,915.0
+Punjab,Soybean,2014,820.4
+Punjab,Soybean,2015,963.6
+Punjab,Soybean,2016,892.5
+Punjab,Soybean,2017,861.1
+Punjab,Soybean,2018,822.2
+Punjab,Soybean,2019,880.8
+Punjab,Soybean,2020,798.4
+Punjab,Soybean,2021,959.0
+Punjab,Soybean,2022,1010.1
+Punjab,Soybean,2023,856.0
+Punjab,Soybean,2024,1033.4
+Punjab,Soybean,2025,1088.2
+Punjab,Potato,2010,513.8
+Punjab,Potato,2011,484.2
+Punjab,Potato,2012,578.3
+Punjab,Potato,2013,494.8
+Punjab,Potato,2014,516.7
+Punjab,Potato,2015,489.4
+Punjab,Potato,2016,511.6
+Punjab,Potato,2017,480.9
+Punjab,Potato,2018,461.4
+Punjab,Potato,2019,564.6
+Punjab,Potato,2020,458.3
+Punjab,Potato,2021,479.8
+Punjab,Potato,2022,551.3
+Punjab,Potato,2023,410.4
+Punjab,Potato,2024,511.6
+Punjab,Potato,2025,441.5
+Punjab,Tea,2010,6295.6
+Punjab,Tea,2011,4925.6
+Punjab,Tea,2012,6412.6
+Punjab,Tea,2013,6445.4
+Punjab,Tea,2014,5414.8
+Punjab,Tea,2015,5270.9
+Punjab,Tea,2016,5963.3
+Punjab,Tea,2017,5898.9
+Punjab,Tea,2018,5431.9
+Punjab,Tea,2019,5592.8
+Punjab,Tea,2020,6890.8
+Punjab,Tea,2021,5594.1
+Punjab,Tea,2022,5295.8
+Punjab,Tea,2023,5139.2
+Punjab,Tea,2024,6009.2
+Punjab,Tea,2025,7491.8
+Punjab,Groundnut,2010,2241.7
+Punjab,Groundnut,2011,2233.9
+Punjab,Groundnut,2012,1884.3
+Punjab,Groundnut,2013,1925.8
+Punjab,Groundnut,2014,1768.0
+Punjab,Groundnut,2015,2191.7
+Punjab,Groundnut,2016,1732.7
+Punjab,Groundnut,2017,1912.1
+Punjab,Groundnut,2018,1864.4
+Punjab,Groundnut,2019,1766.2
+Punjab,Groundnut,2020,1947.8
+Punjab,Groundnut,2021,2231.0
+Punjab,Groundnut,2022,1847.8
+Punjab,Groundnut,2023,1733.5
+Punjab,Groundnut,2024,1910.8
+Punjab,Groundnut,2025,2132.0
+Rajasthan,Rice,2010,2608.9
+Rajasthan,Rice,2011,2604.2
+Rajasthan,Rice,2012,2253.6
+Rajasthan,Rice,2013,2180.4
+Rajasthan,Rice,2014,2502.3
+Rajasthan,Rice,2015,2327.8
+Rajasthan,Rice,2016,2241.7
+Rajasthan,Rice,2017,2583.1
+Rajasthan,Rice,2018,2837.7
+Rajasthan,Rice,2019,2280.7
+Rajasthan,Rice,2020,2430.3
+Rajasthan,Rice,2021,2251.1
+Rajasthan,Rice,2022,2578.8
+Rajasthan,Rice,2023,2668.9
+Rajasthan,Rice,2024,2210.9
+Rajasthan,Rice,2025,2128.9
+Rajasthan,Wheat,2010,1551.4
+Rajasthan,Wheat,2011,1305.3
+Rajasthan,Wheat,2012,1340.1
+Rajasthan,Wheat,2013,1206.5
+Rajasthan,Wheat,2014,1568.7
+Rajasthan,Wheat,2015,1386.9
+Rajasthan,Wheat,2016,1669.8
+Rajasthan,Wheat,2017,1419.0
+Rajasthan,Wheat,2018,1307.4
+Rajasthan,Wheat,2019,1365.6
+Rajasthan,Wheat,2020,1300.0
+Rajasthan,Wheat,2021,1656.6
+Rajasthan,Wheat,2022,1378.6
+Rajasthan,Wheat,2023,1351.9
+Rajasthan,Wheat,2024,1742.0
+Rajasthan,Wheat,2025,1694.5
+Rajasthan,Maize,2010,840.7
+Rajasthan,Maize,2011,984.0
+Rajasthan,Maize,2012,1090.9
+Rajasthan,Maize,2013,959.6
+Rajasthan,Maize,2014,755.1
+Rajasthan,Maize,2015,800.4
+Rajasthan,Maize,2016,836.8
+Rajasthan,Maize,2017,880.2
+Rajasthan,Maize,2018,1044.0
+Rajasthan,Maize,2019,882.8
+Rajasthan,Maize,2020,873.4
+Rajasthan,Maize,2021,801.3
+Rajasthan,Maize,2022,933.0
+Rajasthan,Maize,2023,767.8
+Rajasthan,Maize,2024,730.8
+Rajasthan,Maize,2025,1016.9
+Rajasthan,Sugarcane,2010,13879.4
+Rajasthan,Sugarcane,2011,14857.2
+Rajasthan,Sugarcane,2012,16438.2
+Rajasthan,Sugarcane,2013,15655.3
+Rajasthan,Sugarcane,2014,18691.5
+Rajasthan,Sugarcane,2015,15076.3
+Rajasthan,Sugarcane,2016,16317.6
+Rajasthan,Sugarcane,2017,16968.2
+Rajasthan,Sugarcane,2018,15236.6
+Rajasthan,Sugarcane,2019,16259.5
+Rajasthan,Sugarcane,2020,15141.9
+Rajasthan,Sugarcane,2021,13550.1
+Rajasthan,Sugarcane,2022,12952.0
+Rajasthan,Sugarcane,2023,16096.8
+Rajasthan,Sugarcane,2024,14192.3
+Rajasthan,Sugarcane,2025,16740.0
+Rajasthan,Cotton,2010,7044.8
+Rajasthan,Cotton,2011,7987.6
+Rajasthan,Cotton,2012,7935.5
+Rajasthan,Cotton,2013,5569.4
+Rajasthan,Cotton,2014,6395.8
+Rajasthan,Cotton,2015,8495.1
+Rajasthan,Cotton,2016,5282.6
+Rajasthan,Cotton,2017,7633.3
+Rajasthan,Cotton,2018,8391.7
+Rajasthan,Cotton,2019,6718.7
+Rajasthan,Cotton,2020,6526.9
+Rajasthan,Cotton,2021,7584.6
+Rajasthan,Cotton,2022,6960.7
+Rajasthan,Cotton,2023,6426.8
+Rajasthan,Cotton,2024,6847.8
+Rajasthan,Cotton,2025,7529.0
+Rajasthan,Pulses,2010,1264.1
+Rajasthan,Pulses,2011,1229.6
+Rajasthan,Pulses,2012,1527.7
+Rajasthan,Pulses,2013,1612.4
+Rajasthan,Pulses,2014,1348.4
+Rajasthan,Pulses,2015,1110.1
+Rajasthan,Pulses,2016,1174.5
+Rajasthan,Pulses,2017,1300.9
+Rajasthan,Pulses,2018,1165.3
+Rajasthan,Pulses,2019,1268.5
+Rajasthan,Pulses,2020,1241.3
+Rajasthan,Pulses,2021,1067.4
+Rajasthan,Pulses,2022,915.1
+Rajasthan,Pulses,2023,1059.6
+Rajasthan,Pulses,2024,1433.0
+Rajasthan,Pulses,2025,1300.7
+Rajasthan,Soybean,2010,1195.9
+Rajasthan,Soybean,2011,919.7
+Rajasthan,Soybean,2012,907.3
+Rajasthan,Soybean,2013,1065.4
+Rajasthan,Soybean,2014,986.9
+Rajasthan,Soybean,2015,1030.8
+Rajasthan,Soybean,2016,935.9
+Rajasthan,Soybean,2017,869.7
+Rajasthan,Soybean,2018,1019.9
+Rajasthan,Soybean,2019,1013.2
+Rajasthan,Soybean,2020,698.9
+Rajasthan,Soybean,2021,806.9
+Rajasthan,Soybean,2022,899.1
+Rajasthan,Soybean,2023,880.9
+Rajasthan,Soybean,2024,969.8
+Rajasthan,Soybean,2025,873.8
+Rajasthan,Potato,2010,460.9
+Rajasthan,Potato,2011,393.2
+Rajasthan,Potato,2012,518.8
+Rajasthan,Potato,2013,524.2
+Rajasthan,Potato,2014,548.9
+Rajasthan,Potato,2015,538.8
+Rajasthan,Potato,2016,599.4
+Rajasthan,Potato,2017,487.7
+Rajasthan,Potato,2018,413.3
+Rajasthan,Potato,2019,511.2
+Rajasthan,Potato,2020,509.9
+Rajasthan,Potato,2021,535.3
+Rajasthan,Potato,2022,506.1
+Rajasthan,Potato,2023,512.0
+Rajasthan,Potato,2024,416.1
+Rajasthan,Potato,2025,405.2
+Rajasthan,Tea,2010,5836.0
+Rajasthan,Tea,2011,4528.2
+Rajasthan,Tea,2012,6068.6
+Rajasthan,Tea,2013,6130.0
+Rajasthan,Tea,2014,5576.8
+Rajasthan,Tea,2015,6407.0
+Rajasthan,Tea,2016,4689.7
+Rajasthan,Tea,2017,6177.8
+Rajasthan,Tea,2018,4747.2
+Rajasthan,Tea,2019,6233.0
+Rajasthan,Tea,2020,5374.3
+Rajasthan,Tea,2021,5228.6
+Rajasthan,Tea,2022,5839.5
+Rajasthan,Tea,2023,6247.7
+Rajasthan,Tea,2024,5953.0
+Rajasthan,Tea,2025,4771.4
+Rajasthan,Groundnut,2010,1460.3
+Rajasthan,Groundnut,2011,1792.4
+Rajasthan,Groundnut,2012,2011.2
+Rajasthan,Groundnut,2013,2048.6
+Rajasthan,Groundnut,2014,1882.6
+Rajasthan,Groundnut,2015,2033.1
+Rajasthan,Groundnut,2016,1798.8
+Rajasthan,Groundnut,2017,2163.9
+Rajasthan,Groundnut,2018,1939.8
+Rajasthan,Groundnut,2019,2135.6
+Rajasthan,Groundnut,2020,1915.8
+Rajasthan,Groundnut,2021,2258.7
+Rajasthan,Groundnut,2022,2437.6
+Rajasthan,Groundnut,2023,1689.9
+Rajasthan,Groundnut,2024,2062.5
+Rajasthan,Groundnut,2025,1789.4
+Sikkim,Rice,2010,2136.7
+Sikkim,Rice,2011,2388.6
+Sikkim,Rice,2012,2308.2
+Sikkim,Rice,2013,2086.3
+Sikkim,Rice,2014,2119.2
+Sikkim,Rice,2015,2515.9
+Sikkim,Rice,2016,2061.7
+Sikkim,Rice,2017,2469.8
+Sikkim,Rice,2018,2526.1
+Sikkim,Rice,2019,2716.2
+Sikkim,Rice,2020,2470.6
+Sikkim,Rice,2021,2220.0
+Sikkim,Rice,2022,2050.8
+Sikkim,Rice,2023,2413.6
+Sikkim,Rice,2024,2703.3
+Sikkim,Rice,2025,2733.4
+Sikkim,Wheat,2010,1240.7
+Sikkim,Wheat,2011,1530.7
+Sikkim,Wheat,2012,1348.2
+Sikkim,Wheat,2013,1480.2
+Sikkim,Wheat,2014,1751.7
+Sikkim,Wheat,2015,1530.1
+Sikkim,Wheat,2016,1633.0
+Sikkim,Wheat,2017,1657.3
+Sikkim,Wheat,2018,1454.6
+Sikkim,Wheat,2019,1469.0
+Sikkim,Wheat,2020,1599.0
+Sikkim,Wheat,2021,1358.9
+Sikkim,Wheat,2022,1313.3
+Sikkim,Wheat,2023,1351.7
+Sikkim,Wheat,2024,1515.7
+Sikkim,Wheat,2025,1888.2
+Sikkim,Maize,2010,841.5
+Sikkim,Maize,2011,937.1
+Sikkim,Maize,2012,837.2
+Sikkim,Maize,2013,767.0
+Sikkim,Maize,2014,911.5
+Sikkim,Maize,2015,958.8
+Sikkim,Maize,2016,753.5
+Sikkim,Maize,2017,1107.7
+Sikkim,Maize,2018,875.8
+Sikkim,Maize,2019,799.5
+Sikkim,Maize,2020,878.7
+Sikkim,Maize,2021,879.8
+Sikkim,Maize,2022,948.1
+Sikkim,Maize,2023,971.1
+Sikkim,Maize,2024,931.8
+Sikkim,Maize,2025,657.6
+Sikkim,Sugarcane,2010,12702.1
+Sikkim,Sugarcane,2011,12765.7
+Sikkim,Sugarcane,2012,13265.3
+Sikkim,Sugarcane,2013,14348.7
+Sikkim,Sugarcane,2014,11946.3
+Sikkim,Sugarcane,2015,13862.0
+Sikkim,Sugarcane,2016,13200.8
+Sikkim,Sugarcane,2017,18168.0
+Sikkim,Sugarcane,2018,15245.8
+Sikkim,Sugarcane,2019,16302.2
+Sikkim,Sugarcane,2020,16331.5
+Sikkim,Sugarcane,2021,12693.0
+Sikkim,Sugarcane,2022,13597.2
+Sikkim,Sugarcane,2023,13835.9
+Sikkim,Sugarcane,2024,15896.9
+Sikkim,Sugarcane,2025,14687.1
+Sikkim,Cotton,2010,7803.8
+Sikkim,Cotton,2011,5983.5
+Sikkim,Cotton,2012,6762.1
+Sikkim,Cotton,2013,7507.0
+Sikkim,Cotton,2014,5973.1
+Sikkim,Cotton,2015,7236.1
+Sikkim,Cotton,2016,5209.9
+Sikkim,Cotton,2017,7997.4
+Sikkim,Cotton,2018,7018.8
+Sikkim,Cotton,2019,6652.6
+Sikkim,Cotton,2020,7194.6
+Sikkim,Cotton,2021,5980.2
+Sikkim,Cotton,2022,7482.6
+Sikkim,Cotton,2023,7220.8
+Sikkim,Cotton,2024,6284.9
+Sikkim,Cotton,2025,6202.0
+Sikkim,Pulses,2010,1049.5
+Sikkim,Pulses,2011,1189.8
+Sikkim,Pulses,2012,1300.1
+Sikkim,Pulses,2013,1174.0
+Sikkim,Pulses,2014,1319.5
+Sikkim,Pulses,2015,1055.9
+Sikkim,Pulses,2016,1265.5
+Sikkim,Pulses,2017,920.6
+Sikkim,Pulses,2018,1071.7
+Sikkim,Pulses,2019,1203.4
+Sikkim,Pulses,2020,1178.9
+Sikkim,Pulses,2021,924.5
+Sikkim,Pulses,2022,1406.6
+Sikkim,Pulses,2023,1293.3
+Sikkim,Pulses,2024,1563.7
+Sikkim,Pulses,2025,1234.5
+Sikkim,Soybean,2010,919.8
+Sikkim,Soybean,2011,988.7
+Sikkim,Soybean,2012,1045.9
+Sikkim,Soybean,2013,945.3
+Sikkim,Soybean,2014,1014.8
+Sikkim,Soybean,2015,1025.7
+Sikkim,Soybean,2016,936.5
+Sikkim,Soybean,2017,871.0
+Sikkim,Soybean,2018,1069.1
+Sikkim,Soybean,2019,907.4
+Sikkim,Soybean,2020,801.8
+Sikkim,Soybean,2021,843.6
+Sikkim,Soybean,2022,858.7
+Sikkim,Soybean,2023,853.0
+Sikkim,Soybean,2024,954.7
+Sikkim,Soybean,2025,951.1
+Sikkim,Potato,2010,507.4
+Sikkim,Potato,2011,568.8
+Sikkim,Potato,2012,533.8
+Sikkim,Potato,2013,522.4
+Sikkim,Potato,2014,423.3
+Sikkim,Potato,2015,453.8
+Sikkim,Potato,2016,529.5
+Sikkim,Potato,2017,501.3
+Sikkim,Potato,2018,435.6
+Sikkim,Potato,2019,584.2
+Sikkim,Potato,2020,430.9
+Sikkim,Potato,2021,502.6
+Sikkim,Potato,2022,460.2
+Sikkim,Potato,2023,554.6
+Sikkim,Potato,2024,533.3
+Sikkim,Potato,2025,553.9
+Sikkim,Tea,2010,5551.4
+Sikkim,Tea,2011,4674.3
+Sikkim,Tea,2012,5171.3
+Sikkim,Tea,2013,4500.3
+Sikkim,Tea,2014,7449.8
+Sikkim,Tea,2015,5890.5
+Sikkim,Tea,2016,4372.3
+Sikkim,Tea,2017,5072.2
+Sikkim,Tea,2018,6329.1
+Sikkim,Tea,2019,6976.6
+Sikkim,Tea,2020,5803.0
+Sikkim,Tea,2021,5092.1
+Sikkim,Tea,2022,6590.1
+Sikkim,Tea,2023,6568.4
+Sikkim,Tea,2024,5634.0
+Sikkim,Tea,2025,5889.1
+Sikkim,Groundnut,2010,2432.0
+Sikkim,Groundnut,2011,1794.8
+Sikkim,Groundnut,2012,1954.5
+Sikkim,Groundnut,2013,2361.1
+Sikkim,Groundnut,2014,2424.0
+Sikkim,Groundnut,2015,2048.6
+Sikkim,Groundnut,2016,2043.9
+Sikkim,Groundnut,2017,1806.5
+Sikkim,Groundnut,2018,1933.6
+Sikkim,Groundnut,2019,1756.1
+Sikkim,Groundnut,2020,1987.7
+Sikkim,Groundnut,2021,1954.4
+Sikkim,Groundnut,2022,1876.7
+Sikkim,Groundnut,2023,1755.6
+Sikkim,Groundnut,2024,1514.5
+Sikkim,Groundnut,2025,1763.3
+Tamil Nadu,Rice,2010,2449.1
+Tamil Nadu,Rice,2011,1988.9
+Tamil Nadu,Rice,2012,2724.1
+Tamil Nadu,Rice,2013,2383.1
+Tamil Nadu,Rice,2014,2314.0
+Tamil Nadu,Rice,2015,2344.4
+Tamil Nadu,Rice,2016,2619.2
+Tamil Nadu,Rice,2017,3055.5
+Tamil Nadu,Rice,2018,2408.9
+Tamil Nadu,Rice,2019,2760.9
+Tamil Nadu,Rice,2020,2187.8
+Tamil Nadu,Rice,2021,2387.3
+Tamil Nadu,Rice,2022,2068.3
+Tamil Nadu,Rice,2023,2143.1
+Tamil Nadu,Rice,2024,2362.0
+Tamil Nadu,Rice,2025,2313.9
+Tamil Nadu,Wheat,2010,1403.9
+Tamil Nadu,Wheat,2011,1287.6
+Tamil Nadu,Wheat,2012,1270.9
+Tamil Nadu,Wheat,2013,1365.3
+Tamil Nadu,Wheat,2014,1516.8
+Tamil Nadu,Wheat,2015,1503.1
+Tamil Nadu,Wheat,2016,1442.1
+Tamil Nadu,Wheat,2017,1177.3
+Tamil Nadu,Wheat,2018,1411.2
+Tamil Nadu,Wheat,2019,1682.8
+Tamil Nadu,Wheat,2020,1491.2
+Tamil Nadu,Wheat,2021,1417.8
+Tamil Nadu,Wheat,2022,1673.3
+Tamil Nadu,Wheat,2023,1418.2
+Tamil Nadu,Wheat,2024,1439.7
+Tamil Nadu,Wheat,2025,1399.7
+Tamil Nadu,Maize,2010,889.6
+Tamil Nadu,Maize,2011,968.7
+Tamil Nadu,Maize,2012,754.7
+Tamil Nadu,Maize,2013,1086.2
+Tamil Nadu,Maize,2014,710.5
+Tamil Nadu,Maize,2015,903.3
+Tamil Nadu,Maize,2016,1037.9
+Tamil Nadu,Maize,2017,688.5
+Tamil Nadu,Maize,2018,903.5
+Tamil Nadu,Maize,2019,931.2
+Tamil Nadu,Maize,2020,691.0
+Tamil Nadu,Maize,2021,1066.3
+Tamil Nadu,Maize,2022,934.6
+Tamil Nadu,Maize,2023,726.1
+Tamil Nadu,Maize,2024,839.2
+Tamil Nadu,Maize,2025,997.5
+Tamil Nadu,Sugarcane,2010,14437.7
+Tamil Nadu,Sugarcane,2011,12642.5
+Tamil Nadu,Sugarcane,2012,17039.8
+Tamil Nadu,Sugarcane,2013,14249.6
+Tamil Nadu,Sugarcane,2014,17199.0
+Tamil Nadu,Sugarcane,2015,14780.9
+Tamil Nadu,Sugarcane,2016,16822.8
+Tamil Nadu,Sugarcane,2017,16776.3
+Tamil Nadu,Sugarcane,2018,14703.9
+Tamil Nadu,Sugarcane,2019,13250.9
+Tamil Nadu,Sugarcane,2020,14858.4
+Tamil Nadu,Sugarcane,2021,15428.5
+Tamil Nadu,Sugarcane,2022,15453.3
+Tamil Nadu,Sugarcane,2023,10720.0
+Tamil Nadu,Sugarcane,2024,14047.7
+Tamil Nadu,Sugarcane,2025,18331.8
+Tamil Nadu,Cotton,2010,6338.9
+Tamil Nadu,Cotton,2011,6794.4
+Tamil Nadu,Cotton,2012,7114.5
+Tamil Nadu,Cotton,2013,6762.1
+Tamil Nadu,Cotton,2014,7039.5
+Tamil Nadu,Cotton,2015,7663.8
+Tamil Nadu,Cotton,2016,8025.7
+Tamil Nadu,Cotton,2017,5954.9
+Tamil Nadu,Cotton,2018,6922.2
+Tamil Nadu,Cotton,2019,6439.1
+Tamil Nadu,Cotton,2020,6286.9
+Tamil Nadu,Cotton,2021,5532.6
+Tamil Nadu,Cotton,2022,5869.9
+Tamil Nadu,Cotton,2023,7166.8
+Tamil Nadu,Cotton,2024,6529.4
+Tamil Nadu,Cotton,2025,6812.3
+Tamil Nadu,Pulses,2010,1211.9
+Tamil Nadu,Pulses,2011,1197.9
+Tamil Nadu,Pulses,2012,1466.1
+Tamil Nadu,Pulses,2013,1340.8
+Tamil Nadu,Pulses,2014,1124.9
+Tamil Nadu,Pulses,2015,1266.4
+Tamil Nadu,Pulses,2016,964.6
+Tamil Nadu,Pulses,2017,1049.6
+Tamil Nadu,Pulses,2018,1143.5
+Tamil Nadu,Pulses,2019,1342.8
+Tamil Nadu,Pulses,2020,1092.1
+Tamil Nadu,Pulses,2021,1023.8
+Tamil Nadu,Pulses,2022,1175.4
+Tamil Nadu,Pulses,2023,892.9
+Tamil Nadu,Pulses,2024,1186.6
+Tamil Nadu,Pulses,2025,1296.3
+Tamil Nadu,Soybean,2010,870.6
+Tamil Nadu,Soybean,2011,850.3
+Tamil Nadu,Soybean,2012,1127.2
+Tamil Nadu,Soybean,2013,956.1
+Tamil Nadu,Soybean,2014,1167.2
+Tamil Nadu,Soybean,2015,1132.3
+Tamil Nadu,Soybean,2016,921.4
+Tamil Nadu,Soybean,2017,812.9
+Tamil Nadu,Soybean,2018,844.5
+Tamil Nadu,Soybean,2019,929.9
+Tamil Nadu,Soybean,2020,868.1
+Tamil Nadu,Soybean,2021,896.0
+Tamil Nadu,Soybean,2022,1013.5
+Tamil Nadu,Soybean,2023,847.4
+Tamil Nadu,Soybean,2024,982.9
+Tamil Nadu,Soybean,2025,739.6
+Tamil Nadu,Potato,2010,509.4
+Tamil Nadu,Potato,2011,463.0
+Tamil Nadu,Potato,2012,555.9
+Tamil Nadu,Potato,2013,571.5
+Tamil Nadu,Potato,2014,530.0
+Tamil Nadu,Potato,2015,480.5
+Tamil Nadu,Potato,2016,448.3
+Tamil Nadu,Potato,2017,420.3
+Tamil Nadu,Potato,2018,553.2
+Tamil Nadu,Potato,2019,436.5
+Tamil Nadu,Potato,2020,363.8
+Tamil Nadu,Potato,2021,508.9
+Tamil Nadu,Potato,2022,473.2
+Tamil Nadu,Potato,2023,546.2
+Tamil Nadu,Potato,2024,500.3
+Tamil Nadu,Potato,2025,444.1
+Tamil Nadu,Tea,2010,6898.6
+Tamil Nadu,Tea,2011,6534.9
+Tamil Nadu,Tea,2012,4547.3
+Tamil Nadu,Tea,2013,6174.4
+Tamil Nadu,Tea,2014,6267.2
+Tamil Nadu,Tea,2015,4830.2
+Tamil Nadu,Tea,2016,5589.2
+Tamil Nadu,Tea,2017,7025.2
+Tamil Nadu,Tea,2018,6569.8
+Tamil Nadu,Tea,2019,5891.5
+Tamil Nadu,Tea,2020,5434.2
+Tamil Nadu,Tea,2021,5687.0
+Tamil Nadu,Tea,2022,4649.8
+Tamil Nadu,Tea,2023,6260.1
+Tamil Nadu,Tea,2024,5685.8
+Tamil Nadu,Tea,2025,5770.3
+Tamil Nadu,Groundnut,2010,1830.9
+Tamil Nadu,Groundnut,2011,2372.5
+Tamil Nadu,Groundnut,2012,1865.3
+Tamil Nadu,Groundnut,2013,2050.1
+Tamil Nadu,Groundnut,2014,1859.3
+Tamil Nadu,Groundnut,2015,1918.3
+Tamil Nadu,Groundnut,2016,2142.3
+Tamil Nadu,Groundnut,2017,1768.3
+Tamil Nadu,Groundnut,2018,1974.5
+Tamil Nadu,Groundnut,2019,1702.6
+Tamil Nadu,Groundnut,2020,1693.3
+Tamil Nadu,Groundnut,2021,1520.6
+Tamil Nadu,Groundnut,2022,2008.9
+Tamil Nadu,Groundnut,2023,1843.8
+Tamil Nadu,Groundnut,2024,2132.6
+Tamil Nadu,Groundnut,2025,2222.1
+Telangana,Rice,2010,2543.1
+Telangana,Rice,2011,2187.1
+Telangana,Rice,2012,2026.3
+Telangana,Rice,2013,2235.9
+Telangana,Rice,2014,3021.2
+Telangana,Rice,2015,2688.7
+Telangana,Rice,2016,2883.8
+Telangana,Rice,2017,2343.7
+Telangana,Rice,2018,2731.5
+Telangana,Rice,2019,2866.4
+Telangana,Rice,2020,2769.8
+Telangana,Rice,2021,2184.8
+Telangana,Rice,2022,2429.9
+Telangana,Rice,2023,2115.4
+Telangana,Rice,2024,2012.0
+Telangana,Rice,2025,2713.1
+Telangana,Wheat,2010,1385.7
+Telangana,Wheat,2011,1646.2
+Telangana,Wheat,2012,1556.4
+Telangana,Wheat,2013,1574.3
+Telangana,Wheat,2014,1523.0
+Telangana,Wheat,2015,1366.3
+Telangana,Wheat,2016,1585.4
+Telangana,Wheat,2017,1365.4
+Telangana,Wheat,2018,1147.1
+Telangana,Wheat,2019,1390.6
+Telangana,Wheat,2020,1814.3
+Telangana,Wheat,2021,1756.6
+Telangana,Wheat,2022,1434.2
+Telangana,Wheat,2023,1210.1
+Telangana,Wheat,2024,1316.5
+Telangana,Wheat,2025,1248.2
+Telangana,Maize,2010,819.8
+Telangana,Maize,2011,970.2
+Telangana,Maize,2012,938.4
+Telangana,Maize,2013,898.9
+Telangana,Maize,2014,756.1
+Telangana,Maize,2015,935.9
+Telangana,Maize,2016,1033.2
+Telangana,Maize,2017,873.1
+Telangana,Maize,2018,839.2
+Telangana,Maize,2019,950.1
+Telangana,Maize,2020,783.6
+Telangana,Maize,2021,758.6
+Telangana,Maize,2022,1037.2
+Telangana,Maize,2023,716.3
+Telangana,Maize,2024,753.0
+Telangana,Maize,2025,762.1
+Telangana,Sugarcane,2010,15206.4
+Telangana,Sugarcane,2011,14478.2
+Telangana,Sugarcane,2012,13845.0
+Telangana,Sugarcane,2013,16002.7
+Telangana,Sugarcane,2014,14359.1
+Telangana,Sugarcane,2015,14652.1
+Telangana,Sugarcane,2016,15086.1
+Telangana,Sugarcane,2017,14824.4
+Telangana,Sugarcane,2018,13956.6
+Telangana,Sugarcane,2019,16574.9
+Telangana,Sugarcane,2020,17345.5
+Telangana,Sugarcane,2021,14425.5
+Telangana,Sugarcane,2022,13852.7
+Telangana,Sugarcane,2023,14492.5
+Telangana,Sugarcane,2024,15118.5
+Telangana,Sugarcane,2025,17408.1
+Telangana,Cotton,2010,6411.9
+Telangana,Cotton,2011,8043.4
+Telangana,Cotton,2012,8759.6
+Telangana,Cotton,2013,7238.1
+Telangana,Cotton,2014,7515.4
+Telangana,Cotton,2015,5940.9
+Telangana,Cotton,2016,6716.5
+Telangana,Cotton,2017,8849.7
+Telangana,Cotton,2018,7817.6
+Telangana,Cotton,2019,6268.5
+Telangana,Cotton,2020,6243.5
+Telangana,Cotton,2021,7061.8
+Telangana,Cotton,2022,8513.2
+Telangana,Cotton,2023,6592.0
+Telangana,Cotton,2024,7026.3
+Telangana,Cotton,2025,6407.9
+Telangana,Pulses,2010,1284.6
+Telangana,Pulses,2011,1096.8
+Telangana,Pulses,2012,1348.2
+Telangana,Pulses,2013,1502.9
+Telangana,Pulses,2014,1087.3
+Telangana,Pulses,2015,1129.8
+Telangana,Pulses,2016,1276.3
+Telangana,Pulses,2017,1159.5
+Telangana,Pulses,2018,1357.9
+Telangana,Pulses,2019,1206.8
+Telangana,Pulses,2020,1275.3
+Telangana,Pulses,2021,971.5
+Telangana,Pulses,2022,1057.9
+Telangana,Pulses,2023,1429.2
+Telangana,Pulses,2024,1303.4
+Telangana,Pulses,2025,977.5
+Telangana,Soybean,2010,871.4
+Telangana,Soybean,2011,892.9
+Telangana,Soybean,2012,878.7
+Telangana,Soybean,2013,891.4
+Telangana,Soybean,2014,1005.5
+Telangana,Soybean,2015,950.6
+Telangana,Soybean,2016,698.0
+Telangana,Soybean,2017,977.4
+Telangana,Soybean,2018,920.2
+Telangana,Soybean,2019,869.4
+Telangana,Soybean,2020,923.9
+Telangana,Soybean,2021,1064.1
+Telangana,Soybean,2022,1102.5
+Telangana,Soybean,2023,891.2
+Telangana,Soybean,2024,880.2
+Telangana,Soybean,2025,1186.8
+Telangana,Potato,2010,473.8
+Telangana,Potato,2011,463.6
+Telangana,Potato,2012,453.1
+Telangana,Potato,2013,582.8
+Telangana,Potato,2014,462.2
+Telangana,Potato,2015,415.9
+Telangana,Potato,2016,461.4
+Telangana,Potato,2017,552.1
+Telangana,Potato,2018,467.5
+Telangana,Potato,2019,450.1
+Telangana,Potato,2020,483.3
+Telangana,Potato,2021,530.6
+Telangana,Potato,2022,485.3
+Telangana,Potato,2023,563.7
+Telangana,Potato,2024,574.8
+Telangana,Potato,2025,437.4
+Telangana,Tea,2010,5124.4
+Telangana,Tea,2011,6415.3
+Telangana,Tea,2012,6416.9
+Telangana,Tea,2013,7195.5
+Telangana,Tea,2014,5166.4
+Telangana,Tea,2015,5379.5
+Telangana,Tea,2016,5361.7
+Telangana,Tea,2017,7227.4
+Telangana,Tea,2018,5382.4
+Telangana,Tea,2019,6760.1
+Telangana,Tea,2020,5680.4
+Telangana,Tea,2021,5076.4
+Telangana,Tea,2022,6153.9
+Telangana,Tea,2023,5791.0
+Telangana,Tea,2024,6231.6
+Telangana,Tea,2025,5180.0
+Telangana,Groundnut,2010,1853.6
+Telangana,Groundnut,2011,1674.2
+Telangana,Groundnut,2012,2358.8
+Telangana,Groundnut,2013,1743.5
+Telangana,Groundnut,2014,2094.6
+Telangana,Groundnut,2015,1665.5
+Telangana,Groundnut,2016,1564.1
+Telangana,Groundnut,2017,1742.1
+Telangana,Groundnut,2018,2208.6
+Telangana,Groundnut,2019,2112.9
+Telangana,Groundnut,2020,2279.2
+Telangana,Groundnut,2021,1834.1
+Telangana,Groundnut,2022,1596.7
+Telangana,Groundnut,2023,2080.4
+Telangana,Groundnut,2024,2006.0
+Telangana,Groundnut,2025,1750.8
+Tripura,Rice,2010,2879.7
+Tripura,Rice,2011,2183.2
+Tripura,Rice,2012,2255.3
+Tripura,Rice,2013,2460.3
+Tripura,Rice,2014,2149.3
+Tripura,Rice,2015,2091.7
+Tripura,Rice,2016,2762.1
+Tripura,Rice,2017,2669.1
+Tripura,Rice,2018,3115.7
+Tripura,Rice,2019,2291.4
+Tripura,Rice,2020,3060.0
+Tripura,Rice,2021,2575.9
+Tripura,Rice,2022,1962.6
+Tripura,Rice,2023,2875.2
+Tripura,Rice,2024,2451.6
+Tripura,Rice,2025,2087.6
+Tripura,Wheat,2010,1395.6
+Tripura,Wheat,2011,1585.7
+Tripura,Wheat,2012,1521.8
+Tripura,Wheat,2013,1160.3
+Tripura,Wheat,2014,1377.0
+Tripura,Wheat,2015,1371.0
+Tripura,Wheat,2016,1548.7
+Tripura,Wheat,2017,1342.1
+Tripura,Wheat,2018,1687.7
+Tripura,Wheat,2019,1324.4
+Tripura,Wheat,2020,1543.5
+Tripura,Wheat,2021,1597.1
+Tripura,Wheat,2022,1474.8
+Tripura,Wheat,2023,1319.0
+Tripura,Wheat,2024,1427.1
+Tripura,Wheat,2025,1605.9
+Tripura,Maize,2010,638.7
+Tripura,Maize,2011,959.8
+Tripura,Maize,2012,892.0
+Tripura,Maize,2013,844.7
+Tripura,Maize,2014,971.6
+Tripura,Maize,2015,840.1
+Tripura,Maize,2016,746.1
+Tripura,Maize,2017,937.5
+Tripura,Maize,2018,833.0
+Tripura,Maize,2019,900.8
+Tripura,Maize,2020,952.2
+Tripura,Maize,2021,952.1
+Tripura,Maize,2022,738.7
+Tripura,Maize,2023,952.5
+Tripura,Maize,2024,753.7
+Tripura,Maize,2025,900.7
+Tripura,Sugarcane,2010,12582.5
+Tripura,Sugarcane,2011,13580.0
+Tripura,Sugarcane,2012,15856.4
+Tripura,Sugarcane,2013,13807.5
+Tripura,Sugarcane,2014,14371.4
+Tripura,Sugarcane,2015,13850.0
+Tripura,Sugarcane,2016,17790.7
+Tripura,Sugarcane,2017,15325.8
+Tripura,Sugarcane,2018,12703.5
+Tripura,Sugarcane,2019,17611.0
+Tripura,Sugarcane,2020,15786.3
+Tripura,Sugarcane,2021,14538.1
+Tripura,Sugarcane,2022,14877.2
+Tripura,Sugarcane,2023,17481.3
+Tripura,Sugarcane,2024,14727.2
+Tripura,Sugarcane,2025,14483.9
+Tripura,Cotton,2010,8421.5
+Tripura,Cotton,2011,6701.4
+Tripura,Cotton,2012,6907.7
+Tripura,Cotton,2013,7779.6
+Tripura,Cotton,2014,7467.9
+Tripura,Cotton,2015,6669.6
+Tripura,Cotton,2016,7310.3
+Tripura,Cotton,2017,7138.2
+Tripura,Cotton,2018,6052.9
+Tripura,Cotton,2019,6281.4
+Tripura,Cotton,2020,7020.9
+Tripura,Cotton,2021,7947.1
+Tripura,Cotton,2022,7254.3
+Tripura,Cotton,2023,7367.8
+Tripura,Cotton,2024,6010.1
+Tripura,Cotton,2025,6362.6
+Tripura,Pulses,2010,1359.9
+Tripura,Pulses,2011,1356.7
+Tripura,Pulses,2012,1025.8
+Tripura,Pulses,2013,1262.8
+Tripura,Pulses,2014,1249.1
+Tripura,Pulses,2015,1301.5
+Tripura,Pulses,2016,1260.3
+Tripura,Pulses,2017,1218.4
+Tripura,Pulses,2018,1249.4
+Tripura,Pulses,2019,1081.7
+Tripura,Pulses,2020,1173.4
+Tripura,Pulses,2021,1204.5
+Tripura,Pulses,2022,1143.7
+Tripura,Pulses,2023,1183.0
+Tripura,Pulses,2024,1185.6
+Tripura,Pulses,2025,985.4
+Tripura,Soybean,2010,1018.8
+Tripura,Soybean,2011,996.9
+Tripura,Soybean,2012,1070.7
+Tripura,Soybean,2013,867.4
+Tripura,Soybean,2014,1010.5
+Tripura,Soybean,2015,835.4
+Tripura,Soybean,2016,1133.9
+Tripura,Soybean,2017,918.9
+Tripura,Soybean,2018,1034.0
+Tripura,Soybean,2019,1005.2
+Tripura,Soybean,2020,952.2
+Tripura,Soybean,2021,878.2
+Tripura,Soybean,2022,984.4
+Tripura,Soybean,2023,899.7
+Tripura,Soybean,2024,872.7
+Tripura,Soybean,2025,897.7
+Tripura,Potato,2010,632.8
+Tripura,Potato,2011,520.3
+Tripura,Potato,2012,566.4
+Tripura,Potato,2013,422.6
+Tripura,Potato,2014,456.1
+Tripura,Potato,2015,416.6
+Tripura,Potato,2016,383.1
+Tripura,Potato,2017,507.0
+Tripura,Potato,2018,440.9
+Tripura,Potato,2019,468.0
+Tripura,Potato,2020,516.7
+Tripura,Potato,2021,491.3
+Tripura,Potato,2022,459.2
+Tripura,Potato,2023,455.9
+Tripura,Potato,2024,626.8
+Tripura,Potato,2025,510.0
+Tripura,Tea,2010,6286.4
+Tripura,Tea,2011,5669.4
+Tripura,Tea,2012,7040.4
+Tripura,Tea,2013,6588.9
+Tripura,Tea,2014,5555.0
+Tripura,Tea,2015,7747.6
+Tripura,Tea,2016,7622.7
+Tripura,Tea,2017,6720.2
+Tripura,Tea,2018,6934.8
+Tripura,Tea,2019,4651.7
+Tripura,Tea,2020,6665.4
+Tripura,Tea,2021,6245.7
+Tripura,Tea,2022,5640.5
+Tripura,Tea,2023,5114.8
+Tripura,Tea,2024,6182.3
+Tripura,Tea,2025,4375.9
+Tripura,Groundnut,2010,1899.5
+Tripura,Groundnut,2011,2424.4
+Tripura,Groundnut,2012,1928.9
+Tripura,Groundnut,2013,2167.1
+Tripura,Groundnut,2014,1688.3
+Tripura,Groundnut,2015,1861.1
+Tripura,Groundnut,2016,2165.0
+Tripura,Groundnut,2017,2201.8
+Tripura,Groundnut,2018,1792.0
+Tripura,Groundnut,2019,2094.8
+Tripura,Groundnut,2020,2033.0
+Tripura,Groundnut,2021,1929.4
+Tripura,Groundnut,2022,2181.2
+Tripura,Groundnut,2023,2008.6
+Tripura,Groundnut,2024,1687.1
+Tripura,Groundnut,2025,2061.8
+Uttar Pradesh,Rice,2010,2550.4
+Uttar Pradesh,Rice,2011,2428.4
+Uttar Pradesh,Rice,2012,2254.8
+Uttar Pradesh,Rice,2013,2145.4
+Uttar Pradesh,Rice,2014,2624.7
+Uttar Pradesh,Rice,2015,2208.4
+Uttar Pradesh,Rice,2016,2966.8
+Uttar Pradesh,Rice,2017,2506.8
+Uttar Pradesh,Rice,2018,2121.4
+Uttar Pradesh,Rice,2019,2279.9
+Uttar Pradesh,Rice,2020,2381.3
+Uttar Pradesh,Rice,2021,2168.0
+Uttar Pradesh,Rice,2022,2147.4
+Uttar Pradesh,Rice,2023,2644.4
+Uttar Pradesh,Rice,2024,2752.9
+Uttar Pradesh,Rice,2025,1793.6
+Uttar Pradesh,Wheat,2010,1824.9
+Uttar Pradesh,Wheat,2011,1291.3
+Uttar Pradesh,Wheat,2012,1585.5
+Uttar Pradesh,Wheat,2013,1461.7
+Uttar Pradesh,Wheat,2014,1590.9
+Uttar Pradesh,Wheat,2015,1228.0
+Uttar Pradesh,Wheat,2016,1422.1
+Uttar Pradesh,Wheat,2017,1366.6
+Uttar Pradesh,Wheat,2018,1539.8
+Uttar Pradesh,Wheat,2019,1308.7
+Uttar Pradesh,Wheat,2020,1461.6
+Uttar Pradesh,Wheat,2021,1687.5
+Uttar Pradesh,Wheat,2022,1403.5
+Uttar Pradesh,Wheat,2023,1384.4
+Uttar Pradesh,Wheat,2024,1607.4
+Uttar Pradesh,Wheat,2025,1318.8
+Uttar Pradesh,Maize,2010,956.3
+Uttar Pradesh,Maize,2011,838.3
+Uttar Pradesh,Maize,2012,850.1
+Uttar Pradesh,Maize,2013,944.5
+Uttar Pradesh,Maize,2014,1021.7
+Uttar Pradesh,Maize,2015,1049.3
+Uttar Pradesh,Maize,2016,894.5
+Uttar Pradesh,Maize,2017,728.6
+Uttar Pradesh,Maize,2018,909.8
+Uttar Pradesh,Maize,2019,994.7
+Uttar Pradesh,Maize,2020,754.4
+Uttar Pradesh,Maize,2021,1007.4
+Uttar Pradesh,Maize,2022,871.8
+Uttar Pradesh,Maize,2023,699.3
+Uttar Pradesh,Maize,2024,848.9
+Uttar Pradesh,Maize,2025,744.8
+Uttar Pradesh,Sugarcane,2010,13761.0
+Uttar Pradesh,Sugarcane,2011,13452.3
+Uttar Pradesh,Sugarcane,2012,15146.8
+Uttar Pradesh,Sugarcane,2013,14471.2
+Uttar Pradesh,Sugarcane,2014,15443.0
+Uttar Pradesh,Sugarcane,2015,15732.2
+Uttar Pradesh,Sugarcane,2016,16782.1
+Uttar Pradesh,Sugarcane,2017,13366.0
+Uttar Pradesh,Sugarcane,2018,16945.0
+Uttar Pradesh,Sugarcane,2019,14114.4
+Uttar Pradesh,Sugarcane,2020,13635.7
+Uttar Pradesh,Sugarcane,2021,11968.8
+Uttar Pradesh,Sugarcane,2022,12324.7
+Uttar Pradesh,Sugarcane,2023,14987.4
+Uttar Pradesh,Sugarcane,2024,12250.8
+Uttar Pradesh,Sugarcane,2025,15533.7
+Uttar Pradesh,Cotton,2010,7383.1
+Uttar Pradesh,Cotton,2011,8105.7
+Uttar Pradesh,Cotton,2012,5952.9
+Uttar Pradesh,Cotton,2013,7165.2
+Uttar Pradesh,Cotton,2014,6872.6
+Uttar Pradesh,Cotton,2015,5833.8
+Uttar Pradesh,Cotton,2016,5643.1
+Uttar Pradesh,Cotton,2017,7728.8
+Uttar Pradesh,Cotton,2018,7834.5
+Uttar Pradesh,Cotton,2019,6342.0
+Uttar Pradesh,Cotton,2020,6131.1
+Uttar Pradesh,Cotton,2021,6892.1
+Uttar Pradesh,Cotton,2022,7044.1
+Uttar Pradesh,Cotton,2023,7199.9
+Uttar Pradesh,Cotton,2024,7011.9
+Uttar Pradesh,Cotton,2025,5633.6
+Uttar Pradesh,Pulses,2010,1421.0
+Uttar Pradesh,Pulses,2011,1348.6
+Uttar Pradesh,Pulses,2012,1092.0
+Uttar Pradesh,Pulses,2013,1086.8
+Uttar Pradesh,Pulses,2014,1059.6
+Uttar Pradesh,Pulses,2015,1267.1
+Uttar Pradesh,Pulses,2016,1239.9
+Uttar Pradesh,Pulses,2017,1318.9
+Uttar Pradesh,Pulses,2018,1290.7
+Uttar Pradesh,Pulses,2019,1266.2
+Uttar Pradesh,Pulses,2020,1026.8
+Uttar Pradesh,Pulses,2021,1190.6
+Uttar Pradesh,Pulses,2022,1255.2
+Uttar Pradesh,Pulses,2023,981.6
+Uttar Pradesh,Pulses,2024,1144.6
+Uttar Pradesh,Pulses,2025,1081.8
+Uttar Pradesh,Soybean,2010,1092.0
+Uttar Pradesh,Soybean,2011,1031.9
+Uttar Pradesh,Soybean,2012,899.3
+Uttar Pradesh,Soybean,2013,901.2
+Uttar Pradesh,Soybean,2014,985.1
+Uttar Pradesh,Soybean,2015,1128.6
+Uttar Pradesh,Soybean,2016,992.9
+Uttar Pradesh,Soybean,2017,851.3
+Uttar Pradesh,Soybean,2018,929.5
+Uttar Pradesh,Soybean,2019,852.6
+Uttar Pradesh,Soybean,2020,773.8
+Uttar Pradesh,Soybean,2021,1034.5
+Uttar Pradesh,Soybean,2022,867.0
+Uttar Pradesh,Soybean,2023,918.9
+Uttar Pradesh,Soybean,2024,854.3
+Uttar Pradesh,Soybean,2025,951.0
+Uttar Pradesh,Potato,2010,525.6
+Uttar Pradesh,Potato,2011,437.8
+Uttar Pradesh,Potato,2012,504.9
+Uttar Pradesh,Potato,2013,426.0
+Uttar Pradesh,Potato,2014,477.3
+Uttar Pradesh,Potato,2015,432.3
+Uttar Pradesh,Potato,2016,543.1
+Uttar Pradesh,Potato,2017,487.7
+Uttar Pradesh,Potato,2018,467.8
+Uttar Pradesh,Potato,2019,436.5
+Uttar Pradesh,Potato,2020,554.3
+Uttar Pradesh,Potato,2021,545.9
+Uttar Pradesh,Potato,2022,521.4
+Uttar Pradesh,Potato,2023,466.2
+Uttar Pradesh,Potato,2024,465.0
+Uttar Pradesh,Potato,2025,502.7
+Uttar Pradesh,Tea,2010,5226.4
+Uttar Pradesh,Tea,2011,4720.8
+Uttar Pradesh,Tea,2012,5352.4
+Uttar Pradesh,Tea,2013,6926.8
+Uttar Pradesh,Tea,2014,6873.7
+Uttar Pradesh,Tea,2015,6685.7
+Uttar Pradesh,Tea,2016,5850.2
+Uttar Pradesh,Tea,2017,5113.0
+Uttar Pradesh,Tea,2018,5070.0
+Uttar Pradesh,Tea,2019,6045.4
+Uttar Pradesh,Tea,2020,6329.5
+Uttar Pradesh,Tea,2021,5845.2
+Uttar Pradesh,Tea,2022,7408.6
+Uttar Pradesh,Tea,2023,5985.5
+Uttar Pradesh,Tea,2024,6383.6
+Uttar Pradesh,Tea,2025,6889.5
+Uttar Pradesh,Groundnut,2010,1727.8
+Uttar Pradesh,Groundnut,2011,2102.4
+Uttar Pradesh,Groundnut,2012,2010.3
+Uttar Pradesh,Groundnut,2013,1791.8
+Uttar Pradesh,Groundnut,2014,2186.8
+Uttar Pradesh,Groundnut,2015,2111.0
+Uttar Pradesh,Groundnut,2016,1729.1
+Uttar Pradesh,Groundnut,2017,2354.5
+Uttar Pradesh,Groundnut,2018,2116.7
+Uttar Pradesh,Groundnut,2019,2075.2
+Uttar Pradesh,Groundnut,2020,1775.7
+Uttar Pradesh,Groundnut,2021,1952.9
+Uttar Pradesh,Groundnut,2022,2605.2
+Uttar Pradesh,Groundnut,2023,2137.6
+Uttar Pradesh,Groundnut,2024,2041.6
+Uttar Pradesh,Groundnut,2025,1824.5
+Uttarakhand,Rice,2010,2465.8
+Uttarakhand,Rice,2011,2491.0
+Uttarakhand,Rice,2012,3074.2
+Uttarakhand,Rice,2013,2242.7
+Uttarakhand,Rice,2014,2640.5
+Uttarakhand,Rice,2015,2110.2
+Uttarakhand,Rice,2016,2453.3
+Uttarakhand,Rice,2017,2801.9
+Uttarakhand,Rice,2018,2285.9
+Uttarakhand,Rice,2019,2044.9
+Uttarakhand,Rice,2020,2957.6
+Uttarakhand,Rice,2021,2491.4
+Uttarakhand,Rice,2022,2290.6
+Uttarakhand,Rice,2023,2566.3
+Uttarakhand,Rice,2024,2453.5
+Uttarakhand,Rice,2025,2321.8
+Uttarakhand,Wheat,2010,1381.3
+Uttarakhand,Wheat,2011,1470.2
+Uttarakhand,Wheat,2012,1659.5
+Uttarakhand,Wheat,2013,1235.3
+Uttarakhand,Wheat,2014,1272.8
+Uttarakhand,Wheat,2015,1767.0
+Uttarakhand,Wheat,2016,1452.9
+Uttarakhand,Wheat,2017,1330.1
+Uttarakhand,Wheat,2018,1479.5
+Uttarakhand,Wheat,2019,1598.6
+Uttarakhand,Wheat,2020,1324.5
+Uttarakhand,Wheat,2021,1832.9
+Uttarakhand,Wheat,2022,1518.4
+Uttarakhand,Wheat,2023,1145.4
+Uttarakhand,Wheat,2024,1523.5
+Uttarakhand,Wheat,2025,1643.0
+Uttarakhand,Maize,2010,765.5
+Uttarakhand,Maize,2011,755.9
+Uttarakhand,Maize,2012,936.1
+Uttarakhand,Maize,2013,754.9
+Uttarakhand,Maize,2014,659.1
+Uttarakhand,Maize,2015,995.8
+Uttarakhand,Maize,2016,1045.4
+Uttarakhand,Maize,2017,728.5
+Uttarakhand,Maize,2018,847.9
+Uttarakhand,Maize,2019,905.3
+Uttarakhand,Maize,2020,785.6
+Uttarakhand,Maize,2021,975.0
+Uttarakhand,Maize,2022,732.6
+Uttarakhand,Maize,2023,839.1
+Uttarakhand,Maize,2024,879.3
+Uttarakhand,Maize,2025,879.0
+Uttarakhand,Sugarcane,2010,15721.3
+Uttarakhand,Sugarcane,2011,13317.0
+Uttarakhand,Sugarcane,2012,18052.0
+Uttarakhand,Sugarcane,2013,11662.6
+Uttarakhand,Sugarcane,2014,13633.6
+Uttarakhand,Sugarcane,2015,14237.1
+Uttarakhand,Sugarcane,2016,15542.1
+Uttarakhand,Sugarcane,2017,16458.3
+Uttarakhand,Sugarcane,2018,16667.7
+Uttarakhand,Sugarcane,2019,12085.5
+Uttarakhand,Sugarcane,2020,18566.4
+Uttarakhand,Sugarcane,2021,15923.2
+Uttarakhand,Sugarcane,2022,16739.8
+Uttarakhand,Sugarcane,2023,14162.9
+Uttarakhand,Sugarcane,2024,16949.3
+Uttarakhand,Sugarcane,2025,13471.3
+Uttarakhand,Cotton,2010,6729.3
+Uttarakhand,Cotton,2011,7966.3
+Uttarakhand,Cotton,2012,7057.7
+Uttarakhand,Cotton,2013,6601.3
+Uttarakhand,Cotton,2014,6347.2
+Uttarakhand,Cotton,2015,8206.9
+Uttarakhand,Cotton,2016,7817.0
+Uttarakhand,Cotton,2017,7344.4
+Uttarakhand,Cotton,2018,7032.5
+Uttarakhand,Cotton,2019,5735.8
+Uttarakhand,Cotton,2020,7790.2
+Uttarakhand,Cotton,2021,6169.6
+Uttarakhand,Cotton,2022,7539.7
+Uttarakhand,Cotton,2023,7256.3
+Uttarakhand,Cotton,2024,5776.0
+Uttarakhand,Cotton,2025,6555.1
+Uttarakhand,Pulses,2010,1309.1
+Uttarakhand,Pulses,2011,1101.2
+Uttarakhand,Pulses,2012,1307.9
+Uttarakhand,Pulses,2013,963.1
+Uttarakhand,Pulses,2014,1164.5
+Uttarakhand,Pulses,2015,1018.3
+Uttarakhand,Pulses,2016,1296.6
+Uttarakhand,Pulses,2017,1267.7
+Uttarakhand,Pulses,2018,1110.1
+Uttarakhand,Pulses,2019,997.3
+Uttarakhand,Pulses,2020,1278.0
+Uttarakhand,Pulses,2021,1067.9
+Uttarakhand,Pulses,2022,1219.2
+Uttarakhand,Pulses,2023,1163.3
+Uttarakhand,Pulses,2024,1234.4
+Uttarakhand,Pulses,2025,1202.7
+Uttarakhand,Soybean,2010,1132.5
+Uttarakhand,Soybean,2011,1057.1
+Uttarakhand,Soybean,2012,750.6
+Uttarakhand,Soybean,2013,937.1
+Uttarakhand,Soybean,2014,977.4
+Uttarakhand,Soybean,2015,819.9
+Uttarakhand,Soybean,2016,843.6
+Uttarakhand,Soybean,2017,1076.0
+Uttarakhand,Soybean,2018,699.8
+Uttarakhand,Soybean,2019,914.5
+Uttarakhand,Soybean,2020,919.6
+Uttarakhand,Soybean,2021,942.1
+Uttarakhand,Soybean,2022,899.2
+Uttarakhand,Soybean,2023,1182.0
+Uttarakhand,Soybean,2024,884.2
+Uttarakhand,Soybean,2025,838.3
+Uttarakhand,Potato,2010,488.0
+Uttarakhand,Potato,2011,523.7
+Uttarakhand,Potato,2012,458.9
+Uttarakhand,Potato,2013,525.9
+Uttarakhand,Potato,2014,444.3
+Uttarakhand,Potato,2015,439.3
+Uttarakhand,Potato,2016,533.4
+Uttarakhand,Potato,2017,571.9
+Uttarakhand,Potato,2018,570.5
+Uttarakhand,Potato,2019,596.8
+Uttarakhand,Potato,2020,482.2
+Uttarakhand,Potato,2021,521.3
+Uttarakhand,Potato,2022,521.8
+Uttarakhand,Potato,2023,480.5
+Uttarakhand,Potato,2024,505.0
+Uttarakhand,Potato,2025,465.7
+Uttarakhand,Tea,2010,6096.6
+Uttarakhand,Tea,2011,5110.4
+Uttarakhand,Tea,2012,6800.0
+Uttarakhand,Tea,2013,4977.4
+Uttarakhand,Tea,2014,6427.0
+Uttarakhand,Tea,2015,5350.1
+Uttarakhand,Tea,2016,5192.5
+Uttarakhand,Tea,2017,5607.5
+Uttarakhand,Tea,2018,5693.5
+Uttarakhand,Tea,2019,6254.8
+Uttarakhand,Tea,2020,6976.8
+Uttarakhand,Tea,2021,5239.8
+Uttarakhand,Tea,2022,6536.5
+Uttarakhand,Tea,2023,6212.3
+Uttarakhand,Tea,2024,5817.2
+Uttarakhand,Tea,2025,5427.2
+Uttarakhand,Groundnut,2010,1975.4
+Uttarakhand,Groundnut,2011,1872.7
+Uttarakhand,Groundnut,2012,1657.4
+Uttarakhand,Groundnut,2013,2035.1
+Uttarakhand,Groundnut,2014,1848.0
+Uttarakhand,Groundnut,2015,2173.8
+Uttarakhand,Groundnut,2016,1653.7
+Uttarakhand,Groundnut,2017,1999.8
+Uttarakhand,Groundnut,2018,1818.1
+Uttarakhand,Groundnut,2019,2088.4
+Uttarakhand,Groundnut,2020,1876.8
+Uttarakhand,Groundnut,2021,2035.2
+Uttarakhand,Groundnut,2022,1822.4
+Uttarakhand,Groundnut,2023,2002.0
+Uttarakhand,Groundnut,2024,2169.7
+Uttarakhand,Groundnut,2025,2037.1
+West Bengal,Rice,2010,2949.5
+West Bengal,Rice,2011,2137.7
+West Bengal,Rice,2012,2364.7
+West Bengal,Rice,2013,2563.2
+West Bengal,Rice,2014,2658.5
+West Bengal,Rice,2015,2686.7
+West Bengal,Rice,2016,2664.2
+West Bengal,Rice,2017,2207.6
+West Bengal,Rice,2018,2456.9
+West Bengal,Rice,2019,2232.3
+West Bengal,Rice,2020,2502.9
+West Bengal,Rice,2021,2524.1
+West Bengal,Rice,2022,2405.6
+West Bengal,Rice,2023,2126.3
+West Bengal,Rice,2024,2541.7
+West Bengal,Rice,2025,2313.4
+West Bengal,Wheat,2010,1737.7
+West Bengal,Wheat,2011,1713.9
+West Bengal,Wheat,2012,1310.7
+West Bengal,Wheat,2013,1472.1
+West Bengal,Wheat,2014,1564.1
+West Bengal,Wheat,2015,1483.7
+West Bengal,Wheat,2016,1602.8
+West Bengal,Wheat,2017,1610.5
+West Bengal,Wheat,2018,1765.6
+West Bengal,Wheat,2019,1440.6
+West Bengal,Wheat,2020,1696.8
+West Bengal,Wheat,2021,1314.7
+West Bengal,Wheat,2022,1332.5
+West Bengal,Wheat,2023,1298.7
+West Bengal,Wheat,2024,1740.3
+West Bengal,Wheat,2025,1172.8
+West Bengal,Maize,2010,962.8
+West Bengal,Maize,2011,953.7
+West Bengal,Maize,2012,939.8
+West Bengal,Maize,2013,1000.1
+West Bengal,Maize,2014,745.1
+West Bengal,Maize,2015,806.7
+West Bengal,Maize,2016,855.5
+West Bengal,Maize,2017,919.1
+West Bengal,Maize,2018,738.4
+West Bengal,Maize,2019,992.6
+West Bengal,Maize,2020,880.9
+West Bengal,Maize,2021,974.7
+West Bengal,Maize,2022,858.1
+West Bengal,Maize,2023,855.8
+West Bengal,Maize,2024,724.3
+West Bengal,Maize,2025,875.1
+West Bengal,Sugarcane,2010,14251.7
+West Bengal,Sugarcane,2011,15871.1
+West Bengal,Sugarcane,2012,13748.8
+West Bengal,Sugarcane,2013,15876.4
+West Bengal,Sugarcane,2014,15231.6
+West Bengal,Sugarcane,2015,14602.7
+West Bengal,Sugarcane,2016,15412.9
+West Bengal,Sugarcane,2017,12057.0
+West Bengal,Sugarcane,2018,13475.3
+West Bengal,Sugarcane,2019,12342.0
+West Bengal,Sugarcane,2020,14752.6
+West Bengal,Sugarcane,2021,15340.3
+West Bengal,Sugarcane,2022,17659.7
+West Bengal,Sugarcane,2023,14031.8
+West Bengal,Sugarcane,2024,13679.2
+West Bengal,Sugarcane,2025,12844.1
+West Bengal,Cotton,2010,6761.7
+West Bengal,Cotton,2011,7640.8
+West Bengal,Cotton,2012,7112.8
+West Bengal,Cotton,2013,6461.4
+West Bengal,Cotton,2014,6944.3
+West Bengal,Cotton,2015,6900.4
+West Bengal,Cotton,2016,5623.3
+West Bengal,Cotton,2017,6543.0
+West Bengal,Cotton,2018,5999.0
+West Bengal,Cotton,2019,7547.1
+West Bengal,Cotton,2020,7784.5
+West Bengal,Cotton,2021,6146.4
+West Bengal,Cotton,2022,6131.9
+West Bengal,Cotton,2023,8267.9
+West Bengal,Cotton,2024,6831.8
+West Bengal,Cotton,2025,7092.2
+West Bengal,Pulses,2010,1191.9
+West Bengal,Pulses,2011,988.1
+West Bengal,Pulses,2012,1374.6
+West Bengal,Pulses,2013,1165.4
+West Bengal,Pulses,2014,1239.9
+West Bengal,Pulses,2015,997.7
+West Bengal,Pulses,2016,1185.2
+West Bengal,Pulses,2017,1304.5
+West Bengal,Pulses,2018,1213.0
+West Bengal,Pulses,2019,1187.8
+West Bengal,Pulses,2020,1031.3
+West Bengal,Pulses,2021,1074.9
+West Bengal,Pulses,2022,1323.3
+West Bengal,Pulses,2023,1154.6
+West Bengal,Pulses,2024,1272.6
+West Bengal,Pulses,2025,1158.2
+West Bengal,Soybean,2010,825.7
+West Bengal,Soybean,2011,992.6
+West Bengal,Soybean,2012,960.7
+West Bengal,Soybean,2013,967.3
+West Bengal,Soybean,2014,944.5
+West Bengal,Soybean,2015,1226.6
+West Bengal,Soybean,2016,680.0
+West Bengal,Soybean,2017,1033.5
+West Bengal,Soybean,2018,910.1
+West Bengal,Soybean,2019,923.5
+West Bengal,Soybean,2020,905.1
+West Bengal,Soybean,2021,995.7
+West Bengal,Soybean,2022,951.6
+West Bengal,Soybean,2023,1171.9
+West Bengal,Soybean,2024,1095.9
+West Bengal,Soybean,2025,1002.6
+West Bengal,Potato,2010,456.2
+West Bengal,Potato,2011,575.2
+West Bengal,Potato,2012,461.1
+West Bengal,Potato,2013,444.3
+West Bengal,Potato,2014,430.3
+West Bengal,Potato,2015,406.5
+West Bengal,Potato,2016,616.1
+West Bengal,Potato,2017,533.6
+West Bengal,Potato,2018,519.2
+West Bengal,Potato,2019,405.9
+West Bengal,Potato,2020,582.9
+West Bengal,Potato,2021,560.4
+West Bengal,Potato,2022,513.8
+West Bengal,Potato,2023,524.6
+West Bengal,Potato,2024,399.0
+West Bengal,Potato,2025,472.9
+West Bengal,Tea,2010,5828.3
+West Bengal,Tea,2011,6541.0
+West Bengal,Tea,2012,5282.2
+West Bengal,Tea,2013,5981.0
+West Bengal,Tea,2014,6083.1
+West Bengal,Tea,2015,6884.4
+West Bengal,Tea,2016,5874.8
+West Bengal,Tea,2017,5776.1
+West Bengal,Tea,2018,6656.9
+West Bengal,Tea,2019,6325.7
+West Bengal,Tea,2020,7296.3
+West Bengal,Tea,2021,6922.7
+West Bengal,Tea,2022,6297.9
+West Bengal,Tea,2023,5586.5
+West Bengal,Tea,2024,6557.7
+West Bengal,Tea,2025,5827.1
+West Bengal,Groundnut,2010,1832.3
+West Bengal,Groundnut,2011,1940.0
+West Bengal,Groundnut,2012,1867.7
+West Bengal,Groundnut,2013,1995.1
+West Bengal,Groundnut,2014,2247.6
+West Bengal,Groundnut,2015,2162.8
+West Bengal,Groundnut,2016,1843.8
+West Bengal,Groundnut,2017,1849.6
+West Bengal,Groundnut,2018,1584.9
+West Bengal,Groundnut,2019,1683.6
+West Bengal,Groundnut,2020,2082.3
+West Bengal,Groundnut,2021,1951.1
+West Bengal,Groundnut,2022,1802.5
+West Bengal,Groundnut,2023,1651.1
+West Bengal,Groundnut,2024,1795.9
+West Bengal,Groundnut,2025,1997.0
