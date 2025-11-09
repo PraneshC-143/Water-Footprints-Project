@@ -1,17 +1,69 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+from pathlib import Path
 
 st.set_page_config(layout='wide', page_title='India Water Footprint Dashboard')
 st.title('India Water Footprint — Starter Dashboard')
 
+def _create_sample_csvs(data_dir: Path) -> None:
+    """Create small sample CSVs so the app can run even if real data is missing."""
+    data_dir.mkdir(parents=True, exist_ok=True)
+    (data_dir / "state_monthly_water.csv").write_text(
+        "state,year,month,total_consumption_ML,domestic_ML,agriculture_ML,industrial_ML,population_est\n"
+        "Karnataka,2025,1,123.4,45.6,70.0,7.8,68000000\n"
+    )
+    (data_dir / "crop_water_footprint.csv").write_text(
+        "state,crop,year,water_m3_per_ton\nKarnataka,Rice,2020,2500\n"
+    )
+    (data_dir / "household_survey.csv").write_text(
+        "household_id,state,year,daily_water_liters_per_person,diet_profile,laundry_per_week,showers_per_week,bottled_water_per_week\n"
+        "1,Karnataka,2023,150,Mixed,2,7,1\n"
+    )
+
 @st.cache_data
 def load_data():
-    df_states = pd.read_csv('data/state_monthly_water.csv')
-    df_crops = pd.read_csv('data/crop_water_footprint.csv')
-    df_house = pd.read_csv('data/household_survey.csv')
+    """
+    Load CSVs (prefer ./data/). If missing:
+      - try repo root, or
+      - create minimal sample CSVs (so the UI doesn't crash).
+    Returns: df_states, df_crops, df_house
+    """
+    root = Path(".").resolve()
+    data_dir = root / "data"
+
+    # Preferred paths (data folder)
+    state_path = data_dir / "state_monthly_water.csv"
+    crop_path  = data_dir / "crop_water_footprint.csv"
+    house_path = data_dir / "household_survey.csv"
+
+    # If any missing in data/, check root
+    if not (state_path.exists() and crop_path.exists() and house_path.exists()):
+        alt_state = root / "state_monthly_water.csv"
+        alt_crop  = root / "crop_water_footprint.csv"
+        alt_house = root / "household_survey.csv"
+
+        if alt_state.exists() and alt_crop.exists() and alt_house.exists():
+            state_path, crop_path, house_path = alt_state, alt_crop, alt_house
+        else:
+            # Create sample CSVs so app continues to work
+            _create_sample_csvs(data_dir)
+            state_path = data_dir / "state_monthly_water.csv"
+            crop_path  = data_dir / "crop_water_footprint.csv"
+            house_path = data_dir / "household_survey.csv"
+            st.warning("Some CSVs were missing — created sample data. Please upload full CSVs to the `data/` folder in your repo.")
+
+    # Show where we loaded the files from (helpful in logs)
+    st.info(f"Loading data from:\n • {state_path}\n • {crop_path}\n • {house_path}")
+
+    # Load into DataFrames
+    df_states = pd.read_csv(state_path)
+    df_crops  = pd.read_csv(crop_path)
+    df_house  = pd.read_csv(house_path)
+
     return df_states, df_crops, df_house
 
+# Load data
 df_states, df_crops, df_house = load_data()
 
 # Sidebar controls
